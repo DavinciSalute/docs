@@ -58,6 +58,7 @@ Scopri tutte le funzionalità disponibili sulla piattaforma:
 ## Risorse aggiuntive
 
 - [Piani tariffari](/platform/piani-tariffari)
+- [Q&A (docs)](https://docs.google.com/document/d/1T5vWVRBrgPZSRhcijmXJ_HnoUW61JcWUOke-qbA_Lkg/edit?tab=t.0)
 
 
 

@@ -14,7 +14,7 @@
         "tab": "Docs",
         "groups": [
           {
-            "group": "Panoramica",
+            "group": "Indice",
             "pages": [
               "platform/index"
             ]
@@ -69,9 +69,10 @@
             ]
           },
           {
-            "group": "",
+            "group": "Info extra",
             "pages": [
-              "platform/piani-tariffari"
+              "platform/piani-tariffari",
+              "platform/qa"
             ]
           }
         ]
