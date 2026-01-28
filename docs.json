@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Elty Docs",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,81 +11,77 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Panoramica",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "platform/index"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Pazienti",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "platform/pazienti/ricerca-paziente",
+              "platform/pazienti/panoramica",
+              "platform/pazienti/scheda-paziente",
+              "platform/pazienti/anamnesi",
+              "platform/pazienti/misurazioni",
+              "platform/pazienti/parametri",
+              "platform/pazienti/ricette",
+              "platform/pazienti/certificati",
+              "platform/pazienti/referti",
+              "platform/pazienti/piani-terapeutici",
+              "platform/pazienti/gravidanza"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Funzionalità",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "platform/funzionalita/agenda",
+              "platform/funzionalita/richieste-ricetta",
+              "platform/funzionalita/avvisi-pazienti",
+              "platform/funzionalita/messaggi-chat",
+              "platform/funzionalita/report-statistiche",
+              "platform/funzionalita/pacchetti-prestazioni",
+              "platform/funzionalita/videovisita",
+              "platform/funzionalita/link-utili"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Configurazione",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+              "platform/configurazione/profilo",
+              "platform/configurazione/gestione-servizi",
+              "platform/configurazione/impostazioni-privacy",
+              "platform/configurazione/login-cloud-regionale",
+              "platform/configurazione/bacheca-siss",
+              "platform/configurazione/modalita-sostituto",
+              "platform/configurazione/invita-collega",
+              "platform/configurazione/download-anagrafiche",
+              "platform/configurazione/consigli-utilizzo"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Supporto",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "platform/supporto/errori"
+            ]
+          },
+          {
+            "group": "",
+            "pages": [
+              "platform/piani-tariffari"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logoelty.png",
+    "dark": "/logo/logoelty.png",
+    "href": "/platform/index"
   },
   "navbar": {
     "links": [
