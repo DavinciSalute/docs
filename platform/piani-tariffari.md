@@ -30,6 +30,8 @@
 | Assistenza tecnica dedicata | Sì | Sì | Sì |
 | Portabilità dei dati dal precedente gestionale | Sì | Sì | Sì |
 
+L'abbonamento può essere pagato **con carta** oppure **con bonifico SEPA/IBAN**. Il metodo di pagamento si sceglie e si può modificare nella schermata di gestione dell'abbonamento (dettaglio piano e fatturazione).
+
 Il medico non può modificare metodo di pagamento o disdire l’abbonamento in autonomia.
 
 - Se serve modificare il metodo di pagamento o il rinnovo del pagamento non è andato a buon fine, serve che ci indichi una fascia oraria in cui il medico è disponibile così da essere contattato telefonicamente
