@@ -28,5 +28,6 @@
 
 - Si scrive l’anamnesi nel campo **note interne, per salvare** clicca su **salva**
 - Per inserirla come importante clicca la stellina, per eliminarla clicca il cestino.
+- Per modificare un’anamnesi già inserita, apri la voce e clicca **Modifica** (icona matita), aggiorna il testo e poi **Salva**.
 
 ![Schermata 2026-01-07 alle 14.36.48.png](/images/platform/Schermata_2026-01-07_alle_14.36.48.png)
