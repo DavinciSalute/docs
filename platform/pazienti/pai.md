@@ -305,9 +305,7 @@ Si possono effettuare azioni massive tramite la selezione multipla
 
 ![Screenshot 2025-09-17 17.28.20 (1).png](/images/platform/pai/5ab23770-474c-45d6-95d5-5887fd639d6f.png)
 
-<video controls style="width: 100%; border-radius: 12px;">
-  <source src="/images/platform/pai/Screen_recording_2025-09-17_15.53.51.webm" type="video/webm">
-</video>
+*Video:* [Screen recording 2025-09-17 15.53.51](/images/platform/pai/Screen_recording_2025-09-17_15.53.51.webm)
 
 All'interno della scheda paziente è presente un breve riepilogo sullo stato del PAI e sul suo livello di completamento.
 
@@ -315,9 +313,7 @@ Il principale vantaggio di utilizzare lo stesso strumento sia come cartella clin
 
 La % di completamento presente in scheda paziente e nella sezione PAI indica soltanto se è stato inserito almeno un elemento relativo a quell'area specifica, obbligatoria per la creazione e pubblicazione del PAI. 
 
-<video controls style="width: 100%; border-radius: 12px;">
-  <source src="/images/platform/pai/Screen_recording_2025-09-17_15.49.20.webm" type="video/webm">
-</video>
+*Video:* [Screen recording 2025-09-17 15.49.20](/images/platform/pai/Screen_recording_2025-09-17_15.49.20.webm)
 
 Sezione PAI, puoi:
 
