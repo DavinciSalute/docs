@@ -60,6 +60,7 @@
               "platform/configurazione/modalita-sostituto",
               "platform/configurazione/invita-collega",
               "platform/configurazione/download-anagrafiche",
+              "platform/configurazione/davinci-connector-stampa",
               "platform/configurazione/consigli-utilizzo"
             ]
           },
