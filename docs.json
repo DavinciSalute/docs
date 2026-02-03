@@ -32,6 +32,7 @@
               "platform/pazienti/certificati",
               "platform/pazienti/referti",
               "platform/pazienti/piani-terapeutici",
+              "platform/pazienti/pai",
               "platform/pazienti/gravidanza"
             ]
           },
