@@ -37,6 +37,7 @@ Mac Intel
 - Serve per stampare le ricette (prescrizioni)
 - Se sei connesso con Smart card permette il collegamento al SISS
 - Se sei connesso con firma remota permette solo la stampa delle ricette
+- Se clicchi “Login Cloud Regionale” e hai inserito la Smart card, allora ti connetterai al cloud regionale (firma remota) cliccando il certificato corretto e quindi non ti connetterai tramite Davinci Connector
 - **Imposta** → Permette di scegliere la stampante
 - **Configura** → Permette di modificare le proprietà di stampa (orizzontale, verticale, A4, A5 ecc.)
 
@@ -56,4 +57,4 @@ Le quattro tipologie di esenzioni da reddito a livello nazionale sono:
 Info sui profili:
 
 - L’unica tipologia di profilo che può elaborare le ricette è il profilo medico. Se un profilo di segreteria o infermeria ha errori come “Qualcosa è andato storto”, si possono escludere tutte le motivazioni legate alla prescrizione e alla connessione con il sistema regionale.
-- Infermeria e segreteria non si connettono mai al sistema regionale.
+- Infermeria, segreteria e prenotatori non si connettono mai al sistema regionale.

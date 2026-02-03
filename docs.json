@@ -65,7 +65,8 @@
           {
             "group": "Supporto",
             "pages": [
-              "platform/supporto/errori"
+              "platform/supporto/errori",
+              "platform/supporto/privacy"
             ]
           },
           {
