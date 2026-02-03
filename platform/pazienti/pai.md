@@ -8,7 +8,7 @@
     - **Vaccinazioni** (non obbligatorie)
 - Ogni **ATS** ha un elenco di patologie ammesse come **primarie** → se esce un errore, spesso questo si risolve cambiando la patologia primaria.
 
----
+***
 
 - Sezione PAI in scheda paziente:
     - **Stato del PAI**
@@ -23,7 +23,7 @@
     - "prescrivi primo lotto / secondo lotto / tutto"
     - Importante aiutare il medico a ricordare se le ricette sono state già emesse.
 
----
+***
 
 ### **Sezione globale PAI**
 
@@ -37,7 +37,7 @@
 - Qui si fa il lavoro operativo sul singolo:
     - arruolamento / crea PAI / pubblica / rinnova / modifica / scarica / importa / ricette
 
----
+***
 
 ## Arruolamento (presa in carico)
 
@@ -53,7 +53,7 @@
     - precompilati con **nome/cognome medico** e **nome/cognome paziente**.
 - Anche dopo, i patti di cura dovrebbero essere recuperabili dai **"tre puntini"** (menu azioni).
 
----
+***
 
 ## "Crea PAI" e precompilazione
 
@@ -81,7 +81,7 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 - **Prestazioni**
 - **Farmaci**
 
----
+***
 
 ## Prestazioni: regole chiave in webapp
 
@@ -100,7 +100,7 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 
 - Consiglio: usare i **pacchetti prestazioni** (pensati anche "principalmente per i PAI", oltre che per ricette).
 
----
+***
 
 ## Pubblicazione PAI (FSE) e cosa succede subito dopo
 
@@ -121,7 +121,7 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
     - se manca email/contatti paziente → non viene inviato nulla
     - Verrà introdotto un **popup per inserire email/contatto** se mancante (chiedere al medico al momento dell'invio)
 
----
+***
 
 ## Ricette dal PAI (post-pubblicazione)
 
@@ -152,7 +152,7 @@ Quando clicchi "prescrivi ricette":
     2. prestazioni prenotate
     3. prestazioni effettuate
 
----
+***
 
 ## Alert di modifiche post-pubblicazione
 
@@ -173,7 +173,7 @@ Se dopo la pubblicazione cambi dati in scheda paziente:
 - Oggi: email paziente inviata **solo** su pubblicazione/rinnovo, **non** su modifica.
 - In app: si aggiorna, ma il paziente potrebbe non accorgersene.
 
----
+***
 
 ## Scarica PAI da FSE (singolo) + Azioni (tre puntini)
 
@@ -187,7 +187,7 @@ Da scheda paziente → sezione PAI:
     - **Prescrivi ricette**
     - Recupero **patti di cura** (se arruolato)
 
----
+***
 
 ## Importa dati in scheda paziente (strutturato)
 
@@ -202,7 +202,7 @@ Dopo "Importa dati":
     - Da Regione arrivano come **principi attivi** (non nome commerciale/posologia)
     - Quindi import farmaci è meno utile → se serve, va fatto manualmente.
 
----
+***
 
 ## Funzioni massive (solo con firma in cloud)
 
@@ -233,7 +233,7 @@ Pulsante: **"Verifica PAI da FSE"**
 - Crea **bozze di rinnovo** per velocizzare:
     - apri bozza → eventuale modifica → pubblichi → passi alla successiva
 
----
+***
 
 ## Ruoli cooperativa / attivazione medici (**Horus Medica** vs IML)
 
@@ -254,7 +254,7 @@ Casi e relative situazioni:
 - Altre cooperative: devono disarruolare i PAI dagli altri gestionali e poi rifare i PAI annullati in Elty
 - Nessuna cooperativa precedete ad **Horus Medica**: non bisogna disarruolare nessun paziente, si può procedere direttamente in Elty
 
----
+***
 
 ## Portale prenotazioni **Horus Medica** (operator portal)
 
@@ -262,7 +262,7 @@ Casi e relative situazioni:
     - accesso con **firma remota + OTP telefono**
     - Ci pensano i componenti di **Horus Medica**
 
----
+***
 
 ## Introduzione al PAI
 
