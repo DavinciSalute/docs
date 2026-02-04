@@ -1,5 +1,5 @@
 ---
-title: "pazienti"
+title: "Pazienti"
 ---
 
 # Pazienti
