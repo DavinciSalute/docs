@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "Elty Docs",
   "colors": {
-    "primary": "#2563EB",
-    "light": "#0BBCA7",
+    "primary": "#0BBCA7",
+    "light": "#2563EB",
     "dark": "#0F285E"
   },
   "favicon": "/favicon.svg",
