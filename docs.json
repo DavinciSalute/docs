@@ -36,9 +36,10 @@
           {
             "group": "Pazienti",
             "pages": [
-              "platform/configurazione/consigli-utilizzo",
-              "platform/pazienti/ricerca-paziente",
               "platform/pazienti/panoramica",
+              "platform/pazienti/ricerca-paziente",
+              "platform/pazienti/download-anagrafiche",
+              "platform/configurazione/consigli-utilizzo",
               "platform/pazienti/scheda-paziente",
               "platform/pazienti/anamnesi",
               "platform/pazienti/misurazioni",

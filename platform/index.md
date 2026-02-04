@@ -18,7 +18,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 - [Panoramica pazienti](/platform/pazienti/panoramica) --\> Pazienti
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
-- [Download anagrafiche pazienti](/platform/configurazione/download-anagrafiche) --\> Guida al download delle anagrafiche pazienti
+- [Download anagrafiche pazienti](/platform/pazienti/download-anagrafiche) --\> Guida al download delle anagrafiche pazienti
 
 ## Connect:
 
