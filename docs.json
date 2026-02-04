@@ -23,15 +23,15 @@
           {
             "group": "Impostazioni",
             "pages": [
-              "platform/configurazione/profilo",
-              "platform/configurazione/gestione-servizi",
-              "platform/configurazione/modalita-sostituto",
-              "platform/funzionalita/report-statistiche",
-              "platform/configurazione/impostazioni-privacy",
-              "platform/configurazione/bacheca-siss",
-              "platform/configurazione/login-cloud-regionale",
-              "platform/funzionalita/link-utili",
-              "platform/configurazione/invita-collega"
+              "platform/impostazioni/profilo",
+              "platform/impostazioni/gestione-servizi",
+              "platform/impostazioni/modalita-sostituto",
+              "platform/impostazioni/report-statistiche",
+              "platform/impostazioni/impostazioni-privacy",
+              "platform/impostazioni/bacheca-siss",
+              "platform/impostazioni/login-cloud-regionale",
+              "platform/impostazioni/link-utili",
+              "platform/impostazioni/invita-collega"
             ]
           },
           {
