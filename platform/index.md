@@ -1,5 +1,5 @@
 ---
-title: "Guida ad Elty Davinci"
+
 sidebarTitle: "Guida ad Elty Davinci"
 ---
 
