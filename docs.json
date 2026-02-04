@@ -83,15 +83,15 @@
     ]
   },
   "logo": {
-    "light": "/logo/logoelty.png",
-    "dark": "/logo/logoelty.png",
+    "light": "/logo/logoelty.svg",
+    "dark": "/logo/logoelty.svg",
     "href": "/platform/index"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:g.ratti@davinci.care"
       }
     ],
     "primary": {
