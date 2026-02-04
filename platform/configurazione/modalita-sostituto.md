@@ -1,22 +1,22 @@
+---
+title: "modalita-medico-sostituto"
+---
+
 # Modalità medico sostituto
 
 - Clicca sul tuo nome e cognome **in alto a destra**.
-    
-    ![Screenshot 2025-04-16 alle 10.56.27.png](/images/platform/Screenshot_2025-04-16_alle_10.56.27.png)
-    
-- Seleziona l’opzione ***“Modalità Medico Sostituto”***.
-    
-    ![Screenshot 2025-04-16 alle 10.56.46.png](/images/platform/Screenshot_2025-04-16_alle_10.56.46.png)
-    
+
+  ![Screenshot 2025-04-16 alle 10.56.27.png](/images/platform/Screenshot_2025-04-16_alle_10.56.27.png)
+- Seleziona l’opzione **_“Modalità Medico Sostituto”_**.
+
+  ![Screenshot 2025-04-16 alle 10.56.46.png](/images/platform/Screenshot_2025-04-16_alle_10.56.46.png)
 - Nella schermata che si apre, seleziona il medico da sostituire cliccando sul **pallino a sinistra del nome** e poi su **“Lavora per lui/lei”.**
-    
-    ![Screenshot 2025-04-16 alle 10.57.05.png](/images/platform/Screenshot_2025-04-16_alle_10.57.05.png)
-    
+
+  ![Screenshot 2025-04-16 alle 10.57.05.png](/images/platform/Screenshot_2025-04-16_alle_10.57.05.png)
 - Una volta impersonificato, potrai utilizzare tutte le funzionalità da medico sostituito.
-    - Per tornare al tuo account clicca su ***“Torna al tuo account”*** in alto a destra
-    
-    ![Screenshot 2025-04-16 alle 10.57.35.png](/images/platform/Screenshot_2025-04-16_alle_10.57.35.png)
-    
+  - Per tornare al tuo account clicca su **_“Torna al tuo account”_** in alto a destra
+
+  ![Screenshot 2025-04-16 alle 10.57.35.png](/images/platform/Screenshot_2025-04-16_alle_10.57.35.png)
 
 N.B.: per visualizzare la sezione messaggi del medico che sostituisci serve che il medico che sostituisci abiliti la sezione “**Visualizzazione chat dai colleghi sostituti” in “Gestione Servizi”**
 
