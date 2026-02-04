@@ -1,71 +1,53 @@
-# Guide Elty DaVinci - KB AI
+# Guida ad Elty Davinci
 
-Benvenuto nella documentazione di Elty DaVinci. Questa guida ti aiuterà a utilizzare tutte le funzionalità della piattaforma.
+Benvenuto nella documentazione di Elty Davinci.
 
+## Impostazioni:
 
-
-
-
-## Configurazione
-
-Configura la tua piattaforma e personalizza le impostazioni:
-
-- [Profilo](/platform/configurazione/profilo)
+- [Profilo](/platform/configurazione/profilo) --\> Profilo (impostazioni)
 - [Gestione Servizi](/platform/configurazione/gestione-servizi)
 - [Modalità medico sostituto](/platform/configurazione/modalita-sostituto)
+- [Report e statistiche](/platform/funzionalita/report-statistiche)
 - [Impostazioni e privacy](/platform/configurazione/impostazioni-privacy)
 - [Bacheca SISS (Lombardia)](/platform/configurazione/bacheca-siss)
 - [Login Cloud regionale](/platform/configurazione/login-cloud-regionale)
+- [Link utili](/platform/funzionalita/link-utili)
 - [Invita un collega](/platform/configurazione/invita-collega)
-- [Download anagrafiche pazienti](/platform/configurazione/download-anagrafiche)
-- [Consigli di utilizzo](/platform/configurazione/consigli-utilizzo)
 
 ## Pazienti
 
-Gestisci i tuoi pazienti e le loro cartelle cliniche:
-
+- [Panoramica pazienti](/platform/pazienti/panoramica) --\> Pazienti
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
-- [Panoramica pazienti](/platform/pazienti/panoramica)
-- [Scheda paziente](/platform/pazienti/scheda-paziente)
-- [Anamnesi](/platform/pazienti/anamnesi)
-- [Misurazioni](/platform/pazienti/misurazioni)
-- [Parametri](/platform/pazienti/parametri)
-- [Ricette](/platform/pazienti/ricette)
-- [Certificati](/platform/pazienti/certificati)
-- [Referti](/platform/pazienti/referti)
-- [Piani terapeutici](/platform/pazienti/piani-terapeutici)
-- [Gravidanza](/platform/pazienti/gravidanza)
+- [Download anagrafiche pazienti](/platform/configurazione/download-anagrafiche) --\> Guida al download delle anagrafiche pazienti
 
-## Funzionalità
-
-Scopri tutte le funzionalità disponibili sulla piattaforma:
+## Connect:
 
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
 - [Avvisi ai pazienti](/platform/funzionalita/avvisi-pazienti)
-- [Messaggi chat](/platform/funzionalita/messaggi-chat)
-- [Report e statistiche](/platform/funzionalita/report-statistiche)
-- [Pacchetti prestazioni](/platform/funzionalita/pacchetti-prestazioni)
+- [Referti](/platform/pazienti/referti)
 - [Videovisita](/platform/funzionalita/videovisita)
-- [Link utili](/platform/funzionalita/link-utili)
+- [Messaggi chat](/platform/funzionalita/messaggi-chat)
 
-## Supporto
+## Cartella:
 
+- [Ricette](/platform/pazienti/ricette)
+- [Scheda paziente](/platform/pazienti/scheda-paziente)
+- [Misurazioni](/platform/pazienti/misurazioni)
+- [Parametri](/platform/pazienti/parametri)
+- [Anamnesi](/platform/pazienti/anamnesi)
+- Ricette (scheda paziente) -\> ho paura l'abbia unito a "Ricette"
+- [Certificati](/platform/pazienti/certificati)
+- Referti (scheda paziente) -\> ho paura l'abbia unito a "Referti"
+- [Piani terapeutici](/platform/pazienti/piani-terapeutici)
+- [Gravidanza](/platform/pazienti/gravidanza) -\> Come aggiungere lo stato di gravidanza
+- [Pacchetti prestazioni](/platform/funzionalita/pacchetti-prestazioni) -\> Pacchetti prestazioni personalizzati
+- PAI
+
+## Altro
+
+- Davinci Connector e stampa
 - [Errori Elty](/platform/supporto/errori)
-
----
-
-## Risorse aggiuntive
-
+- [Consigli di utilizzo](/platform/configurazione/consigli-utilizzo)
 - [Piani tariffari](/platform/piani-tariffari)
-- [Q&A (docs)](https://docs.google.com/document/d/1T5vWVRBrgPZSRhcijmXJ_HnoUW61JcWUOke-qbA_Lkg/edit?tab=t.0)
-
-
-
-
-
-
-
-
-
-
+- Privacy
