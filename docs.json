@@ -45,37 +45,37 @@
           {
             "group": "Connect",
             "pages": [
-              "platform/funzionalita/agenda",
-              "platform/funzionalita/richieste-ricetta",
-              "platform/funzionalita/avvisi-pazienti",
-              "platform/funzionalita/videovisita",
-              "platform/funzionalita/messaggi-chat"
+              "platform/connect/agenda",
+              "platform/connect/richieste-ricetta",
+              "platform/connect/avvisi-pazienti",
+              "platform/connect/videovisita",
+              "platform/connect/messaggi-chat"
             ]
           },
           {
             "group": "Cartella",
             "pages": [
-              "platform/pazienti/scheda-paziente",
-              "platform/pazienti/misurazioni",
-              "platform/pazienti/parametri",
-              "platform/pazienti/anamnesi",
-              "platform/pazienti/ricette",
-              "platform/pazienti/certificati",
-              "platform/pazienti/referti",
-              "platform/pazienti/piani-terapeutici",
-              "platform/pazienti/gravidanza",
-              "platform/funzionalita/pacchetti-prestazioni",
-              "platform/pazienti/pai"
+              "platform/cartella/scheda-paziente",
+              "platform/cartella/misurazioni",
+              "platform/cartella/parametri",
+              "platform/cartella/anamnesi",
+              "platform/cartella/ricette",
+              "platform/cartella/certificati",
+              "platform/cartella/referti",
+              "platform/cartella/piani-terapeutici",
+              "platform/cartella/gravidanza",
+              "platform/cartella/pacchetti-prestazioni",
+              "platform/cartella/pai"
             ]
           },
           {
             "group": "Altro",
             "pages": [
               "platform/altro/davinci-connector-stampa",
-              "platform/supporto/errori",
-              "platform/configurazione/consigli-utilizzo",
-              "platform/piani-tariffari",
-              "platform/supporto/privacy"
+              "platform/altro/errori",
+              "platform/altro/consigli-utilizzo",
+              "platform/altro/piani-tariffari",
+              "platform/altro/privacy"
             ]
           }
         ]
