@@ -1,3 +1,8 @@
+---
+title: "Guida ad Elty Davinci"
+sidebarTitle: "Guida ad Elty Davinci"
+---
+
 # Guida ad Elty Davinci
 
 Benvenuto nella documentazione di Elty Davinci.
