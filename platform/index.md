@@ -14,7 +14,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Link utili](/platform/impostazioni/link-utili)
 - [Invita un collega](/platform/impostazioni/invita-collega)
 
-## Pazienti
+## Pazienti:
 
 - [Panoramica pazienti](/platform/pazienti/panoramica) --\> Pazienti
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
@@ -25,13 +25,13 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
-- Referti 
+- Referti
 - [Videovisita](/platform/connect/videovisita)
 - [Messaggi chat](/platform/connect/messaggi-chat)
 
 ## Cartella:
 
-- Ricette 
+- Ricette
 - [Scheda paziente](/platform/cartella/scheda-paziente)
 - [Misurazioni](/platform/cartella/misurazioni)
 - [Parametri](/platform/cartella/parametri)
@@ -44,7 +44,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) -\> Pacchetti prestazioni personalizzati
 - [PAI](/platform/cartella/pai)
 
-## Altro
+## Altro:
 
 - [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa)
 - [Errori Elty](/platform/altro/errori)
