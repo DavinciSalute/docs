@@ -53,7 +53,7 @@
             ]
           },
           {
-            "group": "Funzionalità",
+            "group": "Connect",
             "pages": [
               "platform/funzionalita/agenda",
               "platform/funzionalita/richieste-ricetta",
@@ -64,14 +64,14 @@
             ]
           },
           {
-            "group": "Supporto",
+            "group": "Altro",
             "pages": [
               "platform/supporto/errori",
               "platform/supporto/privacy"
             ]
           },
           {
-            "group": "Info extra",
+            "group": "Cartella",
             "pages": [
               "platform/piani-tariffari",
               "platform/qa"
