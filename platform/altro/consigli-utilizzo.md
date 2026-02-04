@@ -1,13 +1,6 @@
 # Consigli di utilizzo
 
-- Fare il login tramite
-    
-    <aside>
-    ➡️
-    
-     [https://davinci.elty.it/](https://davinci.elty.it/)
-    
-    </aside>
+- Fare il login tramite [https://davinci.elty.it/](https://davinci.elty.it/)
     
 - Aggiungere il collegamento a Elty su Desktop
     - Chrome → Tre puntini in alto a destra → Trasmetti, salva e condividi → Crea scorciatoia
@@ -17,22 +10,19 @@
 
 Scaricare il Davinci Connector
 
-<aside>
-🚨
-
-Windows
+<Warning>
+**Windows**
 
 [https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link](https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link)
 
-Mac Arm
+**Mac Arm**
 
 [https://drive.google.com/file/d/1fNSlHXcLbTqOZItGHuwGY6OGodwCbPwG/view?usp=drive_link](https://drive.google.com/file/d/1fNSlHXcLbTqOZItGHuwGY6OGodwCbPwG/view?usp=drive_link)
 
-Mac Intel
+**Mac Intel**
 
 [https://drive.google.com/file/d/1hrCbtYWVlFst72WVi4IjiHZclVv_DW94/view?usp=drive_link](https://drive.google.com/file/d/1hrCbtYWVlFst72WVi4IjiHZclVv_DW94/view?usp=drive_link)
-
-</aside>
+</Warning>
 
 - Serve per stampare le ricette (prescrizioni)
 - Se sei connesso con Smart card permette il collegamento al SISS

@@ -81,16 +81,13 @@ Come selezionare la stampante dal Davinci Connector:
 - Oltre la configurazione base, le ricette rosse (modulo SSN) hanno la possibilità di configurare i margini di stampa, ovvero la distanza della stampa rispetto al bordo carta. Esse possono essere sia positive (per allontanarsi dal bordo) che negative (per avvicinarsi al bordo o oltre).
 - Le ricette rosse vengono di default generate in formato A5 con orientamento verticale: si lascia la possibilità di selezionare comunque il formato di carta e l'orientamento di stampa solo in caso la stampante non riesca a posizionare la ricetta nell'orientamento giusto dettato dal PDF.
 
-<aside>
-📌
-
+<Note>
 *Si raccomanda di iniziare la configurazione con un **formato di carta A5 e orientamento verticale**.* 
 
 *In caso la stampa risulti ruotata rispetto al foglio, per determinare la giusta configurazione, si può tentare selezionando il formato di carta A4 e facendo due test, sia con orientamento orizzontale che verticale.* 
 
 *Una volta sistemato l'orientamento si può passare a correggere lo scostamento rispetto ai margini.*
-
-</aside>
+</Note>
 
 ### Come stampare in A5
 
@@ -120,16 +117,13 @@ Come selezionare la stampante dal Davinci Connector:
 - Il PDF generato varia in base all'impostazioni del formato di carta selezionato se lo stesso è A4 o A5, altrimenti verranno generati in A4 e sarà poi compito della stampante riportarle al formato richiesto.
 - In caso di A5 le ricette verranno generate con orientamento orizzontale, altrimenti verticale.
 
-<aside>
-📌
-
+<Note>
 *Si raccomanda di iniziare la configurazione con un **formato di carta A4/verticale o A5/verticale**.* 
 
 *Il formato di carta deve necessariamente corrispondere al formato utilizzato.* 
 
 *Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio.*
-
-</aside>
+</Note>
 
 ![Untitled](/images/platform/davinci-connector/Untitled%205.png)
 
@@ -139,16 +133,13 @@ Come selezionare la stampante dal Davinci Connector:
 - Il PDF generato varia in base all'impostazioni del formato di carta selezionato se lo stesso è A4 o A5, altrimenti verranno generati in A4 e sarà poi compito della stampante riportarle al formato richiesto.
 - In caso di A5 le ricette verranno generate con orientamento orizzontale, altrimenti verticale.
 
-<aside>
-📌
-
+<Note>
 *Si raccomanda di iniziare la configurazione con un **formato di carta A4/verticale o A5/verticale**.* 
 
 *Il formato di carta deve necessariamente corrispondere al formato utilizzato.* 
 
 *Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio.*
-
-</aside>
+</Note>
 
 - ***NOTA BENE: l'orientamento del PDF generato non è direttamente correlato all'orientamento di stampa***
 

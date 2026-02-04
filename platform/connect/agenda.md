@@ -156,10 +156,10 @@ Ricordiamo che i pazienti non potranno pianificare una prenotazione negli slot �
     ![19..png](/images/platform/agenda/19..png)
     
 
-<aside>
-💡 Ad ogni prenotazione inserita dal medico o dal personale di studio il paziente riceverà un SMS di avvenuta prenotazione e un SMS/email di promemoria 24h prima dell’appuntamento.
+<Tip>
+Ad ogni prenotazione inserita dal medico o dal personale di studio il paziente riceverà un SMS di avvenuta prenotazione e un SMS/email di promemoria 24h prima dell’appuntamento.
 
-</aside>
+</Tip>
 
 - Se si decide di pianificare una prenotazione o evento direttamente in agenda, ***si può cliccare la cella in cui si vuol inserire l’appuntamento***
     

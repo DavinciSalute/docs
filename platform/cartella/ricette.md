@@ -199,14 +199,12 @@ title: "ricette-scheda"
     - **Numero ricetta bianca elettronica**
   - **Solo uno dei due campi può essere compilato**
 
-<aside>
-  ⚠️
+<Warning>
+Quando stampi da Davinci Connector le opzioni sono queste:
 
-  Quando stampi da Davinci Connector le opzioni sono queste:
+Modulo ssn → rosse cartacee
 
-  Modulo ssn → rosse cartacee
+Ricettario personale → bianche cartacee
 
-  Ricettario personale → bianche cartacee
-
-  Promemoria dem → dematerializzate
-</aside>
+Promemoria dem → dematerializzate
+</Warning>

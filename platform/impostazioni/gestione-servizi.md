@@ -180,68 +180,47 @@ Per abilitarla si dovrà spuntare l’apposita casella in corrispondenza di “*
     
     Prima della richiesta di visita ambulatoriale:
     
-    <aside>
-    📄
-    
-    Specificare nella descrizione il motivo della richiesta di visita (es. mal di testa) - Se più persone desiderano essere visitate contemporaneamente con lo stesso appuntamento (es. moglie e marito che vogliano entrambi essere visitati) sono pregate di specificarlo in fase di prenotazione nella descrizione insieme al motivo della visita. Grazie.
-    
-    </aside>
+<Info>
+Specificare nella descrizione il motivo della richiesta di visita (es. mal di testa) - Se più persone desiderano essere visitate contemporaneamente con lo stesso appuntamento (es. moglie e marito che vogliano entrambi essere visitati) sono pregate di specificarlo in fase di prenotazione nella descrizione insieme al motivo della visita. Grazie.
+</Info>
     
     Alla conferma della richiesta di visita ambulatoriale:
     
-    <aside>
-    📄
-    
-    Gentile paziente, si raccomanda la puntualità per permettere il normale svolgimento dell'ambulatorio. Si precisa che i tempi di attesa rispetto all'orario previsto potranno variare in base alle necessità cliniche dei pazienti precedenti.
-    
-    </aside>
+<Info>
+Gentile paziente, si raccomanda la puntualità per permettere il normale svolgimento dell'ambulatorio. Si precisa che i tempi di attesa rispetto all'orario previsto potranno variare in base alle necessità cliniche dei pazienti precedenti.
+</Info>
     
     Prima delle richieste ricette:
     
     Richieste continuative:
     
-    <aside>
-    📄
-    
-    Inviare esclusivamente richieste di farmaci in terapia continuativa o esami di routine per patologie croniche note al medico. Per tutte le altre richieste è necessario portare in visione la relativa documentazione specialistica. Grazie.
-    
-    </aside>
+<Info>
+Inviare esclusivamente richieste di farmaci in terapia continuativa o esami di routine per patologie croniche note al medico. Per tutte le altre richieste è necessario portare in visione la relativa documentazione specialistica. Grazie.
+</Info>
     
     Richieste ordinarie:
     
-    <aside>
-    📄
-    
-    Gentile paziente, si prega di specificare il nome del farmaco e il numero di scatole. Grazie.
-    
-    </aside>
+<Info>
+Gentile paziente, si prega di specificare il nome del farmaco e il numero di scatole. Grazie.
+</Info>
     
     Alla conferma della richiesta:
     
-    <aside>
-    📄
-    
-    Gentile paziente ho ricevuto la sua richiesta. Si ricordi che le richieste verranno evase generalmente entro 24\48 ore (esclusi festivi e prefestivi). Grazie.
-    
-    </aside>
+<Info>
+Gentile paziente ho ricevuto la sua richiesta. Si ricordi che le richieste verranno evase generalmente entro 24\48 ore (esclusi festivi e prefestivi). Grazie.
+</Info>
     
     Invio referto:
     
-    <aside>
-    📄
-    
-    Gentile paziente, la prego di inviare i referti in formato leggibile e preferibilmente in formato PDF. Grazie.
-    
-    </aside>
+<Info>
+Gentile paziente, la prego di inviare i referti in formato leggibile e preferibilmente in formato PDF. Grazie.
+</Info>
     
     Alla conferma della richiesta:
     
-    <aside>
-    📄
-    
-    Gentile paziente ho ricevuto il suo referto. Si ricordi che le richieste verranno evase generalmente entro 24\48 ore (esclusi festivi e prefestivi). Grazie.
-    
-    </aside>
+<Info>
+Gentile paziente ho ricevuto il suo referto. Si ricordi che le richieste verranno evase generalmente entro 24\48 ore (esclusi festivi e prefestivi). Grazie.
+</Info>
     
 
 ### 10. Gruppo di lavoro

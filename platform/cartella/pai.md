@@ -278,12 +278,9 @@ Questo perché la cooperativa ricopre anche una funzione fondamentale: quella di
 
 ## Termini e requisiti per fare PAI con noi
 
-<aside>
-🗣️
-
+<Info>
 Documento con i termini e requisiti per i medici: https://drive.google.com/file/d/1GQy-8OTWh5mv-lqCdTLhTMVN4zqIJ8pO/view
-
-</aside>
+</Info>
 
 ## Prodotto
 

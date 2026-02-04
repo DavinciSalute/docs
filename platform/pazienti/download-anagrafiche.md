@@ -183,7 +183,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
 SELECT p.nome,p.cognome,p.datanasc data_nascita,p.comunasc Comune_nascita,p.codfiscale codice_fiscale,n.resid_indi Indirizzo_residenza,n.comu_resid As Comune_Residenza,n.email As Email,n.tel_cell Cellulare FROM v_pazienti p INNER JOIN nos_002 n ON p.codice=n.codice Order by p.cognome,p.nome
 </Info>
     
-![Screenshot 2025-01-24 alle 11.28.56.png](/images/platform/download-anagrafiche/Screenshot_2025-01-24_alle_11.28.56.png)
+    ![Screenshot 2025-01-24 alle 11.28.56.png](/images/platform/download-anagrafiche/Screenshot_2025-01-24_alle_11.28.56.png)
     
 - Cliccare su Avanti
     

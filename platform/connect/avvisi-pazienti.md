@@ -1,13 +1,11 @@
 # Avvisi ai pazienti
 
-<aside>
-⚠️
-
+<Warning>
 Attualmente si possono mandare al massimo 2500 SMS al mese
 
 - Superato il limite si possono comunque inviare avvisi tramite Email e App
 - Gli SMS si azzerano il primo del mese (quindi se ne potranno inviare ancora 2500)
-</aside>
+</Warning>
 
 - Potete accedere alla funzione “*Avvisi ai pazienti*” cliccando all’interno della **Home** (se non riuscite a raggiungere la home basterà cliccare il logo Elty DaVinci in alto a sinistra o andare all’indirizzo davinci.elty.it)
 
