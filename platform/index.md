@@ -4,15 +4,15 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni:
 
-- [Profilo](/platform/configurazione/profilo) --\> Profilo (impostazioni)
-- [Gestione Servizi](/platform/configurazione/gestione-servizi)
-- [Modalità medico sostituto](/platform/configurazione/modalita-sostituto)
-- [Report e statistiche](/platform/funzionalita/report-statistiche)
-- [Impostazioni e privacy](/platform/configurazione/impostazioni-privacy)
-- [Bacheca SISS (Lombardia)](/platform/configurazione/bacheca-siss)
-- [Login Cloud regionale](/platform/configurazione/login-cloud-regionale)
-- [Link utili](/platform/funzionalita/link-utili)
-- [Invita un collega](/platform/configurazione/invita-collega)
+- [Profilo](/platform/impostazioni/profilo) --\> Profilo (impostazioni)
+- [Gestione Servizi](/platform/impostazioni/gestione-servizi)
+- [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
+- [Report e statistiche](/platform/impostazioni/report-statistiche)
+- [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
+- [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss)
+- [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale)
+- [Link utili](/platform/impostazioni/link-utili)
+- [Invita un collega](/platform/impostazioni/invita-collega)
 
 ## Pazienti
 
@@ -24,30 +24,30 @@ Benvenuto nella documentazione di Elty Davinci.
 
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
-- [Avvisi ai pazienti](/platform/funzionalita/avvisi-pazienti)
-- [Referti](/platform/pazienti/referti)
-- [Videovisita](/platform/funzionalita/videovisita)
-- [Messaggi chat](/platform/funzionalita/messaggi-chat)
+- [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
+- Referti 
+- [Videovisita](/platform/connect/videovisita)
+- [Messaggi chat](/platform/connect/messaggi-chat)
 
 ## Cartella:
 
-- [Ricette](/platform/pazienti/ricette)
-- [Scheda paziente](/platform/pazienti/scheda-paziente)
-- [Misurazioni](/platform/pazienti/misurazioni)
-- [Parametri](/platform/pazienti/parametri)
-- [Anamnesi](/platform/pazienti/anamnesi)
-- Ricette (scheda paziente) -\> ho paura l'abbia unito a "Ricette"
-- [Certificati](/platform/pazienti/certificati)
-- Referti (scheda paziente) -\> ho paura l'abbia unito a "Referti"
-- [Piani terapeutici](/platform/pazienti/piani-terapeutici)
-- [Gravidanza](/platform/pazienti/gravidanza) -\> Come aggiungere lo stato di gravidanza
-- [Pacchetti prestazioni](/platform/funzionalita/pacchetti-prestazioni) -\> Pacchetti prestazioni personalizzati
-- PAI
+- Ricette 
+- [Scheda paziente](/platform/cartella/scheda-paziente)
+- [Misurazioni](/platform/cartella/misurazioni)
+- [Parametri](/platform/cartella/parametri)
+- [Anamnesi](/platform/cartella/anamnesi)
+- [Ricette](/platform/cartella/ricette) (scheda paziente) -\> manca "Ricette"
+- [Certificati](/platform/cartella/certificati)
+- [Referti](/platform/cartella/referti) (scheda paziente) -\> manca Referti connect
+- [Piani terapeutici](/platform/cartella/piani-terapeutici)
+- [Gravidanza](/platform/cartella/gravidanza) -\> Come aggiungere lo stato di gravidanza
+- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) -\> Pacchetti prestazioni personalizzati
+- [PAI](/platform/cartella/pai)
 
 ## Altro
 
-- Davinci Connector e stampa
-- [Errori Elty](/platform/supporto/errori)
-- [Consigli di utilizzo](/platform/configurazione/consigli-utilizzo)
-- [Piani tariffari](/platform/piani-tariffari)
-- Privacy
+- [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa)
+- [Errori Elty](/platform/altro/errori)
+- [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
+- [Piani tariffari](/platform/altro/piani-tariffari)
+- [Privacy](/platform/altro/privacy)
