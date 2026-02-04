@@ -1,4 +1,7 @@
-# PAI
+---
+title: "PAI"
+sidebarTitle: "PAI"
+---
 
 - **PAI = Piano Assistenziale Individuale** composto da:
     - **Patologia primaria** (+ eventuali **patologie secondarie** → aumenta "livello/complessità" del PAI)

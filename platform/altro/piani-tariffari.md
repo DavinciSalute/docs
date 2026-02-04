@@ -1,4 +1,7 @@
-# Piani tariffari
+---
+title: "Piani tariffari"
+sidebarTitle: "Piani tariffari"
+---
 
 - **Connect**: comunicazioni medico-paziente (senza lo strumento cartella clinica, non si possono elaborare le ricette).
 - **Smart**: solo strumento cartella clinica, si possono elaborare le ricette ma non si può gestire la comunicazione medico-paziente

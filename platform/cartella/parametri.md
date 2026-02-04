@@ -1,4 +1,7 @@
-# Parametri
+---
+title: "Parametri"
+sidebarTitle: "Parametri"
+---
 
 - Per accedere ai parametri entra all’interno della scheda paziente e clicca “Parametri” a destra di “Misurazioni” e a sinistra di “Anamnesi”
 - Quando usi la funzionalità “**referti AI”** la sezione viene aggiornata automaticamente (attualmente i referti AI sono in manutenzione).

@@ -1,4 +1,7 @@
-# Avvisi ai pazienti
+---
+title: "Avvisi ai pazienti"
+sidebarTitle: "Avvisi ai pazienti"
+---
 
 <Warning>
 Attualmente si possono mandare al massimo 2500 SMS al mese

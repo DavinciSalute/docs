@@ -1,4 +1,7 @@
-# Richieste di ricetta
+---
+title: "Richieste di ricetta"
+sidebarTitle: "Richieste di ricetta"
+---
 
 ***Legenda*** 
 

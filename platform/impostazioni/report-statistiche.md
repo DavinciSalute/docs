@@ -1,4 +1,7 @@
-# Report e statistiche
+---
+title: "Report e statistiche"
+sidebarTitle: "Report e statistiche"
+---
 
 ***Legenda:***
 

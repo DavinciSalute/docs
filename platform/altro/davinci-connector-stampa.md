@@ -1,4 +1,7 @@
-# Davinci Connector e stampa
+---
+title: "Davinci Connector e stampa"
+sidebarTitle: "Davinci Connector e stampa"
+---
 
 ***Legenda:***
 

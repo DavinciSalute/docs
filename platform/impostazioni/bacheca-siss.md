@@ -1,4 +1,7 @@
-# Bacheca SISS (Lombardia)
+---
+title: "Bacheca SISS (Lombardia)"
+sidebarTitle: "Bacheca SISS (Lombardia)"
+---
 
 - Pe accedere a Bacheca SISS bisogna cliccare sul ***tuo nome e cognome in alto a destra e poi*** "***Bacheca SISS***".
     

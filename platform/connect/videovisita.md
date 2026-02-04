@@ -1,4 +1,7 @@
-# Videovisita
+---
+title: "Videovisita"
+sidebarTitle: "Videovisita"
+---
 
 - Dalla pagina principale, clicca su ***“Videovisita”***.
     

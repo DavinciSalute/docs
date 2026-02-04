@@ -1,4 +1,7 @@
-# Link utili
+---
+title: "Link utili"
+sidebarTitle: "Link utili"
+---
 
 ![image.png](/images/platform/link-utili/image.png)
 

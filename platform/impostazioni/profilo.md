@@ -1,4 +1,7 @@
-# Profilo (impostazioni)
+---
+title: "Profilo (impostazioni)"
+sidebarTitle: "Profilo (impostazioni)"
+---
 
 ***Legenda:***
 

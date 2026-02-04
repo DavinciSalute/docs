@@ -1,4 +1,7 @@
-# Login Cloud regionale
+---
+title: "Login Cloud regionale"
+sidebarTitle: "Login Cloud regionale"
+---
 
 - Per accedere al cloud regionale e procedere con l’elaborazione delle ricette, bisogna cliccare sul tuo nome e cognome (in alto a destra) e poi ***“Login Cloud regionale”***.
     

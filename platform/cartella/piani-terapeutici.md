@@ -1,4 +1,7 @@
-# Piani terapeutici
+---
+title: "Piani terapeutici"
+sidebarTitle: "Piani terapeutici"
+---
 
 - Dalla sezione Piani Terapeutici puoi gestire tutti i piani terapeutici del paziente (quello attivo e quelli scaduti).
     

@@ -1,4 +1,7 @@
-# Gestione Servizi
+---
+title: "Gestione Servizi"
+sidebarTitle: "Gestione Servizi"
+---
 
 ***Legenda*** 
 

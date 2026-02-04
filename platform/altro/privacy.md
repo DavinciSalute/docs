@@ -1,4 +1,7 @@
-# Privacy
+---
+title: "Privacy"
+sidebarTitle: "Privacy"
+---
 
 Di seguito alcune risposte rapide alle domande più comuni sulla privacy.
 

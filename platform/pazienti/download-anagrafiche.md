@@ -1,4 +1,7 @@
-# Guida al download delle anagrafiche pazienti
+---
+title: "Guida al download delle anagrafiche pazienti"
+sidebarTitle: "Guida download anagrafiche"
+---
 
 ***Legenda:***
 

@@ -1,4 +1,7 @@
-# Impostazioni e privacy
+---
+title: "Impostazioni e privacy"
+sidebarTitle: "Impostazioni e privacy"
+---
 
 ***Legenda*** 
 

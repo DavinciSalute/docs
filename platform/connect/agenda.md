@@ -1,4 +1,7 @@
-# Agenda
+---
+title: "Agenda"
+sidebarTitle: "Agenda"
+---
 
 ***Legenda*** 
 

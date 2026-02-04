@@ -1,4 +1,7 @@
-# Consigli di utilizzo
+---
+title: "Consigli di utilizzo"
+sidebarTitle: "Consigli di utilizzo"
+---
 
 - Fare il login tramite [https://davinci.elty.it/](https://davinci.elty.it/)
     

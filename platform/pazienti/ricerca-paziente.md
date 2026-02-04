@@ -1,4 +1,7 @@
-# Ricerca del paziente
+---
+title: "Ricerca del paziente"
+sidebarTitle: "Ricerca paziente"
+---
 
 Per ricercare un paziente si dovrà cliccare la ***lente di ingrandimento*** presente sulla pagina principale in alto a destra, a sinistra della campanella delle notifiche e a sinistra del tuo nome e cognome
 

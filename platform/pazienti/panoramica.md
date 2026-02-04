@@ -1,8 +1,7 @@
 ---
 title: "Pazienti"
+sidebarTitle: "Pazienti"
 ---
-
-# Pazienti
 
 - Per accedere alla sezione pazienti, clicca **_“Pazienti”_** in alto a sinistra.
 

@@ -1,8 +1,7 @@
 ---
-title: "modalita-medico-sostituto"
+title: "Modalità medico sostituto"
+sidebarTitle: "Modalità medico sostituto"
 ---
-
-# Modalità medico sostituto
 
 - Clicca sul tuo nome e cognome **in alto a destra**.
 

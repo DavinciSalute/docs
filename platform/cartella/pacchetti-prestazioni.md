@@ -1,4 +1,7 @@
-# Pacchetti prestazioni personalizzati
+---
+title: "Pacchetti prestazioni personalizzati"
+sidebarTitle: "Pacchetti prestazioni personalizzati"
+---
 
 - Per creare o modificare dei pacchetti di prestazioni personalizzati clicca all’interno della home “Pacchetti prestazioni personalizzati”
 - All’interno della schermata ci saranno due sezioni:

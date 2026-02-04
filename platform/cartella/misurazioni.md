@@ -1,4 +1,7 @@
-# Misurazioni
+---
+title: "Misurazioni"
+sidebarTitle: "Misurazioni"
+---
 
 - Si possono inserire e visualizzare numerose informazioni relative al paziente:
 - Temperatura corporea 

@@ -1,4 +1,7 @@
-# Scheda paziente
+---
+title: "Scheda paziente"
+sidebarTitle: "Scheda paziente"
+---
 
 ***Legenda*** 
 

@@ -1,8 +1,7 @@
 ---
-title: "referti-scheda"
+title: "Referti (scheda paziente)"
+sidebarTitle: "Referti (scheda paziente)"
 ---
-
-# Referti (scheda pazienti)
 
 <Warning>
   I referti possono essere scaricati da FSE (attualmente non è ancora possibile in Toscana ma sarà possibile con l'FSE 2.0)

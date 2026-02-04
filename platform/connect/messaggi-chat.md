@@ -1,4 +1,7 @@
-# Messaggi chat
+---
+title: "Messaggi chat"
+sidebarTitle: "Messaggi chat"
+---
 
 ***Legenda*** 
 

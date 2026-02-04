@@ -1,4 +1,7 @@
-# Invita un collega
+---
+title: "Invita un collega"
+sidebarTitle: "Invita un collega"
+---
 
 - Clicca sul tuo nome e cognome **in alto a destra**.
     

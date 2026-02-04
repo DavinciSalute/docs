@@ -1,4 +1,7 @@
-# Errori Elty
+---
+title: "Errori Elty"
+sidebarTitle: "Errori Elty"
+---
 
 | **Codice Campo** | **Descrizione Originale SISS** | **Titolo Errore** | **Descrizione Errore** | **Suggerimento Errore (cosa puoi fare?)** | **Contesto Aggiuntivo** |
 | --- | --- | --- | --- | --- | --- |

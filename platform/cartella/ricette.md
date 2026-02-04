@@ -1,8 +1,7 @@
 ---
-title: "ricette-scheda"
+title: "Ricette (scheda paziente)"
+sidebarTitle: "Ricette (scheda paziente)"
 ---
-
-# Ricette (scheda paziente)
 
 **_Legenda_**
 
