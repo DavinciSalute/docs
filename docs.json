@@ -74,8 +74,8 @@
               "platform/altro/davinci-connector-stampa",
               "platform/supporto/errori",
               "platform/configurazione/consigli-utilizzo",
-              "platform/supporto/privacy",
-              "platform/piani-tariffari"
+              "platform/piani-tariffari",
+              "platform/supporto/privacy"
             ]
           }
         ]
