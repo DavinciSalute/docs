@@ -20,8 +20,23 @@
             ]
           },
           {
+            "group": "Impostazioni",
+            "pages": [
+              "platform/configurazione/profilo",
+              "platform/configurazione/gestione-servizi",
+              "platform/configurazione/modalita-sostituto",
+              "platform/funzionalita/report-statistiche",
+              "platform/configurazione/impostazioni-privacy",
+              "platform/configurazione/bacheca-siss",
+              "platform/configurazione/login-cloud-regionale",
+              "platform/funzionalita/link-utili",
+              "platform/configurazione/invita-collega"
+            ]
+          },
+          {
             "group": "Pazienti",
             "pages": [
+              "platform/configurazione/consigli-utilizzo",
               "platform/pazienti/ricerca-paziente",
               "platform/pazienti/panoramica",
               "platform/pazienti/scheda-paziente",
@@ -43,25 +58,8 @@
               "platform/funzionalita/richieste-ricetta",
               "platform/funzionalita/avvisi-pazienti",
               "platform/funzionalita/messaggi-chat",
-              "platform/funzionalita/report-statistiche",
               "platform/funzionalita/pacchetti-prestazioni",
-              "platform/funzionalita/videovisita",
-              "platform/funzionalita/link-utili"
-            ]
-          },
-          {
-            "group": "Impostazioni",
-            "pages": [
-              "platform/configurazione/profilo",
-              "platform/configurazione/gestione-servizi",
-              "platform/configurazione/modalita-sostituto",
-              "platform/configurazione/impostazioni-privacy",
-              "platform/configurazione/login-cloud-regionale",
-              "platform/configurazione/bacheca-siss",
-              "platform/configurazione/invita-collega",
-              "platform/configurazione/download-anagrafiche",
-              "platform/configurazione/davinci-connector-stampa",
-              "platform/configurazione/consigli-utilizzo"
+              "platform/funzionalita/videovisita"
             ]
           },
           {
