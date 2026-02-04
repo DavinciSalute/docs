@@ -16,7 +16,8 @@
           {
             "group": "Indice",
             "pages": [
-              "platform/index"
+              "platform/index",
+              "platform/qa"
             ]
           },
           {
@@ -38,18 +39,7 @@
             "pages": [
               "platform/pazienti/panoramica",
               "platform/pazienti/ricerca-paziente",
-              "platform/pazienti/download-anagrafiche",
-              "platform/configurazione/consigli-utilizzo",
-              "platform/pazienti/scheda-paziente",
-              "platform/pazienti/anamnesi",
-              "platform/pazienti/misurazioni",
-              "platform/pazienti/parametri",
-              "platform/pazienti/ricette",
-              "platform/pazienti/certificati",
-              "platform/pazienti/referti",
-              "platform/pazienti/piani-terapeutici",
-              "platform/pazienti/pai",
-              "platform/pazienti/gravidanza"
+              "platform/pazienti/download-anagrafiche"
             ]
           },
           {
@@ -58,23 +48,34 @@
               "platform/funzionalita/agenda",
               "platform/funzionalita/richieste-ricetta",
               "platform/funzionalita/avvisi-pazienti",
-              "platform/funzionalita/messaggi-chat",
-              "platform/funzionalita/pacchetti-prestazioni",
-              "platform/funzionalita/videovisita"
-            ]
-          },
-          {
-            "group": "Altro",
-            "pages": [
-              "platform/supporto/errori",
-              "platform/supporto/privacy"
+              "platform/funzionalita/videovisita",
+              "platform/funzionalita/messaggi-chat"
             ]
           },
           {
             "group": "Cartella",
             "pages": [
-              "platform/piani-tariffari",
-              "platform/qa"
+              "platform/pazienti/scheda-paziente",
+              "platform/pazienti/misurazioni",
+              "platform/pazienti/parametri",
+              "platform/pazienti/anamnesi",
+              "platform/pazienti/ricette",
+              "platform/pazienti/certificati",
+              "platform/pazienti/referti",
+              "platform/pazienti/piani-terapeutici",
+              "platform/pazienti/gravidanza",
+              "platform/funzionalita/pacchetti-prestazioni",
+              "platform/pazienti/pai"
+            ]
+          },
+          {
+            "group": "Altro",
+            "pages": [
+              "platform/altro/davinci-connector-stampa",
+              "platform/supporto/errori",
+              "platform/configurazione/consigli-utilizzo",
+              "platform/supporto/privacy",
+              "platform/piani-tariffari"
             ]
           }
         ]
