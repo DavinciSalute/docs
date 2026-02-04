@@ -3,8 +3,6 @@ title: "Profilo (impostazioni)"
 sidebarTitle: "Profilo (impostazioni)"
 ---
 
-***Legenda:***
-
 ### ***1. Introduzione***
 
 - Per poter modificare il proprio profilo bisogna cliccare "***Nome utente***" → "***Profilo***"

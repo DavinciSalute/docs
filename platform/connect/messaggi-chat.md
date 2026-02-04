@@ -3,8 +3,6 @@ title: "Messaggi chat"
 sidebarTitle: "Messaggi chat"
 ---
 
-***Legenda*** 
-
 ### 1. Messaggi
 
 - Dalla schermata principale (schermata di Home), clicca su ***“Messaggi” (a destra di “Referti”).***

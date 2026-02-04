@@ -3,8 +3,6 @@ title: "Guida al download delle anagrafiche pazienti"
 sidebarTitle: "Guida download anagrafiche"
 ---
 
-***Legenda:***
-
 ## Introduzione
 
 Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con all'interno alcuni dati dei pazienti: Codice fiscale, nome, cognome, numero di telefono ed email

@@ -3,8 +3,6 @@ title: "Scheda paziente"
 sidebarTitle: "Scheda paziente"
 ---
 
-***Legenda*** 
-
 ### 1. Introduzione
 
 Per aprire la scheda paziente basterà cliccare il nome e cognome di un paziente:

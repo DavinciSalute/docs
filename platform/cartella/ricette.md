@@ -3,8 +3,6 @@ title: "Ricette (scheda paziente)"
 sidebarTitle: "Ricette (scheda paziente)"
 ---
 
-**_Legenda_**
-
 ### 1. Introduzione
 
 - La sezione Ricette in scheda paziente permette di creare ed elaborare le prescrizioni

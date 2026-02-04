@@ -3,8 +3,6 @@ title: "Davinci Connector e stampa"
 sidebarTitle: "Davinci Connector e stampa"
 ---
 
-***Legenda:***
-
 ## Download del Davinci Connector
 
 Il Davinci Connector permette la stampa delle ricette e il collegamento tramite Smart card.

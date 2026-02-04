@@ -3,8 +3,6 @@ title: "Richieste di ricetta"
 sidebarTitle: "Richieste di ricetta"
 ---
 
-***Legenda*** 
-
 ### 1. Introduzione
 
 - Si può accede alle **richieste** di ricetta cliccando “***Richieste***” in alto o “***Richieste di ricetta***” dalla **home**

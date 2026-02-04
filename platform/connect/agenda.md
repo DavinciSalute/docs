@@ -3,8 +3,6 @@ title: "Agenda"
 sidebarTitle: "Agenda"
 ---
 
-***Legenda*** 
-
 ## Profilo medico
 
 ### 1. Introduzione

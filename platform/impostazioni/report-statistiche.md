@@ -3,8 +3,6 @@ title: "Report e statistiche"
 sidebarTitle: "Report e statistiche"
 ---
 
-***Legenda:***
-
 ### Introduzione
 
 - Dalla pagina principale (home, raggiungibile al link [davinci.elty.it](http://davinci.elty.it) oppure cliccando il logo Elty Davinci in alto a sinistra da qualsiasi sezione della webapp), clicca sul tuo nome e cognome in alto a destra e poi su **“Report e Statistiche”.**

@@ -3,8 +3,6 @@ title: "Gestione Servizi"
 sidebarTitle: "Gestione Servizi"
 ---
 
-***Legenda*** 
-
 ### 1. Introduzione
 
 - Per modificare / abilitare i servizi di Elty DaVinci bisogna cliccare sul tuo ***Nome Utente*** (in alto a destra) → “***Gestione Servizi***”.

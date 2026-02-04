@@ -3,8 +3,6 @@ title: "Impostazioni e privacy"
 sidebarTitle: "Impostazioni e privacy"
 ---
 
-***Legenda*** 
-
 ### 1. Introduzione
 
 - Clicca sul tuo **profilo in alto a destra**.
