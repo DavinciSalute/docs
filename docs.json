@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Elty Docs",
   "colors": {
-    "primary": "#0BBCA7",
-    "light": "#2563EB",
-    "dark": "#0F285E"
+    "primary": "#0F285E",
+    "light": "#0BBCA7",
+    "dark": "#2563EB"
   },
   "favicon": "/favicon.svg",
   "navigation": {
