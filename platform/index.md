@@ -7,7 +7,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni:
 
-- [Profilo (impostazioni)](/platform/impostazioni/profilo) 
+- [Profilo (impostazioni)](/platform/impostazioni/profilo)
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi)
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
 - [Report e statistiche](/platform/impostazioni/report-statistiche)
@@ -19,16 +19,16 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Pazienti:
 
-- [Pazienti](/platform/pazienti/panoramica) 
+- [Pazienti](/platform/pazienti/panoramica)
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
-- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche) 
+- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche)
 
 ## Connect:
 
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
-- [Referti] (/platform/connect/referti) 
+- [Referti](/platform/connect/referti)
 - [Videovisita](/platform/connect/videovisita)
 - [Messaggi chat](/platform/connect/messaggi-chat)
 
@@ -39,12 +39,12 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Misurazioni](/platform/cartella/misurazioni)
 - [Parametri](/platform/cartella/parametri)
 - [Anamnesi](/platform/cartella/anamnesi)
-- [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente)  
+- [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente)
 - [Certificati](/platform/cartella/certificati)
-- [Referti](/platform/cartella/referti)  
+- [Referti](/platform/cartella/referti)
 - [Piani terapeutici](/platform/cartella/piani-terapeutici)
-- [Gravidanza](/platform/cartella/gravidanza) 
-- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) 
+- [Gravidanza](/platform/cartella/gravidanza)
+- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni)
 - [PAI](/platform/cartella/pai)
 
 ## Altro:
@@ -53,4 +53,6 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Errori Elty](/platform/altro/errori)
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)
-- [Privacy](/platform/altro/privacy)
+
+Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
+`https://elty.it/informative/webapp/privacy-policy`

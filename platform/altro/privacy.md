@@ -1,6 +1,7 @@
 ---
 title: "Privacy"
 sidebarTitle: "Privacy"
+hidden: true
 ---
 
 Di seguito alcune risposte rapide alle domande più comuni sulla privacy.

@@ -48,9 +48,9 @@
               "platform/connect/agenda",
               "platform/connect/richieste-ricetta",
               "platform/connect/avvisi-pazienti",
+              "platform/connect/referti",
               "platform/connect/videovisita",
-              "platform/connect/messaggi-chat",
-              "platform/connect/referti"
+              "platform/connect/messaggi-chat"
             ]
           },
           {
