@@ -1,6 +1,6 @@
 ---
 title: "Come aggiungere lo stato di gravidanza"
-sidebarTitle: "Aggiungere gravidanza"
+sidebarTitle: "Come aggiungere gravidanza"
 ---
 
 - Per aggiungere lo stato di gravidanza, clicca sulla sezione ***“Pazienti”*** dalla schermata di Home.

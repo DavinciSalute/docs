@@ -1,6 +1,6 @@
 ---
 title: "Guida al download delle anagrafiche pazienti"
-sidebarTitle: "Guida download anagrafiche"
+sidebarTitle: "Guida download anagrafiche pazienti"
 ---
 
 ## Introduzione
