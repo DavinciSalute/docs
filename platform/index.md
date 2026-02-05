@@ -3,12 +3,11 @@ title: "Guida ad Elty Davinci"
 sidebarTitle: "Guida ad Elty Davinci"
 ---
 
-
 Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni:
 
-- [Profilo](/platform/impostazioni/profilo) --\> Profilo (impostazioni)
+- [Profilo (impostazioni)](/platform/impostazioni/profilo) 
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi)
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
 - [Report e statistiche](/platform/impostazioni/report-statistiche)
@@ -20,32 +19,32 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Pazienti:
 
-- [Panoramica pazienti](/platform/pazienti/panoramica) --\> Pazienti
+- [Pazienti](/platform/pazienti/panoramica) 
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
-- [Download anagrafiche pazienti](/platform/pazienti/download-anagrafiche) --\> Guida al download delle anagrafiche pazienti
+- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche) 
 
 ## Connect:
 
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
-- Referti
+- [Referti] (/platform/connect/referti) 
 - [Videovisita](/platform/connect/videovisita)
 - [Messaggi chat](/platform/connect/messaggi-chat)
 
 ## Cartella:
 
-- Ricette
+- [Ricette](/platform/cartella/ricette)
 - [Scheda paziente](/platform/cartella/scheda-paziente)
 - [Misurazioni](/platform/cartella/misurazioni)
 - [Parametri](/platform/cartella/parametri)
 - [Anamnesi](/platform/cartella/anamnesi)
-- [Ricette](/platform/cartella/ricette) (scheda paziente) -\> manca "Ricette"
+- [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente)  
 - [Certificati](/platform/cartella/certificati)
-- [Referti](/platform/cartella/referti) (scheda paziente) -\> manca Referti connect
+- [Referti](/platform/cartella/referti)  
 - [Piani terapeutici](/platform/cartella/piani-terapeutici)
-- [Gravidanza](/platform/cartella/gravidanza) -\> Come aggiungere lo stato di gravidanza
-- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) -\> Pacchetti prestazioni personalizzati
+- [Gravidanza](/platform/cartella/gravidanza) 
+- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) 
 - [PAI](/platform/cartella/pai)
 
 ## Altro:

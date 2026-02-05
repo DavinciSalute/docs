@@ -393,3 +393,43 @@ description: "Concise description explaining page purpose and value"
 - Use **RequestExample/ResponseExample** specifically for API endpoint documentation
 - Use **ParamField** for API parameters, **ResponseField** for API responses
 - Use **Expandable** for nested object properties or hierarchical information
+
+## Elty Docs (repo) conventions
+
+These rules are **repo-specific** and must be followed when creating/updating pages under `platform/**`.
+
+### Required frontmatter (platform pages)
+
+- Every `platform/**` page must include YAML frontmatter with:
+  - `title`
+  - `sidebarTitle`
+
+Example:
+
+```yaml
+---
+title: "Referti"
+sidebarTitle: "Referti"
+---
+```
+
+### Navigation (`docs.json`)
+
+- If you **add** a new page, also add it to `docs.json` under the correct group/tab.
+- Use the page path **without** file extension (e.g. `platform/connect/referti`, not `platform/connect/referti.md`).
+
+### Images (paths + naming)
+
+- Use root-relative paths pointing to the repo `images/` folder:
+  - ✅ `![Alt text](/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.30.59.png)`
+  - ❌ `![...] (images/platform/...)` (relative paths)
+- Keep image filenames stable and **avoid spaces** (prefer `_` or `-`).
+- Alt text should be descriptive (not just the raw filename) when reasonable.
+
+### Notion → Mintlify callouts (no `<aside>`)
+
+- Convert Notion `<aside>` blocks into Mintlify callouts:
+  - Use `<Tip>` for best practices / consigli operativi
+  - Use `<Note>` for vincoli, prerequisiti, limitazioni (es. “valido solo in…”)
+  - Use `<Warning>` for rischi o comportamenti potenzialmente distruttivi
+- Do not leave raw Notion `<aside>` blocks in docs.

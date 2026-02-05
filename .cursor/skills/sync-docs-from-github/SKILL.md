@@ -1,6 +1,6 @@
 ---
 name: sync-docs-from-github
-description: Synchronize Mintlify documentation with recent code changes from GitHub repository qa branch. Use when the user wants to update docs based on recent commits, sync documentation, or mentions updating docs from GitHub, qa branch, or DavinciSalute/davinci repository.
+description: Synchronize Mintlify documentation with recent code changes from GitHub repository master branch. Use when the user wants to update docs based on recent commits, sync documentation, or mentions updating docs from GitHub, qa branch, or DavinciSalute/davinci repository.
 ---
 
 # GitHub → Mintlify Docs Sync Agent

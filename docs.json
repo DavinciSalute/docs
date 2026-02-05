@@ -61,6 +61,7 @@
               "platform/cartella/parametri",
               "platform/cartella/anamnesi",
               "platform/cartella/ricette",
+              "platform/cartella/ricette-scheda-paziente",
               "platform/cartella/certificati",
               "platform/cartella/referti",
               "platform/cartella/piani-terapeutici",
