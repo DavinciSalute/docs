@@ -5,7 +5,7 @@ sidebarTitle: "Guida ad Elty Davinci"
 
 Benvenuto nella documentazione di Elty Davinci.
 
-## Impostazioni:
+## Impostazioni
 
 - [Profilo (impostazioni)](/platform/impostazioni/profilo)
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi)
@@ -17,13 +17,13 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Link utili](/platform/impostazioni/link-utili)
 - [Invita un collega](/platform/impostazioni/invita-collega)
 
-## Pazienti:
+## Pazienti
 
 - [Pazienti](/platform/pazienti/panoramica)
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
 - [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche)
 
-## Connect:
+## Connect
 
 - [Agenda](/platform/funzionalita/agenda)
 - [Richieste di ricetta](/platform/funzionalita/richieste-ricetta)
@@ -32,7 +32,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Videovisita](/platform/connect/videovisita)
 - [Messaggi chat](/platform/connect/messaggi-chat)
 
-## Cartella:
+## Cartella
 
 - [Ricette](/platform/cartella/ricette)
 - [Scheda paziente](/platform/cartella/scheda-paziente)
@@ -47,7 +47,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni)
 - [PAI](/platform/cartella/pai)
 
-## Altro:
+## Altro
 
 - [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa)
 - [Errori Elty](/platform/altro/errori)
