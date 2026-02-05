@@ -54,7 +54,9 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)
 
-<br/><br/>
+<br />
+
+<br />
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
-`https://elty.it/informative/webapp/privacy-policy`
+https://elty.it/informative/webapp/privacy-policy
