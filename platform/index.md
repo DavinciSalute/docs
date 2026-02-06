@@ -9,7 +9,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 - [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi) --\> V
-- [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
+- [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto) --\> V
 - [Report e statistiche](/platform/impostazioni/report-statistiche)
 - [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
 - [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss)
