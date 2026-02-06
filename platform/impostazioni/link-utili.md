@@ -12,9 +12,10 @@ sidebarTitle: "Link utili"
 Cliccando su "Link utili" si aprirà una pagina web dove il Medico potrà trovare una serie di informazioni utili per il proprio lavoro. Si tratta di una selezione completa di **link e strumenti digitali**, suddivisi per funzione e area geografica. Si tratta di risorse certificate e aggiornate, utili per semplificare l'accesso ai servizi sanitari nazionali e regionali, alla gestione clinica, amministrativa e formativa.
 
 <img
-  src="/images/platform/link-utili/image%201.png"
+  src="/images/platform/link-utili/image 1.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 La pagina è composta da:
