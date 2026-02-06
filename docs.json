@@ -17,7 +17,8 @@
             "group": "Indice",
             "pages": [
               "platform/index",
-              "platform/qa"
+              "platform/qa",
+              "platform/altro/privacy"
             ]
           },
           {
@@ -76,8 +77,7 @@
               "platform/altro/davinci-connector-stampa",
               "platform/altro/errori",
               "platform/altro/consigli-utilizzo",
-              "platform/altro/piani-tariffari",
-              "platform/altro/privacy"
+              "platform/altro/piani-tariffari"
             ]
           }
         ]

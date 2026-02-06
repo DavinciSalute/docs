@@ -3,28 +3,30 @@ title: "Consigli di utilizzo"
 sidebarTitle: "Consigli di utilizzo"
 ---
 
-- Fare il login tramite [https://davinci.elty.it/](https://davinci.elty.it/)
-    
+- Fare il login tramite https://davinci.elty.it/
 - Aggiungere il collegamento a Elty su Desktop
-    - Chrome → Tre puntini in alto a destra → Trasmetti, salva e condividi → Crea scorciatoia
-        
-        ![Screenshot 2025-03-04 alle 17.51.59.png](/images/platform/consigli-utilizzo/Screenshot_2025-03-04_alle_17.51.59.png)
-        
+  - Chrome → Tre puntini in alto a destra → Trasmetti, salva e condividi → Crea scorciatoia
+
+<img
+  src="/images/platform/consigli-utilizzo/Screenshot_2025-03-04_alle_17.51.59.png"
+  alt="Screenshot 2025-03-04 alle 17.51.59.png"
+  className="mx-auto"
+/>
 
 Scaricare il Davinci Connector
 
 <Warning>
-**Windows**
+  **Windows**
 
-[https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link](https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link)
+  https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link
 
-**Mac Arm**
+  **Mac Arm**
 
-[https://drive.google.com/file/d/1fNSlHXcLbTqOZItGHuwGY6OGodwCbPwG/view?usp=drive_link](https://drive.google.com/file/d/1fNSlHXcLbTqOZItGHuwGY6OGodwCbPwG/view?usp=drive_link)
+  https://drive.google.com/file/d/1fNSlHXcLbTqOZItGHuwGY6OGodwCbPwG/view?usp=drive_link
 
-**Mac Intel**
+  **Mac Intel**
 
-[https://drive.google.com/file/d/1hrCbtYWVlFst72WVi4IjiHZclVv_DW94/view?usp=drive_link](https://drive.google.com/file/d/1hrCbtYWVlFst72WVi4IjiHZclVv_DW94/view?usp=drive_link)
+  https://drive.google.com/file/d/1hrCbtYWVlFst72WVi4IjiHZclVv_DW94/view?usp=drive_link
 </Warning>
 
 - Serve per stampare le ricette (prescrizioni)
