@@ -8,7 +8,7 @@ Benvenuto nella documentazione di Elty Davinci.
 ## Impostazioni
 
 - [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V
-- [Gestione Servizi](/platform/impostazioni/gestione-servizi)
+- [Gestione Servizi](/platform/impostazioni/gestione-servizi) --\> V
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
 - [Report e statistiche](/platform/impostazioni/report-statistiche)
 - [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
@@ -53,10 +53,6 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Errori Elty](/platform/altro/errori)
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)
-
-<br />
-
-<br />
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
 https://elty.it/informative/webapp/privacy-policy
