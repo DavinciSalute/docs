@@ -10,12 +10,12 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi) --\> V
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto) --\> V
-- [Report e statistiche](/platform/impostazioni/report-statistiche)
-- [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
-- [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss)
-- [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale)
-- [Link utili](/platform/impostazioni/link-utili)
-- [Invita un collega](/platform/impostazioni/invita-collega)
+- [Report e statistiche](/platform/impostazioni/report-statistiche) --\> V
+- [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy) --\> V
+- [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss) --\> V
+- [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale) --\> V
+- [Link utili](/platform/impostazioni/link-utili) --\> Manca 1 foto
+- [Invita un collega](/platform/impostazioni/invita-collega) --\> V
 
 ## Pazienti
 
