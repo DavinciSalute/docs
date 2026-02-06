@@ -17,6 +17,7 @@ Quando si clicca il box di ricerca, si potrà inserire il nome e cognome del paz
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.33.59.png"
   alt="Schermata 2025-12-22 alle 17.33.59.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />
 
 **_A sinistra verranno mostrati gli ultimi risultati di ricerca_** (una cronologia molto utile che permette di vedere i nomi dei pazienti di cui si è vista la scheda paziente recentemente, ad esempio se non ci si ricorda il nome di un paziente visitato qualche ora prima si può ricavare da qui)
@@ -25,6 +26,7 @@ Quando si clicca il box di ricerca, si potrà inserire il nome e cognome del paz
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.35.40.png"
   alt="Schermata 2025-12-22 alle 17.35.40.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />
 
 Sulla parte destra delle schermata troveremo, invece, informazioni più dettagliate relative al paziente cercato (Nome, Cognome, Data di nascita, Medico di cui è assistito e informazioni su App, indirizzo e-mail e numero di telefono)
@@ -33,6 +35,7 @@ Sulla parte destra delle schermata troveremo, invece, informazioni più dettagli
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.35.40_2.png"
   alt="Schermata 2025-12-22 alle 17.35.40 2.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />
 
 Cliccando sul pulsante “**_Scheda paziente_**” verremo reindirizzati alla scheda del paziente con tutte le informazioni di cartella
@@ -41,6 +44,7 @@ Cliccando sul pulsante “**_Scheda paziente_**” verremo reindirizzati alla sc
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.45.23.png"
   alt="Schermata 2025-12-22 alle 17.45.23.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />
 
 Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni più velocemente:
@@ -49,6 +53,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.42.38.png"
   alt="Schermata 2025-12-22 alle 17.42.38.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />
 
 - Pianificazione appuntamento
@@ -57,6 +62,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05.png"
   alt="Schermata 2025-12-22 alle 17.18.05.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 - Nuovo messaggio
@@ -65,6 +71,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05_6.png"
   alt="Schermata 2025-12-22 alle 17.18.05 6.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 - Nuova richiesta farmaco/prestazione
@@ -73,6 +80,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05_2.png"
   alt="Schermata 2025-12-22 alle 17.18.05 2.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 - Nuovo referto
@@ -81,6 +89,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05_7.png"
   alt="Schermata 2025-12-22 alle 17.18.05 7.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 - Nuovo certificato
@@ -89,6 +98,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05_3.png"
   alt="Schermata 2025-12-22 alle 17.18.05 3.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 - Prescrivi ricetta
@@ -97,6 +107,7 @@ Avremo poi **_diverse shortcut_** che permetteranno al Medico di svolgere azioni
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.18.05_5.png"
   alt="Schermata 2025-12-22 alle 17.18.05 5.png"
   className="mx-auto"
+  style={{ width: "40%", maxWidth: "300px" }}
 />
 
 Nel caso in cui il paziente non fosse all’interno della lista pazienti, si può aggiungere cliccando l’apposito tasto “Non trovi il paziente? **_Aggiungilo_**” (in basso a sinistra, sotto la cronologia delle ultime schede pazienti visionate)
@@ -105,4 +116,5 @@ Nel caso in cui il paziente non fosse all’interno della lista pazienti, si pu�
   src="/images/platform/ricerca-paziente/Schermata_2025-12-22_alle_17.26.13.png"
   alt="Schermata 2025-12-22 alle 17.26.13.png"
   className="mx-auto"
+  style={{ width: "70%", maxWidth: "500px" }}
 />

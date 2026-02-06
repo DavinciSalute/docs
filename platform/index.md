@@ -19,7 +19,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Pazienti
 
-- [Pazienti](/platform/pazienti/panoramica)
+- [Pazienti](/platform/pazienti/panoramica) --\> Mancano 3 foto
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente)
 - [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche)
 
