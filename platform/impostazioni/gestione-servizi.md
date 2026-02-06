@@ -375,6 +375,7 @@ Invio referto:
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.48.45.png"
   alt="Schermata 2025-12-18 alle 15.48.45.png"
   className="mx-auto"
+  style={{ width: "60%", maxWidth: "500px" }}
 />
 
 - Cliccando su “**Modifica**” si possono modificare i “**Permessi ruolo**” dei membri del gruppo di lavoro
@@ -385,6 +386,7 @@ Invio referto:
   src="/images/platform/gestione-servizi/Schermata_2025-11-25_alle_15.11.00.png"
   alt="Schermata 2025-11-25 alle 15.11.00.png"
   className="mx-auto"
+  style={{ width: "60%", maxWidth: "500px" }}
 />
 
 ### 11. Importa dati
