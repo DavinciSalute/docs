@@ -56,11 +56,11 @@
           {
             "group": "Cartella",
             "pages": [
+              "platform/cartella/ricette",
               "platform/cartella/scheda-paziente",
               "platform/cartella/misurazioni",
               "platform/cartella/parametri",
               "platform/cartella/anamnesi",
-              "platform/cartella/ricette",
               "platform/cartella/ricette-scheda-paziente",
               "platform/cartella/certificati",
               "platform/cartella/referti",
