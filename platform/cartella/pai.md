@@ -338,24 +338,26 @@ Sezione PAI, puoi:
 - È possibile stampare anche solo un primo set di ricette, verificare quante ricette sul totale sono state stampate e procedere così
 
 <img
-src="/images/platform/pai/image%201.png"
-alt="image.png"
-className="mx-auto"
+  src="/images/platform/pai/image 1.png"
+  alt="image.png"
+  className="mx-auto"
+  title=""
 />
 
 <img
-src="/images/platform/pai/image%202.png"
-alt="image.png"
-className="mx-auto"
+  src="/images/platform/pai/image 2.png"
+  alt="image.png"
+  className="mx-auto"
+  title=""
 />
 
 - Durante l'importazione dei dati è possibile decidere quali dati importare e quali no, per evitare duplicati ed avere tutto sotto controllo.
 - Per quanto riguarda i farmaci sarà possibile importare il principio attivo ma verrà poi chiesta la selezione del farmaco corretto.
 
 <img
-src="/images/platform/pai/Screenshot_2025-09-17_17.23.03_(1).png"
-alt="Screenshot 2025-09-17 17.23.03 (1).png"
-className="mx-auto"
+  src="/images/platform/pai/Screenshot_2025-09-17_17.23.03_(1).png"
+  alt="Screenshot 2025-09-17 17.23.03 (1).png"
+  className="mx-auto"
 />
 
 <img

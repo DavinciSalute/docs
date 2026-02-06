@@ -94,13 +94,14 @@ sidebarTitle: "Pazienti"
   - Pazienti SSN deceduti
   - Pazienti SSN revocati
   - Pazienti in regime privato
-  - Pazienti archiviati 
+  - Pazienti archiviati
 - Il file sarà scaricato in csv, è possibile aprirlo con excel.
 
 <img
-  src="/images/platform/image%206.png"
+  src="/images/platform/image 6.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 - Cliccando **_“Aggiungi Paziente”_**  puoi inserire un nuovo paziente, basterà inserire:
@@ -110,20 +111,22 @@ sidebarTitle: "Pazienti"
   - Regime (es. SSN)
   - Codice Fiscale
   - Numero di telefono
-  - Email 
-- Per invitarlo a scaricare l’app puoi inviare il messaggio pre-impostato o modificarlo e spuntare **_“Invia messaggio al paziente”_**. Ricordati di cliccare **_“Aggiungi paziente”_** alla fine. 
+  - Email
+- Per invitarlo a scaricare l’app puoi inviare il messaggio pre-impostato o modificarlo e spuntare **_“Invia messaggio al paziente”_**. Ricordati di cliccare **_“Aggiungi paziente”_** alla fine.
 - N.B.: il nome, cognome e Codice fiscale non potranno essere modificati in seguito, se hai bisogno di modificarli ci devi avvisare
 
 <img
-  src="/images/platform/image%207.png"
+  src="/images/platform/image 7.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 <img
-  src="/images/platform/image%208.png"
+  src="/images/platform/image 8.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 Casi di importazione massiva dei pazienti:

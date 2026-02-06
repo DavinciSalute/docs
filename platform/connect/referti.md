@@ -6,9 +6,9 @@ sidebarTitle: "Referti"
 - Si può accede alla sezione R**eferti** cliccando "**_Referti_**" in alto (a sinistra di "Messaggi") o cliccando "**_Referti_**" dalla **home**
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.30.59.png"
-alt="Screenshot 2025-04-09 alle 11.30.59.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.30.59.png"
+  alt="Screenshot 2025-04-09 alle 11.30.59.png"
+  className="mx-auto"
 />
 
 - La schermata visualizzata sarà composta da quattro schede:
@@ -18,17 +18,18 @@ className="mx-auto"
 - Archivio dei referti
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.09.png"
-alt="Screenshot 2025-04-09 alle 11.31.09.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.09.png"
+  alt="Screenshot 2025-04-09 alle 11.31.09.png"
+  className="mx-auto"
 />
 
 - Per inserire manualmente un referto bisogna cliccare "**_Nuovo referto_**" in alto a destra.
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.09%201.png"
-alt="Screenshot 2025-04-09 alle 11.31.09.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.09 1.png"
+  alt="Screenshot 2025-04-09 alle 11.31.09.png"
+  className="mx-auto"
+  title=""
 />
 
 - Si inserisce il nome del "**_Paziente_**", si carica il **referto (in allegato),** si inserisce il **nome del referto** e la **data di emissione**, si possono aggiungere anche note interne
@@ -37,25 +38,25 @@ className="mx-auto"
 - N.B.: Il processo di inserimento dei referti si semplifica molto utilizzando un dispositivo con fotocamera integrata (ad esempio un cellulare), in questo modo si potrà caricare direttamente una foto del referto (Elty, essendo una webapp, può essere usata da un qualsiasi dispositivo con accesso ad un browser internet, come ad esempio Google Chrome)
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.47.png"
-alt="Screenshot 2025-04-09 alle 11.31.47.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.47.png"
+  alt="Screenshot 2025-04-09 alle 11.31.47.png"
+  className="mx-auto"
 />
 
 - Quando si inserisce il nome del paziente comparirà una preview con la sua foto profilo e la data di nascita.
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.32.56.png"
-alt="Screenshot 2025-04-09 alle 11.32.56.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.32.56.png"
+  alt="Screenshot 2025-04-09 alle 11.32.56.png"
+  className="mx-auto"
 />
 
 - Dopo aver caricato il referto, cliccare su "**_Conferma_**"
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.33.26.png"
-alt="Screenshot 2025-04-09 alle 11.33.26.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.33.26.png"
+  alt="Screenshot 2025-04-09 alle 11.33.26.png"
+  className="mx-auto"
 />
 
 - Il referto comparirà nella sezione "**_Caricati manualmente_**", per aprirlo basterà cliccare su "**_Visualizza_**" (si apre in una nuova scheda del browser). Per eliminarlo basterà cliccare sui 3 puntini verticali a destra di Visualizza.
@@ -68,9 +69,9 @@ className="mx-auto"
 - Azioni (visualizza ed i tre puntini verticali)
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.33.45.png"
-alt="Screenshot 2025-04-09 alle 11.33.45.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.33.45.png"
+  alt="Screenshot 2025-04-09 alle 11.33.45.png"
+  className="mx-auto"
 />
 
 - I referti caricati dai paziente tramite app compariranno nella sezione "**_Ricevuti da app_**".
@@ -79,9 +80,9 @@ className="mx-auto"
 - I referti caricati manualmente e ricevuti da app possono essere eliminati in qualsiasi momento
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.34.00.png"
-alt="Screenshot 2025-04-09 alle 11.34.00.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.34.00.png"
+  alt="Screenshot 2025-04-09 alle 11.34.00.png"
+  className="mx-auto"
 />
 
 - Dopo aver cliccato "Visualizza" su un qualsiasi referto si aprirà una nuova scheda del browser:
@@ -90,15 +91,15 @@ className="mx-auto"
 - N.B.: La sezione relativa alla trascrizione dei parametri di laboratorio utilizzando l'Intelligenza Artificiale è momentaneamente in manutenzione, gli sviluppatori non ci hanno ancora fornito delle tempistiche
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.02.png"
-alt="Screenshot 2025-04-09 alle 11.35.02.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.02.png"
+  alt="Screenshot 2025-04-09 alle 11.35.02.png"
+  className="mx-auto"
 />
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.13.png"
-alt="Screenshot 2025-04-09 alle 11.35.13.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.13.png"
+  alt="Screenshot 2025-04-09 alle 11.35.13.png"
+  className="mx-auto"
 />
 
 - Per iniziare l'analisi del referto di laboratorio tramite l'intelligenza artificiale cliccate su "Avvia" sopra la preview del referto.
@@ -108,9 +109,9 @@ className="mx-auto"
   </Tip>
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_09.27.00.png"
-alt="Screenshot 2025-03-11 alle 09.27.00.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_09.27.00.png"
+  alt="Screenshot 2025-03-11 alle 09.27.00.png"
+  className="mx-auto"
 />
 
 - Quando la trascrizione sarà terminata, alla destra del documento compariranno:
@@ -125,31 +126,31 @@ className="mx-auto"
 - grigio = N/A
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_09.30.53.png"
-alt="Screenshot 2025-03-11 alle 09.30.53.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_09.30.53.png"
+  alt="Screenshot 2025-03-11 alle 09.30.53.png"
+  className="mx-auto"
 />
 
 - I parametri possono essere aggiunti anche manualmente cliccando il pulsante "**_Aggiungi_**".
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.13_2.png"
-alt="Screenshot 2025-04-09 alle 11.35.13 2.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.35.13_2.png"
+  alt="Screenshot 2025-04-09 alle 11.35.13 2.png"
+  className="mx-auto"
 />
 
 - Cerco il parametro all'interno della casella di testo, per continuare clicco sul tasto "**_Conferma_**"
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.37.00.png"
-alt="Screenshot 2025-04-09 alle 11.37.00.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.37.00.png"
+  alt="Screenshot 2025-04-09 alle 11.37.00.png"
+  className="mx-auto"
 />
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.37.23.png"
-alt="Screenshot 2025-04-09 alle 11.37.23.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.37.23.png"
+  alt="Screenshot 2025-04-09 alle 11.37.23.png"
+  className="mx-auto"
 />
 
 - Sulla destra del documento dovremmo inserire:
@@ -159,9 +160,9 @@ className="mx-auto"
 - unità di misurazione
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.08.56.png"
-alt="Screenshot 2025-03-11 alle 10.08.56.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.08.56.png"
+  alt="Screenshot 2025-03-11 alle 10.08.56.png"
+  className="mx-auto"
 />
 
 - Sezione "**_Gestisci referto_**": in questa sezione possiamo
@@ -173,9 +174,9 @@ className="mx-auto"
 - Condividere delle note con il paziente
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.19.00.png"
-alt="Screenshot 2025-03-11 alle 10.19.00.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.19.00.png"
+  alt="Screenshot 2025-03-11 alle 10.19.00.png"
+  className="mx-auto"
 />
 
 - Cliccando su "Indicazioni follow up" si hanno 4 opzioni di follow up per il paziente:
@@ -185,31 +186,31 @@ className="mx-auto"
 - Altro
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.23.18.png"
-alt="Screenshot 2025-03-11 alle 10.23.18.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.23.18.png"
+  alt="Screenshot 2025-03-11 alle 10.23.18.png"
+  className="mx-auto"
 />
 
 - Nel caso si scegliesse "**_Prenotare un appuntamento_**" oppure "**_Non necessari ulteriori approfondimenti_**" usciranno due messaggi pre impostati (modificabili)
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.31.23.png"
-alt="Screenshot 2025-03-11 alle 10.31.23.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.31.23.png"
+  alt="Screenshot 2025-03-11 alle 10.31.23.png"
+  className="mx-auto"
 />
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.31.37.png"
-alt="Screenshot 2025-03-11 alle 10.31.37.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.31.37.png"
+  alt="Screenshot 2025-03-11 alle 10.31.37.png"
+  className="mx-auto"
 />
 
 - Per concludere, cliccare su "**_Approva ed archivia_**" per spostarlo in archivio (comparirà anche nella sezione "Referti" della scheda paziente) e "**_Download_**" per scaricarlo all'interno del proprio dispositivo (ad esempio per stamparlo)
 
 <img
-src="/images/platform/referti-connect/Screenshot_2025-03-04_alle_10.09.40.png"
-alt="Screenshot 2025-03-04 alle 10.09.40.png"
-className="mx-auto"
+  src="/images/platform/referti-connect/Screenshot_2025-03-04_alle_10.09.40.png"
+  alt="Screenshot 2025-03-04 alle 10.09.40.png"
+  className="mx-auto"
 />
 
 - Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE. Se il referto invece è stato caricato manualmente o inviato tramite app si potrà eliminare cliccando i tre puntini verticali (tasto azione) e selezionando "Elimina" (sia dalla sezione "Referti" generica che dalla sezione "Referti" della scheda paziente).

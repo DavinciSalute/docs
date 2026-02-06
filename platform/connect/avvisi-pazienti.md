@@ -21,9 +21,10 @@ sidebarTitle: "Avvisi ai pazienti"
 - Comparirà una schermata in cui potrete creare un nuovo avviso cliccando “**_Crea nuovo avviso_**”
 
 <img
-  src="/images/platform/avvisi-pazienti/image%201.png"
+  src="/images/platform/avvisi-pazienti/image 1.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 - Il **titolo** non è modificabile, si può inserire un **testo** di 318 caratteri e la **notifica** sarà inviata a tutti i pazienti (i caratteri speciali non sono ammessi) Possono essere aggiunti dei filtri per:
@@ -32,39 +33,39 @@ sidebarTitle: "Avvisi ai pazienti"
 - Patologia (selezionare la patologia e lo stato)
 
 <img
-src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.43.44.png"
-alt="Screenshot 2025-04-10 alle 10.43.44.png"
-className="mx-auto"
+  src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.43.44.png"
+  alt="Screenshot 2025-04-10 alle 10.43.44.png"
+  className="mx-auto"
 />
 
 - **L’avviso ai pazienti può essere molto utile in caso di** chiusura dell’ambulatorio o ad esempio all’inizio della campagna vaccinale
 
 <img
-src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.47.19.png"
-alt="Screenshot 2025-04-10 alle 10.47.19.png"
-className="mx-auto"
+  src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.47.19.png"
+  alt="Screenshot 2025-04-10 alle 10.47.19.png"
+  className="mx-auto"
 />
 
 <img
-src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.49.27.png"
-alt="Screenshot 2025-04-10 alle 10.49.27.png"
-className="mx-auto"
+  src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.49.27.png"
+  alt="Screenshot 2025-04-10 alle 10.49.27.png"
+  className="mx-auto"
 />
 
 - Prima di essere inviato uscirà un’anteprima. Per inviarlo basterà cliccare “**_Pubblica_**”. All’interno del conteggio si può trovare il numero di pazienti, dispositivi, email e numeri di telefono inseriti all’interno della sezione Pazienti, quindi il numero di pazienti a cui arriverà l’avviso
 
 <img
-src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.53.23.png"
-alt="Screenshot 2025-04-10 alle 10.53.23.png"
-className="mx-auto"
+  src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.53.23.png"
+  alt="Screenshot 2025-04-10 alle 10.53.23.png"
+  className="mx-auto"
 />
 
 - Dopo aver cliccato “_Avanti_” comparirà l’avviso all’interno dello storico degli avvisi inviati ai pazienti
 
 <img
-src="/images/platform/avvisi-pazienti/Schermata_2025-12-12_alle_17.52.40.png"
-alt="Schermata 2025-12-12 alle 17.52.40.png"
-className="mx-auto"
+  src="/images/platform/avvisi-pazienti/Schermata_2025-12-12_alle_17.52.40.png"
+  alt="Schermata 2025-12-12 alle 17.52.40.png"
+  className="mx-auto"
 />
 
 - Il tasto “Visualizza” a destra dell’avviso permetterà di visualizzare il riepilogo dell’avviso, con all’interno il conteggio dei pazienti che l’hanno ricevuto (oltre a dispositivi, email e numeri di telefono associati)
@@ -74,9 +75,10 @@ className="mx-auto"
 - Se si supera il limite dei 2500 SMS al mese si può cliccare il tasto “Invia solo email e notifica in app ai pazienti: in questo modo non avrai limiti di caratteri né un numero massimo di avvisi mensili, a differenza dell’SMS.” Lo si trova subito dopo aver cliccato “Crea nuovo avviso”. In questo modo l’avviso sarà comunque recapitato a numerosi pazienti
 
 <img
-  src="/images/platform/avvisi-pazienti/image%202.png"
+  src="/images/platform/avvisi-pazienti/image 2.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 ## FAQ
@@ -90,12 +92,14 @@ Se all’interno dell’anagrafica del paziente è salvata anche la mail, l’av
   src="/images/platform/avvisi-pazienti/image%203.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 <img
   src="/images/platform/avvisi-pazienti/image%204.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 Posso sapere se un paziente ha scaricato l’app?

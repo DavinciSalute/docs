@@ -263,10 +263,11 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
 - Selezionare Stampe → Elenco pazienti
 
 <img
-  src="/images/platform/download-anagrafiche/Untitled%201.png"
+  src="/images/platform/download-anagrafiche/Untitled 1.png"
   alt="Untitled"
   className="mx-auto"
   style={{ width:"80%",maxWidth:"700px" }}
+  title=""
 />
 
 - Scegliere quelli SSN attivi, esegui

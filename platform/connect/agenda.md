@@ -170,10 +170,11 @@ sidebarTitle: "Agenda"
       - Email
 
 <img
-  src="/images/platform/agenda/image%201.png"
+  src="/images/platform/agenda/image 1.png"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
+  title=""
 />
 
 - Si visualizzeranno anche i pazienti dei colleghi all’interno della medicina di gruppo, si differenzieranno dai tuoi assistiti perché sarà indicato il loro nome tra parentesi dopo il nome del paziente
@@ -182,10 +183,11 @@ sidebarTitle: "Agenda"
 - Compariranno gli orari disponibili (precedentemente inseriti in Imposta Disponibilità) all’interno della sezione “**_Slot disponibili_**”.
 
 <img
-  src="/images/platform/agenda/image%202.png"
+  src="/images/platform/agenda/image 2.png"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
+  title=""
 />
 
 - Si possono inserire altri partecipanti (medici)
@@ -411,7 +413,7 @@ Caso di pianificazione di un “Evento”:
   src="/images/platform/agenda/Screenshot_2024-05-02_alle_11.13.15.png"
   alt="Screenshot 2024-05-02 alle 11.13.15.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Come posso modificare un appuntamento?
@@ -422,7 +424,7 @@ Caso di pianificazione di un “Evento”:
   src="/images/platform/agenda/Schermata_2025-12-24_alle_16.00.53.png"
   alt="Schermata 2025-12-24 alle 16.00.53.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Per salvare le modifiche clicca “Conferma modifiche”
@@ -434,7 +436,7 @@ Caso di pianificazione di un “Evento”:
   src="/images/platform/agenda/Schermata_2025-12-24_alle_16.00.57.png"
   alt="Schermata 2025-12-24 alle 16.00.57.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Ai pazienti arriva una notifica di cancellazione dell’appuntamento?

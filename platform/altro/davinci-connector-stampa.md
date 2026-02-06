@@ -55,9 +55,10 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
 - Cliccare sull'icona che si trova a sinistra dell'indirizzo web.
 
 <img
-  src="/images/platform/davinci-connector/image%201.png"
+  src="/images/platform/davinci-connector/image 1.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 - Cliccare "Impostazioni sito"
@@ -71,9 +72,10 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
 - Tra le varie opzioni (solitamente ultime in lista) troverete "Accesso alla rete locale" impostato su "Blocca". Va modificato in "Consenti"
 
 <img
-  src="/images/platform/davinci-connector/image%202.png"
+  src="/images/platform/davinci-connector/image 2.png"
   alt="image.png"
   className="mx-auto"
+  title=""
 />
 
 ## Impostazioni per Mac
@@ -135,30 +137,35 @@ Come selezionare la stampante dal Davinci Connector:
 - Guide laterali ridotte: alcune stampanti vedono lo spazio delle guide laterali ridursi per accogliere l'A5.
 
 <img
-  src="/images/platform/davinci-connector/Untitled%201.png"
+  src="/images/platform/davinci-connector/Untitled 1.png"
   alt="Untitled"
   className="mx-auto"
+  title=""
 />
 
 - Guide laterali larghe: in altre stampanti le guide non vanno ridotte, e l'A5 va introdotto con il lato più lungo verso il lato di raccolta del foglio.
 
 <img
-  src="/images/platform/davinci-connector/Untitled%202.png"
+  src="/images/platform/davinci-connector/Untitled 2.png"
   alt="Untitled"
   className="mx-auto"
-/>
-  - Nel caso le guide laterali non vadano ridotte per accogliere l'A5, può essere il cassetto a scivolare verso il lato di raccolta del foglio.
-
-<img
-  src="/images/platform/davinci-connector/Untitled%203.png"
-  alt="Untitled"
-  className="mx-auto"
+  title=""
 />
 
+- Nel caso le guide laterali non vadano ridotte per accogliere l'A5, può essere il cassetto a scivolare verso il lato di raccolta del foglio.
+
 <img
-  src="/images/platform/davinci-connector/Untitled%204.png"
+  src="/images/platform/davinci-connector/Untitled 3.png"
   alt="Untitled"
   className="mx-auto"
+  title=""
+/>
+
+<img
+  src="/images/platform/davinci-connector/Untitled 4.png"
+  alt="Untitled"
+  className="mx-auto"
+  title=""
 />
 
 ### Stampante per Bianche Cartacee (Ricettario Personale)
@@ -176,9 +183,10 @@ Come selezionare la stampante dal Davinci Connector:
 </Note>
 
 <img
-  src="/images/platform/davinci-connector/Untitled%205.png"
+  src="/images/platform/davinci-connector/Untitled 5.png"
   alt="Untitled"
   className="mx-auto"
+  title=""
 />
 
 ### Stampante per Rosse e Bianche Dematerializzate (Promemoria Dematerializzata)

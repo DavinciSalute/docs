@@ -157,10 +157,11 @@ sidebarTitle: "Richieste di ricetta"
 - Prima dell’eliminazione comparirà una schermata di conferma:
 
 <img
-  src="/images/platform/richieste-ricetta/image%201.png"
+  src="/images/platform/richieste-ricetta/image 1.png"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
+  title=""
 />
 
 - Si può scegliere una **motivazione** da condividere con il paziente (_che visualizzerà nelle notifiche in App_), le opzioni sono:
@@ -346,7 +347,7 @@ sidebarTitle: "Richieste di ricetta"
   src="/images/platform/richieste-ricetta/Untitled.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 **_Per chi NON utilizza la funzionalità prescrittiva_**
@@ -429,14 +430,14 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/Untitled%201.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_20240411_094312_Elty_(ex_DaVinci).jpg"
   alt="Screenshot_20240411_094312_Elty (ex DaVinci).jpg"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Come faccio a spostare in archivio le richieste?
@@ -456,7 +457,7 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/Schermata_2025-12-24_alle_11.20.38.png"
   alt="Schermata 2025-12-24 alle 11.20.38.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Come fa il paziente a inoltrare una richiesta?
@@ -466,7 +467,7 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/Untitled%202.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Se sono presenti farmaci e prestazioni continuative il paziente le ritroverà sotto le relative sezioni:
@@ -475,25 +476,27 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/1000000310.jpg"
   alt="1000000310.jpg"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Nel caso non ci fossero farmaci o prestazioni continuative procederà cliccando su **Richiedi una nuova ricetta** per una richiesta libera (se il medico l’ha abilitata).
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%203.png"
+  src="/images/platform/richieste-ricetta/Untitled 3.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 - Il paziente potrà scegliere tra “**Farmaco”** e “**Visita o Esame”**
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%204.png"
+  src="/images/platform/richieste-ricetta/Untitled 4.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 - Il paziente inserirà il **Nome del farmaco**. Può anche inserire delle **Note per il medico**
@@ -503,7 +506,7 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/IMG_0248_3.jpg"
   alt="IMG_0248 3.jpg"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Verrà aggiunta una sezione in cui inserire il **_nome del secondo farmaco_** ed e**_ventuali note per il Medico._**  Cliccare, infine, su “**_Continua_**” per confermare la richiesta
@@ -512,25 +515,27 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   src="/images/platform/richieste-ricetta/IMG_0249_3.jpg"
   alt="IMG_0249 3.jpg"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Dopo l’invio visualizzerà **Richiesta completata** e si potranno vedere i **Dettagli richiesta**
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%205.png"
+  src="/images/platform/richieste-ricetta/Untitled 5.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 - Compariranno i dettagli richiesta. Si può eliminare la richiesta cliccando **Annulla richiesta**:
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%206.png"
+  src="/images/platform/richieste-ricetta/Untitled 6.png"
   alt="Untitled"
   className="mx-auto"
-  style={{ width: "50%", maxWidth: "400px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 - Come impostare il servizio di richieste ricette?
