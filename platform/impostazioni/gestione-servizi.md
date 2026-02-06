@@ -190,7 +190,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Si potrà scegliere la “**\_Modalità di invio”: \_**
+- Si potrà scegliere la “**Modalità di invio**”**: **
   - “**_Invio in chiaro_**”: una sola email
   - “**_Invio protetto_**”: due email, una con una password per poter visualizzare il documento Per abilitarla si dovrà spuntare l’apposita casella in corrispondenza di “**_Abilita_**” e cliccare “**_Salva_**” per confermare il tutto
 
@@ -389,8 +389,8 @@ Invio referto:
 
 ### 11. Importa dati
 
-- La sezione “**_Importa dati_**” permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
-  - Si può selezionare il **_template_** del gestionale da voi precedentemente utilizzato
+- La sezione “**_Importa dati_**” permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
+  - Si può selezionare il **_template_** del gestionale da voi precedentemente utilizzato
 
 <img
   src="/images/platform/gestione-servizi/17.png"
@@ -398,7 +398,7 @@ Invio referto:
   className="mx-auto"
 />
 
-- Dopo aver selezionato il **_template_** potrete caricare il **_file_** con formato _.sql, .backup, .db3 o .zip_
+- Dopo aver selezionato il **_template_** potrete caricare il **_file_** con formato _.sql, .backup, .db3 o .zip_
   - In alcuni casi si possono caricare gli **allegati** (i file pdf dei referti caricati nel gestionale precedentemente utilizzato), il formato richiesto è .zip
 
 <img
@@ -409,7 +409,7 @@ Invio referto:
 
 ### 12. Avvisi e segnalazioni in piattaforma
 
-- Selezionando “**_Personalizza_**” nella sezione “**_Avvisi e segnalazioni in piattaforma_**” si può abilitare _l’_**_Alert_** “**_Interazioni tra farmaci_**” che permette di visualizzare un avviso di alert quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
+- Selezionando “**_Personalizza_**” nella sezione “**_Avvisi e segnalazioni in piattaforma_**” si può abilitare _l’_**_Alert_** “**_Interazioni tra farmaci_**” che permette di visualizzare un avviso di alert quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
 - L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e va attivato manualmente)
 
 <img
