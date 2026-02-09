@@ -35,7 +35,7 @@ Benvenuto nella documentazione di Elty Davinci.
 ## Cartella
 
 - [Ricette](/platform/cartella/ricette) --\> V
-- [Scheda paziente](/platform/cartella/scheda-paziente)
+- [Scheda paziente](/platform/cartella/scheda-paziente) --\> V
 - [Misurazioni](/platform/cartella/misurazioni)
 - [Parametri](/platform/cartella/parametri)
 - [Anamnesi](/platform/cartella/anamnesi)

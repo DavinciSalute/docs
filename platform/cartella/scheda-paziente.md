@@ -29,15 +29,15 @@ Quando apri la **scheda paziente**, visualizzerai in alto a sinistra alcune info
 />
 
 - Sotto queste informazioni vedrai le sezioni di cui è composta la “Scheda paziente” (la cartella clinica elettronica del paziente):
-- La Scheda paziente (selezionata, perché è quella in cui stai navigando)
-- Misurazioni
-- Parametri
-- Anamnesi
-- Ricette
-- Certificati
-- Referti
-- Piani Terapeutici
-- PAI (se previsti dalla regione)
+  - La Scheda paziente (selezionata, perché è quella in cui stai navigando)
+  - Misurazioni
+  - Parametri
+  - Anamnesi
+  - Ricette
+  - Certificati
+  - Referti
+  - Piani Terapeutici
+  - PAI (se previsti dalla regione)
 
 <img
   src="/images/platform/Schermata_2025-12-31_alle_14.44.23.png"
@@ -71,17 +71,17 @@ La scheda paziente è composta da:
   - Sulla sinistra troverai tutti i dati del paziente scaricati dal sistema regionale
   - In alcune regioni è possibile selezionare il riquadro “Non usare questo numero” e “Non usare questa email” per poter evitare di usare quel dato in caso di avvisi, certificati ecc.
   - Nel caso in cui il paziente non è un tuo assistito (ad esempio è un paziente AMT) allora per scaricare le esenzioni bisognerà procedere in uno di questi due modi:
-  - Se si è connessi al sistema regionale tramite firma remota allora si inseriranno nella scheda anagrafica (sotto i dati scaricati dal sistema regionale) le Ultime cinque cifre del numero di identificazione della tessera sanitaria del paziente → Clicca Scarica esenzioni da FSE
-  - Se si è connessi al sistema regionale tramite smart card allora servirà un secondo lettore in cui inserire la tessera sanitaria del paziente, dopodiché bisognerà sincronizzare i dati della scheda paziente con il sistema regionale (Scheda paziente → due frecce a cerchio in alto a destra)
+    - Se si è connessi al sistema regionale tramite firma remota allora si inseriranno nella scheda anagrafica (sotto i dati scaricati dal sistema regionale) le Ultime cinque cifre del numero di identificazione della tessera sanitaria del paziente → Clicca Scarica esenzioni da FSE
+    - Se si è connessi al sistema regionale tramite smart card allora servirà un secondo lettore in cui inserire la tessera sanitaria del paziente, dopodiché bisognerà sincronizzare i dati della scheda paziente con il sistema regionale (Scheda paziente → due frecce a cerchio in alto a destra)
   - Nella scheda anagrafica in fondo sulla sinistra ci saranno anche i moduli per il consenso del paziente oltre al modulo di consenso vaccinale
   - Sulla destra della scheda anagrafica c’è il tasto “Esporta Patient Summary”
     - Non in tutte le regioni compare in scheda anagrafica, se non fosse presente puoi visualizzare e scaricare il Patient Summary direttamente dalla sezione “Anamnesi”
     - E’ un riassunto della cartella clinica del paziente con all’interno:
-    - Allergie
-    - Terapie farmacologiche
-    - Problemi di salute rilevanti
-    - Parametri vitali e di monitoraggio
-    - Esenzioni
+      - Allergie
+      - Terapie farmacologiche
+      - Problemi di salute rilevanti
+      - Parametri vitali e di monitoraggio
+      - Esenzioni
     - Non è la SSI (Scheda Sanitaria Informatica)
   - Sulla destra, sotto il tasto “Esporta Patient Summary” si trovano informazioni come ad esempio l’indirizzo alternativo, i contatti (email e numero di telefono, modificabili) e la sezione “Familiari” dove inserire i legami di parentela (oltre a segnalare se ci sono dei caregiver / tutori)
   - Dopo ogni modifica fatta alla scheda anagrafica clicca “Salva” in basso a destra
@@ -91,9 +91,9 @@ La scheda paziente è composta da:
 
 - Sulla destra della scheda paziente si trova il Post-it (all’interno puoi inserire qualsiasi informazione utile sul paziente che vuoi visualizzare con priorità)
 - Sopra al Post-it troverai la Data di ultima sincronizzazione con il sistema regionale
-- Per risincronizzare le informazioni presenti nel sistema regionale clicca le due freccie (a cerchio, simbolo di sincronizzazione)
-- N.B.: per poter sincronizzare i dati bisogna prima connettersi al sistema regionale cliccando il tuo nome e cognome → Login Cloud regionale
-- Sincronizzando i dati della scheda con il sistema regionale potrai scaricare molte informazioni utili (ad esempio le esenzioni e i dati anagrafici del paziente)
+  - Per risincronizzare le informazioni presenti nel sistema regionale clicca le due freccie (a cerchio, simbolo di sincronizzazione)
+  - N.B.: per poter sincronizzare i dati bisogna prima connettersi al sistema regionale cliccando il tuo nome e cognome → Login Cloud regionale
+  - Sincronizzando i dati della scheda con il sistema regionale potrai scaricare molte informazioni utili (ad esempio le esenzioni e i dati anagrafici del paziente)
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.01.00.png"
@@ -104,9 +104,9 @@ La scheda paziente è composta da:
 ### 4. Sezioni Problemi, Farmaci, Prestazioni e modifica del layout
 
 - Scorrendo verso il basso trovi tre sezioni:
-- Problemi: divisi in attivi/cronici, intermittenti e risolti
-- Farmaci: divisi in continuativi e ordinari
-- Prestazioni: divise in continuative e ordinarie
+  - Problemi: divisi in attivi/cronici, intermittenti e risolti
+  - Farmaci: divisi in continuativi e ordinari
+  - Prestazioni: divise in continuative e ordinarie
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.01.11.png"
@@ -116,6 +116,7 @@ La scheda paziente è composta da:
 
 - Per modificare il layout della pagina, clicca i tre puntini verticali a destra di “Aggiungi a diario” e seleziona “**_Modifica layout_**”.
   - Clicca “**_Salva layout_**” per rendere effettive le modifiche.
+  - N.B.: La modifica del layout riguarderà il dispositivo utilizzato in quel momento (sono dati salvati nel browser), se si cambia dispositivo andranno rimodificate
 
 <img
   src="/images/platform/Screenshot_2025-04-22_alle_16.14.02.png"
@@ -123,13 +124,12 @@ La scheda paziente è composta da:
   className="mx-auto"
 />
 
-  - N.B.: La modifica del layout riguarderà il dispositivo utilizzato in quel momento (sono dati salvati nel browser), se si cambia dispositivo andranno rimodificate
 - Cliccando questi puntini verticali visualizzerai alcune funzioni utili legate al paziente visualizzato:
-- Modifica layout
-- Reset layout (che permette di azzerare le modifiche)
-- Pianifica appuntamento (permette di pianificare un appuntamento in agenda)
-- Vai alla chat (permette di scrivere un messaggio nella sezione “Messaggi”)
-- Inserisci una richiesta (permette di inserire una richiesta di farmaci o prestazioni nella sezione “Richieste”)
+  - Modifica layout
+  - Reset layout (che permette di azzerare le modifiche)
+  - Pianifica appuntamento (permette di pianificare un appuntamento in agenda)
+  - Vai alla chat (permette di scrivere un messaggio nella sezione “Messaggi”)
+  - Inserisci una richiesta (permette di inserire una richiesta di farmaci o prestazioni nella sezione “Richieste”)
 
 <img
   src="/images/platform/Screenshot_2025-04-22_alle_16.13.52.png"
@@ -141,12 +141,12 @@ La scheda paziente è composta da:
 
 - Per aggiungere un problema bisogna cliccare l’icona a forma di “+” a destra di “Problemi”
 - Si aprirà una pagina dove inserire:
-- Titolo Codificato del problema (si può trasformare in un testo libero cliccando le due frecce sulla destra, per tornare al titolo codificato basterà cliccarle di nuovo)
-- Data di insorgenza del problema
-- Etichetta (permette di inserire il problema in macrogruppi colorati che permettono di visualizzare intuitivamente problemi con caratteristiche simili)
-- Stato (attivo, cronico, intermittente, risolto)
-- Note interne (visibili solo al personale medico)
-- Allegati (ad esempio un referto relativo alla problematica)
+  - Titolo Codificato del problema (si può trasformare in un testo libero cliccando le due frecce sulla destra, per tornare al titolo codificato basterà cliccarle di nuovo)
+  - Data di insorgenza del problema
+  - Etichetta (permette di inserire il problema in macrogruppi colorati che permettono di visualizzare intuitivamente problemi con caratteristiche simili)
+  - Stato (attivo, cronico, intermittente, risolto)
+  - Note interne (visibili solo al personale medico)
+  - Allegati (ad esempio un referto relativo alla problematica)
 - Clicca Salva per aggiungere il problema
 
 <img
@@ -163,7 +163,7 @@ La scheda paziente è composta da:
 - La divisione è tra Continuativi ed Ordinari (clicca su una delle due tipologie per cambiare visualizzazione e visualizzare l’elenco di farmaci continuativi o di farmaci ordinari)
 - Si possono aggiungere nuovi farmaci all’interno del box cliccando il “+” a destra di “Farmaci”
 - Cerca per nome o principio attivo
-  - Dopo aver selezionato il farmaco comparirà l’avviso relativo alle interazioni con altri farmaci o allergie (se abilitato l’alert dalla Gestione servizi: l’alert delle allergie è impostato automaticamente, quello delle interazioni tra farmaci va abilitato manualmente, il tutto nella sezione “**Avvisi e segnalazioni in piattaforma” della Gestione servizi**)
+  - Dopo aver selezionato il farmaco comparirà l’avviso relativo alle interazioni con altri farmaci o allergie (se abilitato l’alert dalla Gestione servizi: l’alert delle allergie è impostato automaticamente, quello delle interazioni tra farmaci va abilitato manualmente, il tutto nella sezione “**Avvisi e segnalazioni in piattaforma**” della**Gestione servizi** )
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.09.20.png"
@@ -172,10 +172,10 @@ La scheda paziente è composta da:
 />
 
 - Inserisci:
-- Unità posologica (di base è una posologia strutturata, per inserire un testo libero cliccare “Passa a posologia libera”)
-- Periodicità
-- Se il farmaco è continuativo, spunta l’opzione **_“Continuativo”_**.
-- Salva e prescrivi (se si vuol creare la bozza di ricetta) oppure Salva (per inserire il farmaco alla lista del box “Farmaci”)
+  - Unità posologica (di base è una posologia strutturata, per inserire un testo libero cliccare “Passa a posologia libera”)
+  - Periodicità
+  - Se il farmaco è continuativo, spunta l’opzione **_“Continuativo”_**.
+  - Salva e prescrivi (se si vuol creare la bozza di ricetta) oppure Salva (per inserire il farmaco alla lista del box “Farmaci”)
 
 <img
   src="/images/platform/Screenshot_2025-04-13_alle_23.47.15.png"
@@ -201,15 +201,15 @@ La scheda paziente è composta da:
 ### 8. Completamento informazioni PAI
 
 - Qui troverai la percentuale di completamento delle informazioni della scheda paziente che permettono di arruolare il paziente con un Piano di Assistenza individuale
-- Per poter arruolare i pazienti all’interno di Elty servono degli accordi con la cooperativa di riferimento
+- Per poter arruolare i pazienti all’interno di Elty servono degli accordi con la cooperativa di riferimento (Horus Medica)
 
 ### 9. Stile di vita, Informazioni generali, Misurazioni e Diario
 
 - Sul fondo della scheda paziente troviamo:
-- Stile di vita
-- Informazioni generali
-- Ultime misurazioni
-- Diario clinico
+  - Stile di vita
+  - Informazioni generali
+  - Ultime misurazioni
+  - Diario clinico
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.01.21.png"
@@ -240,25 +240,25 @@ Per modificare lo stile di vita clicca la matita all’angolo destro del box, pu
 - Per modificare le informazioni generali clicca la matita all’angolo destro del box
 - Se clicchi la stella a sinistra del dato, questo sarà visibile all’interno del box senza dover selezionare la matita (e visualizzare tutte le informazioni generali)
 - Comprende:
-- Storico vaccinazioni
-- Programmazione vaccinazioni
-- Allergie
-- Intolleranze
-- Celiachia
-- Esenzioni
-- Ciclo mestruale e menopausa
-- Gravidanze e parto (sezione importante, perché se inserita la data di ultimo ciclo ci sarà il calcolo automatico delle esenzioni di gravidanza nel momento in cui si prescrive una ricetta)
-- Stato fertilità
-- Procedure chirurgiche
-- Metodiche
-- Dispositivi medici
-- Protesi
-- Non autosufficienza
-- Organi mancanti
-- Trapianti
-- Gruppo sanguigno
-- Tossicodipendenza
-- Professione
+  - Storico vaccinazioni
+  - Programmazione vaccinazioni
+  - Allergie
+  - Intolleranze
+  - Celiachia
+  - Esenzioni
+  - Ciclo mestruale e menopausa
+  - Gravidanze e parto (sezione importante, perché se inserita la data di ultimo ciclo ci sarà il calcolo automatico delle esenzioni di gravidanza nel momento in cui si prescrive una ricetta)
+  - Stato fertilità
+  - Procedure chirurgiche
+  - Metodiche
+  - Dispositivi medici
+  - Protesi
+  - Non autosufficienza
+  - Organi mancanti
+  - Trapianti
+  - Gruppo sanguigno
+  - Tossicodipendenza
+  - Professione
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.09.57.png"
@@ -320,12 +320,12 @@ Per modificare lo stile di vita clicca la matita all’angolo destro del box, pu
 ### 13. Diario clinico
 
 - Clicca il “+” a destra di “Diario clinico” per aggiungere informazioni all’interno del diario
-- Aggiungi nuove voci cliccando “Inserita in seguito a” e selezionando la tipologia di visita
-- Inserisci le varie informazioni nelle note interne
+  - Aggiungi nuove voci cliccando “Inserita in seguito a” e selezionando la tipologia di visita
+  - Inserisci le varie informazioni nelle note interne
 - Nel momento in cui viene inserito un referto il dato comparirà in automatico nel diario clinico
 - Se si cliccano i tre puntini verticali a destra di “Cerca” all’interno del Diario clinico, si potrà selezionare “Mostra registro attività”:
-- All’interno ci saranno tutte le modifiche fatte in scheda paziente, il profilo che ha effettuato le modifiche e l’elemento modificato
-- Clicca l’occhio sulla destra degli elementi di registro attività per nascondere quell’attività
+  - All’interno ci saranno tutte le modifiche fatte in scheda paziente, il profilo che ha effettuato le modifiche e l’elemento modificato
+  - Clicca l’occhio sulla destra degli elementi di registro attività per nascondere quell’attività
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.11.29.png"
