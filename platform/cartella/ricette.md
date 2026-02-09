@@ -3,27 +3,57 @@ title: "Ricette"
 sidebarTitle: "Ricette"
 ---
 
-## Introduzione
+## 1. Introduzione
 
 La sezione "**Ricette**" (si trova in alto a sinistra di "Referti" e a destra di "Richieste") è suddivisa in:
+
+<img
+  src="/images/platform/ricette/Schermata_2025-12-29_alle_11.47.51.png"
+  alt="Schermata 2025-12-29 alle 11.47.51.png"
+  className="mx-auto"
+/>
 
 - **Da elaborare**
   - Sono ricette che non sono state validate dal sistema regionale
   - Vengono spostate qui le ricette quando viene cliccato "Elabora più tardi"
   - Sezione utilissima se per qualsiasi motivo il sistema regionale fosse bloccato e non permettesse di elaborare le ricette: in questo modo quando il sistema regionale torna a funzionare si potranno elaborare massivamente le bozze create in precedenza
+
+<img
+  src="/images/platform/ricette/Schermata_2025-12-29_alle_11.48.35_2_2_2.png"
+  alt="Schermata 2025 12 29 Alle 11 48 35 2 2 2"
+  title="Schermata 2025 12 29 Alle 11 48 35 2 2 2"
+  className="mx-auto"
+/>
+
 - **In errore**
   - La ricetta deve essere corretta, cliccando correggi si ricreerà la bozza di ricetta con l'errore che ha portato la non elaborazione della ricetta
+
+<img
+  src="/images/platform/ricette/Schermata_2025-12-29_alle_11.49.10.png"
+  alt="Schermata 2025 12 29 Alle 11 49 10"
+  title="Schermata 2025 12 29 Alle 11 49 10"
+  className="mx-auto"
+/>
+
 - **Trasmesse**
   - Ricette che sono state validate dal sistema regionale e che sono all'interno del FSE del paziente
   - Vengono inviate qui per segnalare al medico che la ricetta è stata inviata SOLO tramite FSE
   - Si possono archiviare massivamente evidenziandole con il quadratino a sinistra di ogni ricetta trasmessa e poi selezionando "Archivia"
   - Se si vuole inviare via Email basterà inserire il dato in scheda paziente e poi tornare in Ricette → Trasmesse e cliccare "Elabora" (dopo aver abilitato l'invio tramite Email dalla gestione servizi)
+
+<img
+  src="/images/platform/ricette/Schermata_2025-12-29_alle_17.35.51.png"
+  alt="Schermata 2025 12 29 Alle 17 35 51"
+  className="mx-auto"
+/>
+
 - **Archivio**
   - Ci sono tutte le ricette elaborate su Elty e tutte le ricette importate, è lo storico di tutte le ricette
 
 <img
-  src="/images/platform/ricette/Schermata_2025-12-29_alle_11.47.51.png"
-  alt="Schermata 2025-12-29 alle 11.47.51.png"
+  src="/images/platform/ricette/Schermata_2025-12-30_alle_12.09.21.png"
+  alt="Schermata 2025 12 30 Alle 12 09 21"
+  title="Schermata 2025 12 30 Alle 12 09 21"
   className="mx-auto"
 />
 
@@ -35,7 +65,7 @@ Su ogni sezione troviamo un numero blu che indica il numero di ricette per ogni 
   className="mx-auto"
 />
 
-## Sezione "Da elaborare"
+## 2. Sezione "Da elaborare"
 
 La prima sezione che troviamo è "Da elaborare". Qui troviamo la lista delle ricette create ma non ancora elaborate.
 
@@ -48,14 +78,14 @@ La prima sezione che troviamo è "Da elaborare". Qui troviamo la lista delle ric
   className="mx-auto"
 />
 
-Possiamo vedere: 
+Possiamo vedere:
 
-- Nome del paziente, 
-- Tipologia di ricetta (rossa dem, rossa cartacea, bianca dem e bianca cartacea), 
-- Dettagli (farmaco e da chi è stato inserito), 
-- Informazioni aggiuntive, 
-- Data di creazione delle ricetta, 
-- Stato della ricetta (Es. da validare, da stampare) 
+- Nome del paziente,
+- Tipologia di ricetta (rossa dem, rossa cartacea, bianca dem e bianca cartacea),
+- Dettagli (farmaco e da chi è stato inserito),
+- Informazioni aggiuntive,
+- Data di creazione delle ricetta,
+- Stato della ricetta (Es. da validare, da stampare)
 - Azioni che il Medico potrà compiere.
 
 <img
@@ -92,7 +122,7 @@ Cliccando i tre puntini verticali associati ad una specifica ricetta si aprirà 
   className="mx-auto"
 />
 
-## Sezione "In errore"
+## 3. Sezione "In errore"
 
 Qui si troverà la lista delle ricette in errore che andranno corrette.
 
@@ -126,7 +156,7 @@ Se cliccati (sempre in corrispondenza della ricetta a cui si è interessati) pot
   className="mx-auto"
 />
 
-## Sezione Ricette Trasmesse
+## 4. Sezione Ricette Trasmesse
 
 - Comprende le ricette che sono state validate dal sistema regionale e che sono all'interno del FSE del paziente.
 - Vengono inviate qui per segnalare al medico che la ricetta è stata inviata SOLO tramite FSE
@@ -190,7 +220,7 @@ In corrispondenza di ogni ricetta troviamo **_3 puntini verticali_** che permett
   - Questo è utile per togliere il pallino delle notifiche alla sezione ricette quando non si vuole inserire l'email dei pazienti a cui è stata trasmessa la ricetta (perché comunque il paziente ha ricevuto la ricetta tramite FSE)
 - Se si vuole inviare via Email basterà inserire il dato in scheda paziente e poi tornare in Ricette → Trasmesse e cliccare "Elabora" (dopo aver abilitato l'invio tramite Email dalla gestione servizi)
 
-## Sezione "Archivio"
+## 5. Sezione "Archivio"
 
 Nell'archivio avremo tutte le ricette elaborate su Elty e tutte quelle importate da altri gestionali.
 
@@ -202,9 +232,8 @@ Nell'archivio avremo tutte le ricette elaborate su Elty e tutte quelle importate
   className="mx-auto"
 />
 
-Per ogni ricetta abbiamo informazioni relative al paziente, alla tipologia di ricetta, dettagli e informazioni aggiuntive, la data di elaborazione, lo stato della ricetta e le possibili azioni
-
-Sotto le voci "Paziente", "Tipologia", "Elaborata il", "Stato", troviamo un box di ricerca dove poter inserire informazioni per cercare una ricetta specifica
+- Per ogni ricetta abbiamo informazioni relative al paziente, alla tipologia di ricetta, dettagli e informazioni aggiuntive, la data di elaborazione, lo stato della ricetta e le possibili azioni
+- Sotto le voci "Paziente", "Tipologia", "Elaborata il", "Stato", troviamo un box di ricerca dove poter inserire informazioni per cercare una ricetta specifica
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-30_alle_12.14.26.png"
@@ -212,7 +241,7 @@ Sotto le voci "Paziente", "Tipologia", "Elaborata il", "Stato", troviamo un box 
   className="mx-auto"
 />
 
-In corrispondenza di ogni ricetta troviamo il tasto "Ripeti" che permette di ripetere la ricetta sulla base delle informazioni inserite precedentemente nella ricetta archiviata
+- In corrispondenza di ogni ricetta troviamo il tasto "Ripeti" che permette di ripetere la ricetta sulla base delle informazioni inserite precedentemente nella ricetta archiviata
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-30_alle_12.12.13.png"

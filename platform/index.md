@@ -34,7 +34,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Cartella
 
-- [Ricette](/platform/cartella/ricette)
+- [Ricette](/platform/cartella/ricette) --\> V
 - [Scheda paziente](/platform/cartella/scheda-paziente)
 - [Misurazioni](/platform/cartella/misurazioni)
 - [Parametri](/platform/cartella/parametri)
@@ -54,10 +54,6 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)
 - [Assistenza da remoto](/platform/altro/assistenza-da-remoto)
-
-<br/>
-<br/>
-<br/>
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
 https://elty.it/informative/webapp/privacy-policy
