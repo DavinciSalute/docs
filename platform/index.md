@@ -29,7 +29,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Richieste di ricetta](/platform/connect/richieste-ricetta) --\> V
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti) --\> V
 - [Referti](/platform/connect/referti) --\> V
-- [Videovisita](/platform/connect/videovisita)
+- [Videovisita](/platform/connect/videovisita) --\> V
 - [Messaggi chat](/platform/connect/messaggi-chat)
 
 ## Cartella
