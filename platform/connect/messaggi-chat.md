@@ -30,7 +30,7 @@ sidebarTitle: "Messaggi chat"
 />
 
 - Scrivi il messaggio nel box in basso e clicca l’icona di invio per spedirlo
-- Per allegare un file clicca sulla **graffetta**
+  - Per allegare un file clicca sulla **graffetta**
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_12.40.11.png"
@@ -62,7 +62,7 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
-- Cliccando il tasto **_“Non letti” (in alto a sinistra) i messaggi verranno filtrati e potrai vedere_** solo i messaggi non letti.
+- Cliccando il tasto **_“Non letti” (in alto a sinistra) i messaggi verranno filtrati _**_e potrai vedere_ solo i messaggi non letti.
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_15.28.23.png"
@@ -111,7 +111,7 @@ sidebarTitle: "Messaggi chat"
 
 ### 3. Visualizzazione Chat dai colleghi sostituti
 
-In gestione servizi è possibile attivare “Visualizzazione chat dai colleghi sostituti”
+In gestione servizi è possibile attivare “**Visualizzazione chat dai colleghi sostituti**”
 
 - Questa funzionalità permette ai medici del gruppo di lavoro di poter visionare le tue chat (ad esempio quando sei in ferie) e di poter rispondere ai pazienti a loro nome (usando la modalità medico sostituto)
 
