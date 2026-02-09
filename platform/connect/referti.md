@@ -221,8 +221,14 @@ sidebarTitle: "Referti"
   Valido solo in Lombardia e Toscana
 </Note>
 
-Se la trascrizione dà errore:
+Quando è scritto "Trascrivi parametri da referto strutturato (CDA2)" significa che il referto potenzialmente può essere trascritto senza l'Intelligenza Artificiale ma tramite la transcodifica degli elementi presenti nel referto. 
 
-- Se l'errore è "il file non è in formato CDA2" significa che non c'è il CDA2 o non riusciamo a leggerlo.
-- Se l'errore è generico "il referto non può essere trascritto" significa che non abbiamo la transcodifica.
-  - In questo caso il medico deve segnalarci il nome, cognome e CF del paziente, il referto di riferimento (con la data di inserimento) e noi aggiungeremo la transcodifica.
+Quando compare l'errore "Trascrizione non riuscita - il documento inserito non può essere trascritto automaticamente" significa che non è stata ancora integrata la transcodifica di quel referto, quindi per procedere ci servono:
+
+- nome, cognome e CF del paziente
+- il referto di riferimento (con la data di inserimento)
+- In questo modo noi aggiungeremo la transcodifica e potrai fare la trascrizione dei parametri.
+
+Per quanto riguarda la trascrizione IA, al momento il servizio di trascrizione automatica dei referti è stato temporaneamente sospeso per manutenzione e per implementare alcune migliorie, quindi è normale che tu non riesca a usarlo.
+
+I referti possono comunque essere gestiti e i parametri inseriti manualmente dalla sezione Parametri nella scheda paziente.
