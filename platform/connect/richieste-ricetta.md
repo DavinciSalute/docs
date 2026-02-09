@@ -427,10 +427,11 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   La nota visualizzata in App dal paziente sarà nella sezione Notifica
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%201.png"
+  src="/images/platform/richieste-ricetta/Untitled 201.png"
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 <img
@@ -464,10 +465,11 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   - _Dopo aver cliccato il nome del medico_ clicca **Richiedi ricetta** ✅
 
 <img
-  src="/images/platform/richieste-ricetta/Untitled%202.png"
+  src="/images/platform/richieste-ricetta/Untitled 202.png"
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
+  title=""
 />
 
 - Se sono presenti farmaci e prestazioni continuative il paziente le ritroverà sotto le relative sezioni:
