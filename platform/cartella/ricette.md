@@ -5,22 +5,21 @@ sidebarTitle: "Ricette"
 
 ## Introduzione
 
-La sezione ricette (si trova in alto a sinistra di Referti e a destra di Richieste) è suddivisa in:
+La sezione "**Ricette**" (si trova in alto a sinistra di "Referti" e a destra di "Richieste") è suddivisa in:
 
-- Da elaborare
+- **Da elaborare**
   - Sono ricette che non sono state validate dal sistema regionale
   - Vengono spostate qui le ricette quando viene cliccato "Elabora più tardi"
-- In errore
+  - Sezione utilissima se per qualsiasi motivo il sistema regionale fosse bloccato e non permettesse di elaborare le ricette: in questo modo quando il sistema regionale torna a funzionare si potranno elaborare massivamente le bozze create in precedenza
+- **In errore**
   - La ricetta deve essere corretta, cliccando correggi si ricreerà la bozza di ricetta con l'errore che ha portato la non elaborazione della ricetta
-- Trasmesse
+- **Trasmesse**
   - Ricette che sono state validate dal sistema regionale e che sono all'interno del FSE del paziente
   - Vengono inviate qui per segnalare al medico che la ricetta è stata inviata SOLO tramite FSE
   - Si possono archiviare massivamente evidenziandole con il quadratino a sinistra di ogni ricetta trasmessa e poi selezionando "Archivia"
   - Se si vuole inviare via Email basterà inserire il dato in scheda paziente e poi tornare in Ricette → Trasmesse e cliccare "Elabora" (dopo aver abilitato l'invio tramite Email dalla gestione servizi)
-- Archivio
+- **Archivio**
   - Ci sono tutte le ricette elaborate su Elty e tutte le ricette importate, è lo storico di tutte le ricette
-
-Per accedere alla sezione "**_Ricette_**" si potrà cliccare il tasto corrispondente (Ricette) presente nella barra in alto a destra di richieste
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_11.47.51.png"
@@ -40,7 +39,7 @@ Su ogni sezione troviamo un numero blu che indica il numero di ricette per ogni 
 
 La prima sezione che troviamo è "Da elaborare". Qui troviamo la lista delle ricette create ma non ancora elaborate.
 
-- Sono ricette che non sono state validate dal sistema regionale
+- Sono ricette che **non sono state validate dal sistema regionale**
 - Vengono spostate qui le ricette quando viene cliccato "Elabora più tardi"
 
 <img
@@ -49,7 +48,15 @@ La prima sezione che troviamo è "Da elaborare". Qui troviamo la lista delle ric
   className="mx-auto"
 />
 
-Possiamo vedere: Nome del paziente, tipologia di ricetta (rossa dem, rossa cartacea, bianca dem e bianca cartacea), dettagli (farmaco e da chi è stato inserito), informazioni aggiuntive, data di creazione delle ricetta, stato della ricetta (Es. da validare, da stampare) ed eventuali azioni che il Medico potrà compiere.
+Possiamo vedere: 
+
+- Nome del paziente, 
+- Tipologia di ricetta (rossa dem, rossa cartacea, bianca dem e bianca cartacea), 
+- Dettagli (farmaco e da chi è stato inserito), 
+- Informazioni aggiuntive, 
+- Data di creazione delle ricetta, 
+- Stato della ricetta (Es. da validare, da stampare) 
+- Azioni che il Medico potrà compiere.
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_12.26.14.png"
@@ -57,7 +64,7 @@ Possiamo vedere: Nome del paziente, tipologia di ricetta (rossa dem, rossa carta
   className="mx-auto"
 />
 
-Tramite il tasto "Elabora" il Medico potrà andare ad elaborare la ricetta
+Tramite il tasto "**Elabora**" il Medico potrà andare ad elaborare la ricetta
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_12.26.14_3.png"
@@ -65,7 +72,7 @@ Tramite il tasto "Elabora" il Medico potrà andare ad elaborare la ricetta
   className="mx-auto"
 />
 
-In alto a destra troviamo il tasto "Elabora tutte" per elaborare massivamente tutte le ricette da elaborare
+In alto a destra troviamo il tasto "**Elabora tutte**" per elaborare massivamente tutte le ricette da elaborare
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_12.26.14_2.png"
@@ -73,11 +80,11 @@ In alto a destra troviamo il tasto "Elabora tutte" per elaborare massivamente tu
   className="mx-auto"
 />
 
-Cliccando i tre puntini verticali associati ad una specifica ricetta si aprirà il menù azioni:
+Cliccando i tre puntini verticali associati ad una specifica ricetta si aprirà il menù **azioni**:
 
-- Sposta in archivio: per spostare la ricetta in archivio (e quindi farla comparire nell'archivio delle ricette, compare anche nell'archivio delle ricette nella scheda del paziente)
-- Elimina ricetta: permette di eliminare la ricetta
-- Scarica: permette di scaricare la ricetta sul proprio computer, viene archiviata subito dopo perché il sistema calcolerà il download della ricetta come un elaborazione (perché poi il file può essere inviato al paziente o può essere stampato)
+- **Sposta in archivio**: per spostare la ricetta in archivio (e quindi farla comparire nell'archivio delle ricette, compare anche nell'archivio delle ricette nella scheda del paziente)
+- **Elimina ricetta**: permette di eliminare la ricetta
+- **Scarica**: permette di scaricare la ricetta sul proprio computer, viene archiviata subito dopo perché il sistema calcolerà il download della ricetta come un elaborazione (perché poi il file può essere inviato al paziente o può essere stampato)
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_12.26.52.png"

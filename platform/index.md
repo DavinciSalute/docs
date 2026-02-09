@@ -30,7 +30,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti) --\> V
 - [Referti](/platform/connect/referti) --\> V
 - [Videovisita](/platform/connect/videovisita) --\> V
-- [Messaggi chat](/platform/connect/messaggi-chat)
+- [Messaggi chat](/platform/connect/messaggi-chat) --\> V
 
 ## Cartella
 
