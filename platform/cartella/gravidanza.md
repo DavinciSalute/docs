@@ -3,143 +3,146 @@ title: "Come aggiungere lo stato di gravidanza"
 sidebarTitle: "Come aggiungere gravidanza"
 ---
 
-- Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_** dalla schermata di Home.
+Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_** dalla schermata di Home.
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.20.14.png"
-alt="Screenshot 2025-04-07 alle 11.20.14.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.20.14.png"
+  alt="Screenshot 2025-04-07 alle 11.20.14.png"
+  className="mx-auto"
 />
 
 - Digita il nome della paziente nella **barra di ricerca**.
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.22.56.png"
-alt="Screenshot 2025-04-07 alle 11.22.56.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.22.56.png"
+  alt="Screenshot 2025-04-07 alle 11.22.56.png"
+  className="mx-auto"
 />
 
 - Si aprirà la scheda paziente: scorri verso il basso
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.26.39.png"
-alt="Screenshot 2025-04-07 alle 11.26.39.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.26.39.png"
+  alt="Screenshot 2025-04-07 alle 11.26.39.png"
+  className="mx-auto"
 />
 
 - Vai alla sezione **“Informazioni Generali”** e clicca sull'icona della **matita** per fare delle modificare.
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.28.48.png"
-alt="Screenshot 2025-04-07 alle 11.28.48.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.28.48.png"
+  alt="Screenshot 2025-04-07 alle 11.28.48.png"
+  className="mx-auto"
 />
 
-- Si aprirà la schermata di “Informazioni Generali” continua a scorrere
+- Si aprirà la schermata di **“Informazioni Generali**” continua a scorrere
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.30.33.png"
-alt="Screenshot 2025-04-07 alle 11.30.33.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.30.33.png"
+  alt="Screenshot 2025-04-07 alle 11.30.33.png"
+  className="mx-auto"
 />
 
-- Fino ad arrivare alla sezione **_“Gravidanze e parto”_**, qui potrai inserire le seguenti informazioni: \*\*- Data ultimo ciclo
-- Stato
-- Settimana
-- Data presunta parto
-- Parto
-- Gravidanza a rischio
-- Depressione post parto\*\*
+- Fino ad arrivare alla sezione **_“Gravidanze e parto”_**, qui potrai inserire le seguenti informazioni:
+  - Data ultimo ciclo
+  - Stato
+  - Settimana
+  - Data presunta parto
+  - Parto
+  - Gravidanza a rischio
+  - Depressione post parto
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.54.08.png"
-alt="Screenshot 2025-04-07 alle 11.54.08.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.54.08.png"
+  alt="Screenshot 2025-04-07 alle 11.54.08.png"
+  className="mx-auto"
 />
 
-- Nel campo “Stato” puoi selezionare: \*\*- Aborto spontaneo
-- Aborto volontario
-- In corso
-- Partorito\*\*
+- Nel campo “Stato” puoi selezionare: 
+  - Aborto spontaneo
+  - Aborto volontario
+  - In corso
+  - Partorito
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_11.56.50.png"
-alt="Screenshot 2025-04-07 alle 11.56.50.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_11.56.50.png"
+  alt="Screenshot 2025-04-07 alle 11.56.50.png"
+  className="mx-auto"
 />
 
-- Inserendo la **_data dell’ultimo ciclo_**, il sistema calcolerà automaticamente: \*\*- Le settimane di gravidanza
-- La data presunta del parto\*\*
+- Inserendo la **_data dell’ultimo ciclo_**, il sistema calcolerà automaticamente: 
+  - Le settimane di gravidanza
+  - La data presunta del parto
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_12.00.54.png"
-alt="Screenshot 2025-04-07 alle 12.00.54.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_12.00.54.png"
+  alt="Screenshot 2025-04-07 alle 12.00.54.png"
+  className="mx-auto"
 />
 
 - Nel campo **_“Parto”_** si può inserire:
-- Cesareo
-- Distocico
-- Eutocico
+  - Cesareo
+  - Distocico
+  - Eutocico
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_12.08.25.png"
-alt="Screenshot 2025-04-07 alle 12.08.25.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_12.08.25.png"
+  alt="Screenshot 2025-04-07 alle 12.08.25.png"
+  className="mx-auto"
 />
 
-- Dopo aver inserito o modificato le informazioni, **ricordati di cliccare su “Salva”** per non perdere i dati.
+- Dopo aver inserito o modificato le informazioni, ricordati di cliccare su **“Salva”** per non perdere i dati.
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_12.10.26.png"
-alt="Screenshot 2025-04-07 alle 12.10.26.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_12.10.26.png"
+  alt="Screenshot 2025-04-07 alle 12.10.26.png"
+  className="mx-auto"
 />
 
 - Dopo aver inserito una gravidanza, apparirà un’**icona di una donna incinta** accanto al nome della paziente:
-- Verde → gravidanza in corso
-- Rossa → gravidanza in corso **a rischio**
-- Grigia → in cerca di una gravidanza
+  - **Verde** → gravidanza in corso
+  - **Rossa** → gravidanza in corso **a rischio**
+  - **Grigia** → in cerca di una gravidanza
 
 <img
-src="/images/platform/Screenshot_2025-04-07_alle_12.13.44.png"
-alt="Screenshot 2025-04-07 alle 12.13.44.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-07_alle_12.13.44.png"
+  alt="Screenshot 2025-04-07 alle 12.13.44.png"
+  className="mx-auto"
 />
 
 - Come aggiungere un pacchetto di prestazioni per la gravidanza
 - Dalla scheda paziente, clicca sulla sezione **“Ricette”**.
 
 <img
-src="/images/platform/Screenshot_2025-04-08_alle_14.13.51.png"
-alt="Screenshot 2025-04-08 alle 14.13.51.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-08_alle_14.13.51.png"
+  alt="Screenshot 2025-04-08 alle 14.13.51.png"
+  className="mx-auto"
 />
 
 - Una volta nella sezione Ricette, clicca su **“Prestazione”**.
 
 <img
-src="/images/platform/Screenshot_2025-04-08_alle_14.14.02.png"
-alt="Screenshot 2025-04-08 alle 14.14.02.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-08_alle_14.14.02.png"
+  alt="Screenshot 2025-04-08 alle 14.14.02.png"
+  className="mx-auto"
 />
 
 - Clicca su **“Aggiungi pacchetto prestazioni”** sulla destra.
 
 <img
-src="/images/platform/Screenshot_2025-04-08_alle_14.14.10.png"
-alt="Screenshot 2025-04-08 alle 14.14.10.png"
-className="mx-auto"
+  src="/images/platform/Screenshot_2025-04-08_alle_14.14.10.png"
+  alt="Screenshot 2025-04-08 alle 14.14.10.png"
+  className="mx-auto"
 />
 
 - Nel campo di ricerca scrivi **“gravidanza”** e appariranno automaticamente tutti i pacchetti disponibili. Puoi scegliere tra:
-- Gravidanza inizio (si trova alla fine)
-- Gravidanza 14 - 18
-- Gravidanza 19 - 23
-- Gravidanza 24 - 27
-- Gravidanza 28 - 32
-- Gravidanza 33 - 37
-- Gravidanza 41 -
+  - Gravidanza inizio (si trova alla fine dell'elenco perché in ordine alfabetico)
+  - Gravidanza 14 - 18
+  - Gravidanza 19 - 23
+  - Gravidanza 24 - 27
+  - Gravidanza 28 - 32
+  - Gravidanza 33 - 37
+  - Gravidanza 41 -
 
 <img
   src="/images/platform/Screenshot_2025-04-08_alle_14.29.21.png"

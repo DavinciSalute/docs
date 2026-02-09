@@ -43,7 +43,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Certificati](/platform/cartella/certificati) --\> V
 - [Referti (scheda paziente)](/platform/cartella/referti) --\> V
 - [Piani terapeutici](/platform/cartella/piani-terapeutici) --\> V
-- [Gravidanza](/platform/cartella/gravidanza)
+- [Come aggiungere lo stato di gravidanza](/platform/cartella/gravidanza) --\> V
 - [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni)
 - [PAI](/platform/cartella/pai)
 
