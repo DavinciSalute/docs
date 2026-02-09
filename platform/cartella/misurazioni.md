@@ -3,7 +3,8 @@ title: "Misurazioni"
 sidebarTitle: "Misurazioni"
 ---
 
-- Si possono inserire e visualizzare numerose informazioni relative al paziente:
+Si possono inserire e visualizzare numerose informazioni relative al paziente:
+
 - Temperatura corporea
 - Frequenza cardiaca
 - Saturazione di ossigeno
