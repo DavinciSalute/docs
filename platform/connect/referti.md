@@ -12,10 +12,10 @@ sidebarTitle: "Referti"
 />
 
 - La schermata visualizzata sarà composta da quattro schede:
-- Referti scaricati da FSE
-- Referti caricati manualmente
-- Referti ricevuti da app
-- Archivio dei referti
+  - Referti scaricati da FSE
+  - Referti caricati manualmente
+  - Referti ricevuti da app
+  - Archivio dei referti
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.31.09.png"
@@ -61,12 +61,12 @@ sidebarTitle: "Referti"
 
 - Il referto comparirà nella sezione "**_Caricati manualmente_**", per aprirlo basterà cliccare su "**_Visualizza_**" (si apre in una nuova scheda del browser). Per eliminarlo basterà cliccare sui 3 puntini verticali a destra di Visualizza.
 - Le colonne saranno:
-- Paziente
-- Tipologia del referto (il nome del referto)
-- Data di emissione
-- Note interne
-- Fonte del referto (con il nome dell'operatore che ha inserito il documento)
-- Azioni (visualizza ed i tre puntini verticali)
+  - Paziente
+  - Tipologia del referto (il nome del referto)
+  - Data di emissione
+  - Note interne
+  - Fonte del referto (con il nome dell'operatore che ha inserito il documento)
+  - Azioni (visualizza ed i tre puntini verticali)
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.33.45.png"
@@ -76,8 +76,9 @@ sidebarTitle: "Referti"
 
 - I referti caricati dai paziente tramite app compariranno nella sezione "**_Ricevuti da app_**".
 - I referti scaricati da FSE saranno nella sezione "Referti scaricati"
-- I referti scaricati da FSE non potranno essere eliminati perché arrivano direttamente dal fascicolo sanitario elettronico
-- I referti caricati manualmente e ricevuti da app possono essere eliminati in qualsiasi momento
+  - I referti scaricati da FSE non potranno essere eliminati perché arrivano direttamente dal fascicolo sanitario elettronico
+    - Possiamo eliminarli su richiesta ma ogni volta che vengono scaricati tutti i referti da FSE ricompariranno (consigliamo quindi il mantenimento di questi referti all'interno della cartella del paziente)
+  - I referti caricati manualmente e ricevuti da app possono essere eliminati in qualsiasi momento
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-04-09_alle_11.34.00.png"
@@ -86,8 +87,8 @@ sidebarTitle: "Referti"
 />
 
 - Dopo aver cliccato "Visualizza" su un qualsiasi referto si aprirà una nuova scheda del browser:
-- Si potrà vedere il documento (sulla base del formato di caricamento, ad esempio .PDF o .PNG)
-- Sulla destra del documento ci saranno due sezioni: "Gestisci referto" e "Parametri".
+  - Si potrà vedere il documento (sulla base del formato di caricamento, ad esempio .PDF o .PNG)
+  - Sulla destra del documento ci saranno due sezioni: "Gestisci referto" e "Parametri".
 - N.B.: La sezione relativa alla trascrizione dei parametri di laboratorio utilizzando l'Intelligenza Artificiale è momentaneamente in manutenzione, gli sviluppatori non ci hanno ancora fornito delle tempistiche
 
 <img
@@ -115,15 +116,16 @@ sidebarTitle: "Referti"
 />
 
 - Quando la trascrizione sarà terminata, alla destra del documento compariranno:
-- nome del parametro
-- i risultati
-- valore minimo
-- valore massimo
-- unità di misurazione Di fianco ad "**_Unità_**" ci sono dei pallini colorati che indicano il livello del risultato:
-- verde = in norma
-- giallo = borderline
-- rosso = alterato
-- grigio = N/A
+  - nome del parametro
+  - i risultati
+  - valore minimo
+  - valore massimo
+  - unità di misurazione 
+- Di fianco ad "**_Unità_**" ci sono dei pallini colorati che indicano il livello del risultato:
+  - verde = in norma
+  - giallo = borderline
+  - rosso = alterato
+  - grigio = N/A
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_09.30.53.png"
@@ -154,10 +156,10 @@ sidebarTitle: "Referti"
 />
 
 - Sulla destra del documento dovremmo inserire:
-- il risultato
-- valore minimo
-- valore massimo
-- unità di misurazione
+  - il risultato
+  - valore minimo
+  - valore massimo
+  - unità di misurazione
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.08.56.png"
@@ -166,12 +168,12 @@ sidebarTitle: "Referti"
 />
 
 - Sezione "**_Gestisci referto_**": in questa sezione possiamo
-- Modificare il nome del referto
-- Modificare la data
-- Scrivere delle **note interne** (visibili solo al personale medico)
-- Inserire il **quesito diagnostico**
-- Condividere al paziente in app delle **indicazioni di follow up**
-- Condividere delle note con il paziente
+  - Modificare il nome del referto
+  - Modificare la data
+  - Scrivere delle **note interne** (visibili solo al personale medico)
+  - Inserire il **quesito diagnostico**
+  - Condividere al paziente in app delle **indicazioni di follow up**
+  - Condividere delle note con il paziente
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.19.00.png"
@@ -180,10 +182,10 @@ sidebarTitle: "Referti"
 />
 
 - Cliccando su "Indicazioni follow up" si hanno 4 opzioni di follow up per il paziente:
-- Nessuna nota da condividere con il paziente
-- Non sono necessari ulteriori approfondimenti
-- Prenotare un appuntamento
-- Altro
+  - Nessuna nota da condividere con il paziente
+  - Non sono necessari ulteriori approfondimenti
+  - Prenotare un appuntamento
+  - Altro
 
 <img
   src="/images/platform/referti-connect/Screenshot_2025-03-11_alle_10.23.18.png"
@@ -221,7 +223,7 @@ sidebarTitle: "Referti"
   Valido solo in Lombardia e Toscana
 </Note>
 
-Quando è scritto "Trascrivi parametri da referto strutturato (CDA2)" significa che il referto potenzialmente può essere trascritto senza l'Intelligenza Artificiale ma tramite la transcodifica degli elementi presenti nel referto. 
+Quando è scritto "Trascrivi parametri da referto strutturato (CDA2)" significa che il referto potenzialmente può essere trascritto senza l'Intelligenza Artificiale ma tramite la transcodifica degli elementi presenti nel referto.
 
 Quando compare l'errore "Trascrizione non riuscita - il documento inserito non può essere trascritto automaticamente" significa che non è stata ancora integrata la transcodifica di quel referto, quindi per procedere ci servono:
 
