@@ -26,8 +26,8 @@ Benvenuto nella documentazione di Elty Davinci.
 ## Connect
 
 - [Agenda](/platform/connect/agenda) --\> V
-- [Richieste di ricetta](/platform/connect/richieste-ricetta) --\> Mancano 7 foto
-- [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
+- [Richieste di ricetta](/platform/connect/richieste-ricetta) --\> V
+- [Avvisi ai pazienti](/platform/connect/avvisi-pazienti) --\> V
 - [Referti](/platform/connect/referti)
 - [Videovisita](/platform/connect/videovisita)
 - [Messaggi chat](/platform/connect/messaggi-chat)

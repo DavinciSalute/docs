@@ -28,9 +28,9 @@ sidebarTitle: "Avvisi ai pazienti"
 />
 
 - Il **titolo** non è modificabile, si può inserire un **testo** di 318 caratteri e la **notifica** sarà inviata a tutti i pazienti (i caratteri speciali non sono ammessi) Possono essere aggiunti dei filtri per:
-- Sesso (pazienti uomini e pazienti donne)
-- Età (impostando età minima e massima)
-- Patologia (selezionare la patologia e lo stato)
+  - Sesso (pazienti uomini e pazienti donne)
+  - Età (impostando età minima e massima)
+  - Patologia (selezionare la patologia e lo stato)
 
 <img
   src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.43.44.png"
@@ -52,7 +52,8 @@ sidebarTitle: "Avvisi ai pazienti"
   className="mx-auto"
 />
 
-- Prima di essere inviato uscirà un’anteprima. Per inviarlo basterà cliccare “**_Pubblica_**”. All’interno del conteggio si può trovare il numero di pazienti, dispositivi, email e numeri di telefono inseriti all’interno della sezione Pazienti, quindi il numero di pazienti a cui arriverà l’avviso
+- Prima di essere inviato uscirà un’anteprima. Per inviarlo basterà cliccare “**_Pubblica_**”.
+- All’interno del conteggio si può trovare il numero di pazienti, dispositivi, email e numeri di telefono inseriti all’interno della sezione Pazienti, quindi il numero di pazienti a cui arriverà l’avviso
 
 <img
   src="/images/platform/avvisi-pazienti/Screenshot_2025-04-10_alle_10.53.23.png"
@@ -79,28 +80,16 @@ sidebarTitle: "Avvisi ai pazienti"
   alt="image.png"
   className="mx-auto"
   title=""
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 ## FAQ
 
 Attraverso quali canali i pazienti ricevono gli avvisi?
 
-Il paziente riceverà l’ **SMS** SOLO se non è inserita la email nel profilo paziente e il paziente non ha scaricato l’app, se ha scaricato l’**App Elty** arriverà tramite app e se è registrata la mail, arriverà per **Email** **NB. Nel caso in cui un paziente abbia scaricato l’app, riceverà la notifica solo in app.
-Se all’interno dell’anagrafica del paziente è salvata anche la mail, l’avviso arriverà anche li.**
+Il paziente riceverà l’**SMS** **SOLO** **se non è inserita la email** nel profilo paziente **e il paziente non ha scaricato l’app**, se ha scaricato l’App Elty arriverà tramite app e se è registrata la mail, arriverà per Email 
 
-<img
-  src="/images/platform/avvisi-pazienti/image%203.png"
-  alt="image.png"
-  className="mx-auto"
-  title=""
-/>
-
-<img
-  src="/images/platform/avvisi-pazienti/image%204.png"
-  alt="image.png"
-  className="mx-auto"
-  title=""
-/>
+N.B.: Nel caso in cui un paziente abbia scaricato l’app, riceverà la notifica solo in app. Se all’interno dell’anagrafica del paziente è salvata anche la mail, l’avviso arriverà anche li.
 
 Posso sapere se un paziente ha scaricato l’app?
 
