@@ -77,7 +77,8 @@
               "platform/altro/davinci-connector-stampa",
               "platform/altro/errori",
               "platform/altro/consigli-utilizzo",
-              "platform/altro/piani-tariffari"
+              "platform/altro/piani-tariffari",
+              "platform/altro/assistenza-da-remoto"
             ]
           }
         ]

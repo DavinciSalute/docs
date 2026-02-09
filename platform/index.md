@@ -53,6 +53,11 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Errori Elty](/platform/altro/errori)
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)
+- [Assistenza da remoto](/platform/altro/assistenza-da-remoto)
+
+<br/>
+<br/>
+<br/>
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
 https://elty.it/informative/webapp/privacy-policy

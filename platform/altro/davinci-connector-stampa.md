@@ -80,6 +80,17 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
 
 ## Impostazioni per Mac
 
+Per capire quale versione installare sul tuo Mac bisogna capire se è Mac Arm o Mac Intel:
+
+- Clicca il simbolo di Apple in alto a sinistra
+- Clicca Informazioni su questo Mac
+
+![Screenshot2026 02 09alle14 59 18](/images/Screenshot2026-02-09alle14.59.18.png)
+
+Se il processore è Intel allora dovrai scaricare il link relativo al Mac Intel, se ha un altro chip allora bisognerà scaricare Mac Arm
+
+![Screenshot2026 02 09alle14 58 29](/images/Screenshot2026-02-09alle14.58.29.png)
+
 Per permettere l'utilizzo del Davinci Connector ogni volta che si accende il dispositivo ricordiamo che il software non deve essere tolto dagli "Elementi login ed estensioni"
 
 <img
