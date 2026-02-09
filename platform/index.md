@@ -41,7 +41,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Anamnesi](/platform/cartella/anamnesi) --\> V
 - [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente) --\> V
 - [Certificati](/platform/cartella/certificati) --\> V
-- [Referti](/platform/cartella/referti)
+- [Referti (scheda paziente)](/platform/cartella/referti)
 - [Piani terapeutici](/platform/cartella/piani-terapeutici)
 - [Gravidanza](/platform/cartella/gravidanza)
 - [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni)
