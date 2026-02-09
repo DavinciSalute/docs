@@ -3,42 +3,53 @@ title: "PAI"
 sidebarTitle: "PAI"
 ---
 
-- **PAI = Piano Assistenziale Individuale** composto da:
-  - **Patologia primaria** (+ eventuali **patologie secondarie** → aumenta "livello/complessità" del PAI)
-  - **Prestazioni** (le **prestazioni ambulatoriali sono quelle che vengono prenotate**)
-  - **Farmaci**
-  - **Stile di vita** (obbligatorio)
-  - **Vaccinazioni** (non obbligatorie)
-- Ogni **ATS** ha un elenco di patologie ammesse come **primarie** → se esce un errore, spesso questo si risolve cambiando la patologia primaria.
+<Warning>
+  I PAI riguardano solo la Lombardia
+</Warning>
 
----
+## 1. Introduzione
 
-- Sezione PAI in scheda paziente:
-  - **Stato del PAI**
-  - **Aderenza terapeutica** (per ora intesa come "visite prescritte"/ricette emesse)
-  - **Lista PAI vecchi** pubblicati/scaricati
-- **Arruolamento** = presa in carico / "patto di cura" tra medico–paziente–cooperativa–Regione.
-  - Il sistema fa la **verifica arruolabilità** (PAI già presente in Regione? paziente arruolato con altro medico?).
-  - In arruolamento: possibilità di scaricare **2 PDF patti di cura** precompilati (medico + paziente).
-  - Nella pratica: spesso arruolamento fatto **asincrono** (firma patti dopo, o non sempre).
-  - Prima serviva tessera sanitaria fisica → ora **non più necessario** (arruolamento più facile asincrono).
-- **Ricette**: cambiata delibera → ricette valide **6 mesi** (non 12) → introdotta scelta:
-  - "prescrivi primo lotto / secondo lotto / tutto"
-  - Importante aiutare il medico a ricordare se le ricette sono state già emesse.
+**PAI = Piano Assistenziale Individuale** composto da:
 
----
+- **Patologia primaria** (+ eventuali **patologie secondarie** → aumenta "livello/complessità" del PAI)
+- **Prestazioni** (le **prestazioni ambulatoriali sono quelle che vengono prenotate**)
+- **Farmaci**
+- **Stile di vita** (obbligatorio)
+- **Vaccinazioni** (non obbligatorie)
 
-### **Sezione globale PAI**
+Ogni **ATS** ha un elenco di patologie ammesse come **primarie** → se esce un errore, spesso questo si risolve cambiando la patologia primaria.
 
-- Tab con viste:
-  - **Tutti**
-  - **Arruolabili** (dovrebbe mostrare pazienti "cronici" arruolabili)
+## 2. Sezione PAI in scheda paziente:
+
+- **Stato del PAI**
+- **Aderenza terapeutica** (per ora intesa come "visite prescritte"/ricette emesse)
+- **Lista PAI vecchi** pubblicati/scaricati
+
+Qui si fa il lavoro operativo sul singolo:
+
+- Arruolamento / crea PAI / pubblica / rinnova / modifica / scarica / importa / ricette
+
+**Arruolamento** = presa in carico / "patto di cura" tra medico–paziente–cooperativa–Regione.
+
+- Il sistema fa la **verifica arruolabilità** (PAI già presente in Regione? paziente arruolato con altro medico?).
+- In arruolamento: possibilità di scaricare **2 PDF patti di cura** precompilati (medico + paziente).
+  - Spesso l'arruolamento è fatto in **asincrono** (firma dei patti dopo).
+  - In passato serviva la tessera sanitaria fisica → ora **non più necessario** (arruolamento più facile perché asincrono).
+
+**Ricette**: è cambiata la delibera → le ricette ora sono valide **6 mesi** (non 12)
+
+- Abbiamo introdotto una scelta:
+  - Prescrivi primo lotto
+  - Prescrivi secondo lotto
+  - Prescrivi tutto
+- Aiutiamo il medico a ricordare se le ricette sono state già emesse.
+
+## 3. Sezione globale PAI
+
+- È composta da 3 elementi (sezioni):
+  - **Tutti **(i pazienti)
+  - **Arruolabili** (mostra pazienti "cronici" arruolabili)
   - **Pubblicati** (con indicatori come "visite prescritte")
-
-### **Scheda paziente → tab PAI dedicata**
-
-- Qui si fa il lavoro operativo sul singolo:
-  - arruolamento / crea PAI / pubblica / rinnova / modifica / scarica / importa / ricette
 
 ---
 
