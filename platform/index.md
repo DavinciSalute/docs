@@ -40,7 +40,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Parametri](/platform/cartella/parametri) --\> V
 - [Anamnesi](/platform/cartella/anamnesi) --\> V
 - [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente) --\> V
-- [Certificati](/platform/cartella/certificati)
+- [Certificati](/platform/cartella/certificati) --\> V
 - [Referti](/platform/cartella/referti)
 - [Piani terapeutici](/platform/cartella/piani-terapeutici)
 - [Gravidanza](/platform/cartella/gravidanza)
