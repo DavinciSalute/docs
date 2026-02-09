@@ -14,18 +14,18 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy) --\> V
 - [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss) --\> V
 - [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale) --\> V
-- [Link utili](/platform/impostazioni/link-utili) --\> Manca 1 foto
+- [Link utili](/platform/impostazioni/link-utili) --\> V
 - [Invita un collega](/platform/impostazioni/invita-collega) --\> V
 
 ## Pazienti
 
-- [Pazienti](/platform/pazienti/panoramica) --\> Mancano 3 foto
+- [Pazienti](/platform/pazienti/panoramica) --\> V
 - [Ricerca paziente](/platform/pazienti/ricerca-paziente) --\> V
-- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche) --\> Manca 1 foto
+- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche) --\> V
 
 ## Connect
 
-- [Agenda](/platform/connect/agenda) --\> Mancano 2 foto
+- [Agenda](/platform/connect/agenda) --\> V
 - [Richieste di ricetta](/platform/connect/richieste-ricetta) --\> Mancano 7 foto
 - [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
 - [Referti](/platform/connect/referti)

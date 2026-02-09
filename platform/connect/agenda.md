@@ -84,7 +84,7 @@ sidebarTitle: "Agenda"
   - **Orario di fine**
   - **La ricorrenza** (le opzioni sono: “O_gni …” valida per ogni giorno della settimana, ad esempio ogni lunedì, “Per quattro settimane”, “Solo per …” valido per qualsiasi giorno, bisogna indicare il giorno in cui si vogliono le disponibilità\_)
   - Selezionare l’opzione “**Non mostrare disponibilità nei festivi**” (attualmente non c’è l’opzione per i prefestivi, se si vogliono bloccare allora bisognerà inserire sopra un “evento”)
-  - \*\*Le prestazioni \*\*che si vogliono far prenotare in quel lasso di tempo: **sono state inserite in Gestione Servizi** (_si possono aggiungere in “Gestione servizi” → “Agenda e prestazioni”_)
+  - Le prestazioni che si vogliono far prenotare in quel lasso di tempo: **sono state inserite in Gestione Servizi** (_si possono aggiungere in “Gestione servizi” → “Agenda e prestazioni”_)
   - La possibilità di rendere l’**orario visibile ai pazienti in app** (_quindi nell’agenda il riquadro sarà giallo, se non si spunta sarà bianco_)
   - La possibilità di rendere **Visibile a tutti i pazienti della medicina di gruppo SSN** (quindi visibile anche ai pazienti degli altri medici all’interno del gruppo di lavoro)
   - In **Opzioni aggiuntive** è possibile inserire anche il Numero di pazienti che vuoi ricevere in questa fascia oraria (non è consigliato: se è correttamente impostata la durata della prestazione all’interno della Gestione servizi allora il numero di prenotazioni sarà sulla base degli slot inseriti nel calendario, quindi non c’è bisogno di inserire il numero di pazienti da ricevere in quella fascia oraria).
@@ -346,12 +346,6 @@ Caso di pianificazione di un “Evento”:
 - Cliccando sulla sezione “**_Da accettare_**” (a destra di “Storico”) potrete visualizzare le prenotazioni da accettare. Questo vale solo se non è stata attivata l’accettazione automatica delle prenotazioni in “Gestione servizi”
   - Cliccando “**_Accetta_**” la prenotazione comparirà **nell’Agenda**.
   - Le prenotazioni da accettare sono visualizzate nell’agenda come dei blocchi tratteggiati (possono essere accettate anche cliccando su questi blocchi all’interno della sezione “Calendario”, dove c’è la griglia con gli orari di ricevimento)
-
-<img
-  src="/images/platform/agenda/26..png"
-  alt="26..png"
-  className="mx-auto"
-/>
 
 ### 5. Impostazioni di Gestione servizi utili al funzionamento dell’agenda
 
