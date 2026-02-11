@@ -9,6 +9,22 @@ sidebarTitle: "PAI"
 
 ## 1. Introduzione
 
+In Regione Lombardia, la Presa In Carico del paziente cronico (PIC) è un percorso pensato per offrire cure più organizzate, continue e personalizzate.
+
+Il medico di famiglia redige per ogni paziente un **Piano Assistenziale Individuale (PAI)**, che raccoglie al suo interno tutte le prestazioni da effettuare nell'arco di un anno, insieme alle prescrizioni farmacologiche per la cura della patologia.
+
+**Per compilare e pubblicare un PAI** (Piano Assistenziale Individuale) sul Fascicolo Sanitario Elettronico del paziente, un medico di medicina generale deve disporre di un **software** abilitato (es. **Elty**) ed essere socio di una **cooperativa** accreditata come Gestore PAI (es. **Horus Medica**). Un medico singolo, non affiliato a una cooperativa con questo ruolo, non può pubblicare un PAI in autonomia.
+
+Questo perché la cooperativa ricopre anche una funzione fondamentale: quella di **Centro Servizi**, incaricato di supportare i pazienti presi in carico. In particolare, il Centro Servizi ha il compito di contattare i pazienti per organizzare le prestazioni previste nel PAI e fornire loro gli appuntamenti necessari.
+
+Il principale vantaggio di utilizzare lo stesso strumento sia come cartella clinica elettronica sia per la gestione della presa in carico del paziente consiste nell'avere già integrate tutte le informazioni relative a stile di vita, patologie, prestazioni, farmaci e vaccinazioni. In questo modo, la compilazione del PAI risulta in gran parte automatizzata.
+
+### Termini e requisiti per fare PAI con noi
+
+<Info>
+  Documento con i termini e requisiti per i medici: https://drive.google.com/file/d/1GQy-8OTWh5mv-lqCdTLhTMVN4zqIJ8pO/view
+</Info>
+
 **PAI = Piano Assistenziale Individuale** composto da:
 
 - **Patologia primaria** (+ eventuali **patologie secondarie** → aumenta "livello/complessità" del PAI)
@@ -24,6 +40,7 @@ Ogni **ATS** ha un elenco di patologie ammesse come **primarie** → se esce un 
 ### **Sezione PAI in scheda paziente**
 
 - **Stato del PAI**
+  - La % di completamento presente in scheda paziente e nella sezione PAI indica soltanto se è stato inserito almeno un elemento relativo a quell'area specifica, obbligatoria per la creazione e pubblicazione del PAI.
 - **Aderenza terapeutica** (per ora intesa come "visite prescritte"/ricette emesse)
 - **Lista PAI vecchi** pubblicati/scaricati
 
@@ -46,14 +63,23 @@ Qui si fa il lavoro operativo sul singolo:
   - Prescrivi tutto
 - Aiutiamo il medico a ricordare se le ricette sono state già emesse.
 
-### Sezione globale PAI
+## 3. Sezione globale PAI
+
+Nella sezione PAI globale è possibile vedere in modo immediato quanti pazienti cronici arruolabili ha il medico, quanti arruolati ma senza PAI ecc.
 
 - È composta da 3 elementi (sezioni):
   - **Tutti** (i pazienti)
   - **Arruolabili** (mostra pazienti "cronici" arruolabili)
   - **Pubblicati** (con indicatori come "visite prescritte")
 
-## 3. Arruolamento (presa in carico)
+Tramite i pulsanti d'azione è possibile visualizzare e modificare il PAI selezionato.
+
+Nella gestione PAI sarà possibile anche verificare:
+
+- Se è presente un PAI per quel paziente sul fascicolo sanitario elettronico e importarlo in Elty direttamente dalla sezione PAI
+- Se il paziente risulta in carico ad un altro medico o un altra cooperativa e deve essere disarruolato.
+
+## 4. Arruolamento (presa in carico)
 
 1. Medico entra in **Sezione PAI** del paziente (o da globale).
 2. Clicca **"Arruola"**.
@@ -110,9 +136,9 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 
 - Consiglio: usare i **pacchetti prestazioni** (pensati anche "principalmente per i PAI", oltre che per ricette).
 
-## 4. Pubblicazione PAI (FSE) e cosa succede subito dopo
+## 5. Pubblicazione PAI (FSE) e cosa succede subito dopo
 
-**Pubblicazione**
+### **Pubblicazione**
 
 - Pubblicando il PAI:
   - viene creato un **PDF**
@@ -129,9 +155,7 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
   - Se manca email/contatti paziente → non viene inviato nulla
   - Verrà introdotto un **popup per inserire email/contatto** se mancante (chiedere al medico al momento dell'invio)
 
----
-
-## Ricette dal PAI (post-pubblicazione)
+### Ricette dal PAI (post-pubblicazione)
 
 Dopo pubblicazione:
 
@@ -148,21 +172,12 @@ Quando clicchi "prescrivi ricette":
   - **primo lotto**
   - **secondo lotto**
   - **tutto**
+    - Motivo: le ricette ora sono di 6 mesi → serve la gestione in due tranche.
+- "Aderenza" (come viene mostrata oggi)
+  - È chiamata "aderenza", ma oggi significa:
+    - **Quante prestazioni hanno ricetta emessa** (visite prescritte)
 
-    Motivo: ricette ora 6 mesi → serve gestione in due tranche.
-
-### "Aderenza" (come viene mostrata oggi)
-
-- È chiamata "aderenza", ma oggi significa:
-  - **quante prestazioni hanno ricetta emessa** (visite prescritte)
-- In futuro si vorrebbe separare:
-  1. ricette emesse
-  2. prestazioni prenotate
-  3. prestazioni effettuate
-
----
-
-## Alert di modifiche post-pubblicazione
+### Alert di modifiche post-pubblicazione
 
 Se dopo la pubblicazione cambi dati in scheda paziente:
 
@@ -171,19 +186,17 @@ Se dopo la pubblicazione cambi dati in scheda paziente:
 - Aggiornando e ripubblicando:
   - È un **aggiornamento** su FSE (non "succede niente di rischioso", è un refresh)
 
-### Regole sui farmaci (dettaglio)
+**Regole sui farmaci (dettaglio)**
 
 - Se cambia **posologia** di un farmaco già esistente → **NON appare** il banner.
 - Se **aggiungi un nuovo farmaco** → **appare** il banner.
 
-### Email in caso di modifica
+**Email in caso di modifica**
 
 - Oggi: email paziente inviata **solo** su pubblicazione/rinnovo, **non** su modifica.
 - In app: si aggiorna, ma il paziente potrebbe non accorgersene.
 
----
-
-## Scarica PAI da FSE (singolo) + Azioni (tre puntini)
+## 6. Scarica PAI da FSE (singolo) + Azioni (tre puntini)
 
 Da scheda paziente → sezione PAI:
 
@@ -195,9 +208,7 @@ Da scheda paziente → sezione PAI:
   - **Prescrivi ricette**
   - Recupero **patti di cura** (se arruolato)
 
----
-
-## Importa dati in scheda paziente (strutturato)
+### Importa dati in scheda paziente (strutturato)
 
 Dopo "Importa dati":
 
@@ -210,11 +221,9 @@ Dopo "Importa dati":
   - Da Regione arrivano come **principi attivi** (non nome commerciale/posologia)
   - Quindi import farmaci è meno utile → se serve, va fatto manualmente.
 
----
+## 7. Funzioni massive (solo con firma in cloud)
 
-## Funzioni massive (solo con firma in cloud)
-
-### Prerequisito chiave
+**Prerequisito chiave**
 
 - I pulsanti "massivi" sono **abilitati solo se loggato in cloud** (firma in cloud).
 - Con **smart card**: alcune azioni massive non funzionano.
@@ -241,13 +250,11 @@ Pulsante: **"Verifica PAI da FSE"**
 - Crea **bozze di rinnovo** per velocizzare:
   - apri bozza → eventuale modifica → pubblichi → passi alla successiva
 
----
-
-## Ruoli cooperativa / attivazione medici (**Horus Medica** vs IML)
+## 8. Ruoli cooperativa / attivazione medici (**Horus Medica** vs IML)
 
 - Alcune sezioni PAI sono visibili **solo ai medici Horus Medica**.
-- Flusso per passare un medico da **IML → Horus Medica**:
-  1. Medico in stato **IML**: fa **disarruolamento massivo** (banner dedicato se correttamente visibile)
+- Flusso per passare da **IML → Horus Medica**:
+  1. Medico ex **IML**: fa **disarruolamento massivo** (banner dedicato per il disarruolamento massivo)
      - Quando li disarruoli, vai ad annullare il PAI
        - Questo anche ad esempio se il PAI è stato fatto il 31 dicembre e si li disarruola a gennaio
        - Quindi vanno riarruolati e rifatti i PAI da pubblicare
@@ -262,117 +269,8 @@ Casi e relative situazioni:
 - Altre cooperative: devono disarruolare i PAI dagli altri gestionali e poi rifare i PAI annullati in Elty
 - Nessuna cooperativa precedete ad **Horus Medica**: non bisogna disarruolare nessun paziente, si può procedere direttamente in Elty
 
----
-
-## Portale prenotazioni **Horus Medica** (operator portal)
+## 9. Portale prenotazioni **Horus Medica**
 
 - Esiste portale regionale per prenotazioni lato cooperativa:
   - accesso con **firma remota + OTP telefono**
   - Ci pensano i componenti di **Horus Medica**
-
----
-
-## Introduzione al PAI
-
-In Regione Lombardia, la Presa In Carico del paziente cronico (PIC) è un percorso pensato per offrire cure più organizzate, continue e personalizzate.
-
-Il medico di famiglia redige per ogni paziente un **Piano Assistenziale Individuale (PAI)**, che raccoglie al suo interno tutte le prestazioni da effettuare nell'arco di un anno, insieme alle prescrizioni farmacologiche per la cura della patologia.
-
-## Storico
-
-Per compilare e pubblicare un PAI (Piano Assistenziale Individuale) sul Fascicolo Sanitario Elettronico del paziente, un medico di medicina generale deve disporre di un software abilitato (es. Elty) **ed essere socio di una cooperativa accreditata come Gestore PAI (es. Horus Medica)**. Un medico singolo, non affiliato a una cooperativa con questo ruolo, **non può pubblicare un PAI** in autonomia.
-
-Questo perché la cooperativa ricopre anche una funzione fondamentale: quella di **Centro Servizi**, incaricato di supportare i pazienti presi in carico. In particolare, il Centro Servizi ha il compito di contattare i pazienti per **organizzare le prestazioni previste nel PAI e fornire loro gli appuntamenti necessari**.
-
-## Termini e requisiti per fare PAI con noi
-
-<Info>
-  Documento con i termini e requisiti per i medici: https://drive.google.com/file/d/1GQy-8OTWh5mv-lqCdTLhTMVN4zqIJ8pO/view
-</Info>
-
-## Prodotto
-
-Nella sezione PAI globale è possibile vedere in modo immediato quanti pazienti cronici arruolabili ha il medico, quanti arruolati ma senza PAI ecc.
-
-Tramite i pulsanti d'azione è possibile visualizzare e modificare il PAI selezionato.
-
-Nella gestione PAI sarà possibile anche verificare:
-
-- Se è presente un PAI per quel paziente sul fascicolo sanitario elettronico e importarlo in Elty direttamente dalla sezione PAI
-- Se il paziente risulta in carico ad un altro medico o un altra cooperativa e deve essere disarruolato.
-
-<img
-  src="/images/platform/pai/569da228-e6b7-482b-a590-81c726d85dfb.png"
-  alt="Screenshot 2025-09-17 17.26.43 (1).png"
-  className="mx-auto"
-/>
-
-Si possono effettuare azioni massive tramite la selezione multipla
-
-- Rinnovare o controllare le bozze
-- Pubblicarle di più PAI insieme
-
-<img
-  src="/images/platform/pai/5ab23770-474c-45d6-95d5-5887fd639d6f.png"
-  alt="Screenshot 2025-09-17 17.28.20 (1).png"
-  className="mx-auto"
-/>
-
-All'interno della scheda paziente è presente un breve riepilogo sullo stato del PAI e sul suo livello di completamento.
-
-Il principale vantaggio di utilizzare lo stesso strumento sia come cartella clinica elettronica sia per la gestione della presa in carico del paziente consiste nell'avere già integrate tutte le informazioni relative a stile di vita, patologie, prestazioni, farmaci e vaccinazioni. In questo modo, la compilazione del PAI risulta in gran parte automatizzata.
-
-La % di completamento presente in scheda paziente e nella sezione PAI indica soltanto se è stato inserito almeno un elemento relativo a quell'area specifica, obbligatoria per la creazione e pubblicazione del PAI.
-
-Sezione PAI, puoi:
-
-- Scaricare PAI da FSE, visualizzare lo storico di tutti i PAI effettuati in precedenza (in Elty e non)
-- Verificare lo stato corrente del PAI
-- Verificare l'aderenza terapeutica
-- Effettuare massivamente la stampa delle ricette delle prestazioni presenti nel PAI
-- Importare dati strutturati in cartella
-
-<img
-  src="/images/platform/pai/image.png"
-  alt="image.png"
-  className="mx-auto"
-/>
-
-- Effettuare massivamente la stampa delle ricette delle prestazioni presenti nel PAI
-  - Attenzione, la validità delle ricette oggi risulta essere soltanto di 6 mesi
-- È possibile stampare anche solo un primo set di ricette, verificare quante ricette sul totale sono state stampate e procedere così
-
-<img
-  src="/images/platform/pai/image 1.png"
-  alt="image.png"
-  className="mx-auto"
-  title=""
-/>
-
-<img
-  src="/images/platform/pai/image 2.png"
-  alt="image.png"
-  className="mx-auto"
-  title=""
-/>
-
-- Durante l'importazione dei dati è possibile decidere quali dati importare e quali no, per evitare duplicati ed avere tutto sotto controllo.
-- Per quanto riguarda i farmaci sarà possibile importare il principio attivo ma verrà poi chiesta la selezione del farmaco corretto.
-
-<img
-  src="/images/platform/pai/Screenshot_2025-09-17_17.23.03_(1).png"
-  alt="Screenshot 2025-09-17 17.23.03 (1).png"
-  className="mx-auto"
-/>
-
-<img
-  src="/images/platform/pai/Screenshot_2025-09-17_17.25.11_(1).png"
-  alt="Screenshot 2025-09-17 17.25.11 (1).png"
-  className="mx-auto"
-/>
-
-<img
-  src="/images/platform/pai/Screenshot_2025-09-17_17.25.19_(1).png"
-  alt="Screenshot 2025-09-17 17.25.19 (1).png"
-  className="mx-auto"
-/>
