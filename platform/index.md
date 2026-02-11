@@ -7,7 +7,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni
 
-- [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V test
+- [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V 
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi) --\> V
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto) --\> V
 - [Report e statistiche](/platform/impostazioni/report-statistiche) --\> V
