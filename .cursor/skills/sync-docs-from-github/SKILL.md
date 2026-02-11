@@ -1,17 +1,17 @@
 ---
 name: sync-docs-from-github
-description: Synchronize Mintlify documentation with recent code changes from GitHub repository master branch. Use when the user wants to update docs based on recent commits, sync documentation, or mentions updating docs from GitHub, qa branch, or DavinciSalute/davinci repository.
+description: Synchronize Mintlify documentation with recent code changes from GitHub repository master branch. Use when the user wants to update docs based on recent commits, sync documentation, or mentions updating docs from GitHub, master branch, or DavinciSalute/davinci repository.
 ---
 
 # GitHub → Mintlify Docs Sync Agent
 
-This skill helps synchronize the Mintlify documentation with recent code changes from the `DavinciSalute/davinci` repository's `qa` branch.
+This skill helps synchronize the Mintlify documentation with recent code changes from the `DavinciSalute/davinci` repository's `master` branch.
 
 ## Quick Start
 
 When invoked, follow this workflow:
 
-1. Fetch recent commits from qa branch
+1. Fetch recent commits from master branch
 2. Identify documentation-relevant changes
 3. Update or create corresponding documentation pages
 4. Create a pull request with the changes
@@ -27,7 +27,7 @@ CallMcpTool:
   arguments:
     owner: "DavinciSalute"
     repo: "davinci"
-    sha: "qa"
+    sha: "master"
     perPage: 10
 ```
 
@@ -109,7 +109,7 @@ Example: `docs/sync-from-davinci-2026-02-02`
 
 **PR Title:**
 ```
-Docs: sync updates from DavinciSalute/davinci (qa branch, <date>)
+Docs: sync updates from DavinciSalute/davinci (master branch, <date>)
 ```
 
 **PR Description Template:**
@@ -122,7 +122,7 @@ Docs: sync updates from DavinciSalute/davinci (qa branch, <date>)
 
 ## Motivation
 
-Syncing documentation with recent changes on qa branch:
+Syncing documentation with recent changes on master branch:
 - Commit range: [oldest SHA]...[newest SHA]
 - Date range: [start date] to [end date]
 
@@ -141,7 +141,7 @@ Syncing documentation with recent changes on qa branch:
 Use Git commands to:
 1. Create branch: `git checkout -b docs/sync-from-davinci-YYYY-MM-DD`
 2. Stage changes: `git add .`
-3. Commit: `git commit -m "docs: sync from qa branch (YYYY-MM-DD)"`
+3. Commit: `git commit -m "docs: sync from master branch (YYYY-MM-DD)"`
 4. Push: `git push -u origin HEAD`
 
 Then use `gh pr create` with the template above.
@@ -195,9 +195,9 @@ For the docs repository:
 ## Example Workflow
 
 ```
-User: "Update docs from recent qa changes"
+User: "Update docs from recent master changes"
 
-1. Fetch last 10 commits from DavinciSalute/davinci qa branch
+1. Fetch last 10 commits from DavinciSalute/davinci master branch
 2. Identify 3 documentation-relevant commits:
    - abc123: New agenda time slots feature
    - def456: Updated patient search filters
