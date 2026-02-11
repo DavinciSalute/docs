@@ -19,7 +19,9 @@ sidebarTitle: "PAI"
 
 Ogni **ATS** ha un elenco di patologie ammesse come **primarie** → se esce un errore, spesso questo si risolve cambiando la patologia primaria.
 
-## 2. Sezione PAI in scheda paziente:
+## 2. Sezioni PAI in scheda paziente:
+
+### **Sezione PAI in scheda paziente**
 
 - **Stato del PAI**
 - **Aderenza terapeutica** (per ora intesa come "visite prescritte"/ricette emesse)
@@ -44,50 +46,46 @@ Qui si fa il lavoro operativo sul singolo:
   - Prescrivi tutto
 - Aiutiamo il medico a ricordare se le ricette sono state già emesse.
 
-## 3. Sezione globale PAI
+### Sezione globale PAI
 
 - È composta da 3 elementi (sezioni):
-  - **Tutti **(i pazienti)
+  - **Tutti** (i pazienti)
   - **Arruolabili** (mostra pazienti "cronici" arruolabili)
   - **Pubblicati** (con indicatori come "visite prescritte")
 
----
-
-## Arruolamento (presa in carico)
+## 3. Arruolamento (presa in carico)
 
 1. Medico entra in **Sezione PAI** del paziente (o da globale).
 2. Clicca **"Arruola"**.
 3. Si apre un **pop-up di verifica arruolamento**:
-   - controllo su sistemi Regione: paziente già con PAI? già arruolato altrove?
+   - Controllo su sistemi Regione: paziente già con PAI? già arruolato altrove?
 4. Se OK → conferma arruolamento.
 
-### Output dell'arruolamento
+**Output dell'arruolamento:**
 
 - Il medico può scaricare i **patti di cura (2 PDF)**:
-  - precompilati con **nome/cognome medico** e **nome/cognome paziente**.
+  - Precompilati con **nome/cognome medico** e **nome/cognome paziente**.
 - Anche dopo, i patti di cura dovrebbero essere recuperabili dai **"tre puntini"** (menu azioni).
 
----
+**"Crea PAI" e precompilazione**
 
-## "Crea PAI" e precompilazione
-
-- Dopo arruolamento, il sistema mostra **"Crea PAI"** e un indicatore come **CREA PAI 100%** (o simile):
-  - Calcolato in base a presenza in cartella di:
+- Dopo l'arruolamento, il sistema mostra **"Crea PAI"** e un indicatore come **CREA PAI 100%**
+  - La percentuale è calcolata in base a presenza in cartella di:
     - patologie croniche
     - farmaci
     - prestazioni
     - stile di vita
     - vaccinazioni
-  - Basta anche solo 1 per far salire la %)
+  - Basta anche solo 1 per far salire la %
 
 > Importante: è una completezza di dati, non è una verifica clinica (non può sapere se le prestazioni sono "tutte quelle giuste" per patologia).
 
-### Schermata "Epilogo PAI"
+**Schermata "Epilogo PAI"**
 
 Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 
 - **Patologia primaria + secondarie**
-  - puoi modificare, aggiungere, rimuovere
+  - Puoi modificare, aggiungere, rimuovere
   - Più patologie → aumenta livello/complessità → maggiore remunerazione
 - **Esenzioni / allergie**
 - **Vaccinazioni** (visiona + aggiungi eventuali da fare)
@@ -95,30 +93,26 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 - **Prestazioni**
 - **Farmaci**
 
----
-
-## Prestazioni: regole chiave in webapp
+**Prestazioni:**
 
 - Campo fondamentale: **periodicità** (ogni quanto va fatta la prestazione).
 - Il sistema mette una periodicità di default ma:
   - si può modificare singolarmente
   - si possono fare **modifiche massive** (periodicità + note)
 
-### Regola "\>12 mesi"
+**Regola "\>12 mesi"**
 
 - Le prestazioni con periodicità **maggiore di 12 mesi**:
-  - vengono inserite nei **PAI successivi** (non sempre nello stesso anno)
-  - il sistema "si ricorda" la cadenza (esempio: un anno sì / un anno no)
+  - Vengono inserite nei **PAI successivi** (non sempre nello stesso anno)
+  - Il sistema "si ricorda" la cadenza (esempio: un anno sì / un anno no)
 
-### Pacchetti prestazioni
+**Pacchetti prestazioni**
 
 - Consiglio: usare i **pacchetti prestazioni** (pensati anche "principalmente per i PAI", oltre che per ricette).
 
----
+## 4. Pubblicazione PAI (FSE) e cosa succede subito dopo
 
-## Pubblicazione PAI (FSE) e cosa succede subito dopo
-
-### Pubblicazione
+**Pubblicazione**
 
 - Pubblicando il PAI:
   - viene creato un **PDF**
@@ -126,13 +120,13 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
   - può essere scaricato
   - (in app) il paziente vede "**Il mio piano di cura**" con prestazioni del PAI
 
-### Email automatica al paziente
+**Email automatica al paziente**
 
 - Dopo pubblicazione (o rinnovo) parte:
   - **email al paziente** con **PDF allegato**
   - testo: la cooperativa (**Horus Medica**) gestirà prenotazioni e ricontatterà
-- **Problema attuale**:
-  - se manca email/contatti paziente → non viene inviato nulla
+- **Situazione attuale**:
+  - Se manca email/contatti paziente → non viene inviato nulla
   - Verrà introdotto un **popup per inserire email/contatto** se mancante (chiedere al medico al momento dell'invio)
 
 ---
