@@ -51,7 +51,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 - [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa) --\> V
 - [Errori Elty](/platform/altro/errori) --\> V
-- [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
+- [Consigli di utilizzo](/platform/altro/consigli-utilizzo) --\> V
 - [Piani tariffari](/platform/altro/piani-tariffari)
 - [Assistenza da remoto](/platform/altro/assistenza-da-remoto)
 

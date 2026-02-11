@@ -5,7 +5,14 @@ sidebarTitle: "Davinci Connector e stampa"
 
 ## 1. Download del Davinci Connector
 
-Il Davinci Connector permette la stampa delle ricette e il collegamento tramite Smart card.
+Il Davinci Connector:
+
+- Permette di stampare le ricette (prescrizioni) direttamente dal browser senza doverle scaricare
+- Se sei connesso con Smart card permette il collegamento al SISS
+  - Attenzione: se clicchi “Login Cloud Regionale” e hai inserito la Smart card, allora ti connetterai al cloud regionale (firma remota), quindi non sarai connesso al SISS tramite Davinci Connector e Smart Card
+- Se sei connesso con firma remota permette solo la stampa delle ricette
+
+N.B.: Il Davinci Connector in alcuni casi è chiamato SISS Connector
 
 Il Davinci Connector si può scaricare a questi link:
 
@@ -153,7 +160,7 @@ Come selezionare la stampante dal Davinci Connector:
 ### Come stampare in A5
 
 - Oltre a scegliere la configurazione corretta sul nostro Connector, vanno tenuti a mente una serie di accorgimenti da utilizzare fisicamente sulla stampante quando si vuole stampare in A5.
-- ******_______Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale._______******
+- ************_Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale._************
 - La prassi migliore vorrebbe che ci attenessimo alle **istruzioni del manuale** della stampante su come posizionare l'A5 nel cassetto della stampante. In alternativa possiamo seguire le **indicazioni riportate sulle guide** del cassetto
 
 <img
