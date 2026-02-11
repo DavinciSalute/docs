@@ -169,6 +169,26 @@ For the docs repository:
 - base: "master" (or main branch)
 - head: "docs/sync-from-davinci-YYYY-MM-DD"
 
+## Inspecting a single commit (files + diff) — GitHub CLI
+
+When you need to see **which files changed** and the **patch** for a single commit in a GitHub repo, and no MCP tool exposes that (e.g. commit is not part of a PR), use **GitHub CLI** (`gh`). This applies to any workflow, not only this skill.
+
+- **Commands** — replace `OWNER`, `REPO`, `SHA`, `BASE_SHA`, `HEAD_SHA` with the real values; use `gh` or the full path as above:
+  - List files changed in a commit:
+    ```bash
+    gh api repos/OWNER/REPO/commits/SHA --jq '.files[] | {filename, status, additions, deletions}'
+    ```
+  - Get full patch per file:
+    ```bash
+    gh api repos/OWNER/REPO/commits/SHA --jq '.files[] | {filename, patch}'
+    ```
+  - Compare two commits (range):
+    ```bash
+    gh api repos/OWNER/REPO/compare/BASE_SHA...HEAD_SHA --jq '.files[] | {filename, patch}'
+    ```
+- Use these whenever commit-level diff is needed and the only way to get it is via the GitHub API (e.g. via `gh`).
+
+
 ## Best Practices
 
 1. **Never invent information**: Only document what's explicitly in the commits/diffs
