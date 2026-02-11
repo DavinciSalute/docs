@@ -25,35 +25,37 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Connect
 
-- [Agenda](/platform/connect/agenda) --\> V
-- [Richieste di ricetta](/platform/connect/richieste-ricetta) --\> V
-- [Avvisi ai pazienti](/platform/connect/avvisi-pazienti) --\> V
-- [Referti](/platform/connect/referti) --\> V
-- [Videovisita](/platform/connect/videovisita) --\> V
-- [Messaggi chat](/platform/connect/messaggi-chat) --\> V
+- [Agenda](/platform/connect/agenda)
+- [Richieste di ricetta](/platform/connect/richieste-ricetta)
+- [Avvisi ai pazienti](/platform/connect/avvisi-pazienti)
+- [Referti](/platform/connect/referti)
+- [Videovisita](/platform/connect/videovisita)
+- [Messaggi chat](/platform/connect/messaggi-chat)
 
 ## Cartella
 
-- [Ricette](/platform/cartella/ricette) --\> V
-- [Scheda paziente](/platform/cartella/scheda-paziente) --\> V
-- [Misurazioni](/platform/cartella/misurazioni) --\> V
-- [Parametri](/platform/cartella/parametri) --\> V
-- [Anamnesi](/platform/cartella/anamnesi) --\> V
-- [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente) --\> V
-- [Certificati](/platform/cartella/certificati) --\> V
-- [Referti (scheda paziente)](/platform/cartella/referti) --\> V
-- [Piani terapeutici](/platform/cartella/piani-terapeutici) --\> V
-- [Come aggiungere lo stato di gravidanza](/platform/cartella/gravidanza) --\> V
-- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) --\> V
-- [PAI](/platform/cartella/pai) --\> V
+- [Ricette](/platform/cartella/ricette)
+- [Scheda paziente](/platform/cartella/scheda-paziente)
+- [Misurazioni](/platform/cartella/misurazioni)
+- [Parametri](/platform/cartella/parametri)
+- [Anamnesi](/platform/cartella/anamnesi)
+- [Ricette (scheda paziente)](/platform/cartella/ricette-scheda-paziente)
+- [Certificati](/platform/cartella/certificati)
+- [Referti (scheda paziente)](/platform/cartella/referti)
+- [Piani terapeutici](/platform/cartella/piani-terapeutici)
+- [Come aggiungere lo stato di gravidanza](/platform/cartella/gravidanza)
+- [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni)
+- [PAI](/platform/cartella/pai)
 
 ## Altro
 
-- [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa) --\> V
-- [Errori Elty](/platform/altro/errori) --\> V
-- [Consigli di utilizzo](/platform/altro/consigli-utilizzo) --\> V
-- [Piani tariffari](/platform/altro/piani-tariffari) --\> V
-- [Assistenza da remoto](/platform/altro/assistenza-da-remoto) --\> V
+- [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa)
+- [Errori Elty](/platform/altro/errori)
+- [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
+- [Piani tariffari](/platform/altro/piani-tariffari)
+- [Assistenza da remoto](/platform/altro/assistenza-da-remoto)
+
+---
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
 https://elty.it/informative/webapp/privacy-policy
