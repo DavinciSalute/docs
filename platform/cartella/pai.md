@@ -148,12 +148,21 @@ Quando clicchi **Crea PAI** arrivi a una schermata di review con:
 
 **Email automatica al paziente**
 
-- Dopo pubblicazione (o rinnovo) parte:
-  - **email al paziente** con **PDF allegato**
-  - testo: la cooperativa (**Horus Medica**) gestirà prenotazioni e ricontatterà
-- **Situazione attuale**:
-  - Se manca email/contatti paziente → non viene inviato nulla
-  - Verrà introdotto un **popup per inserire email/contatto** se mancante (chiedere al medico al momento dell'invio)
+- Alla **pubblicazione** o al **rinnovo** di un PAI, il sistema invia automaticamente una **email al paziente** con il **PDF del PAI in allegato**.
+  - L'email è a nome del **Centro Servizi della Cooperativa Horus Medica** e contiene le istruzioni per prenotare le visite previste dal piano di cura.
+
+<Note>
+L'invio automatico dell'email è attivo solo per i pazienti della cooperativa **Horus Medica**.
+</Note>
+
+- **Modale per aggiungere l'email del paziente**: se il paziente non ha un indirizzo email registrato, prima della pubblicazione (o del rinnovo) compare una **modale** che chiede al medico di inserire l'email del paziente.
+  - Il campo è **opzionale**: si può compilare, saltare ("Salta") o annullare l'operazione ("Annulla").
+  - Se si inserisce l'email e si conferma, l'indirizzo viene salvato nella scheda del paziente e l'email con il PAI viene inviata.
+  - Se si salta, la pubblicazione/rinnovo procede comunque (ma il paziente non riceverà l'email).
+
+<Tip>
+L'email non viene inviata in caso di semplice **aggiornamento** (modifica) di un PAI già pubblicato, ma solo alla prima pubblicazione e al rinnovo.
+</Tip>
 
 ### Ricette dal PAI (post-pubblicazione)
 
@@ -193,8 +202,8 @@ Se dopo la pubblicazione cambi dati in scheda paziente:
 
 **Email in caso di modifica**
 
-- Oggi: email paziente inviata **solo** su pubblicazione/rinnovo, **non** su modifica.
-- In app: si aggiorna, ma il paziente potrebbe non accorgersene.
+- L'email al paziente viene inviata **solo** su pubblicazione e rinnovo, **non** su semplice modifica/aggiornamento del PAI.
+- In app il PAI si aggiorna, ma il paziente non riceve notifica email per le modifiche.
 
 ## 6. Scarica PAI da FSE (singolo) + Azioni (tre puntini)
 
