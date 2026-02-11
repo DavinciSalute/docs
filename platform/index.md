@@ -45,11 +45,11 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Piani terapeutici](/platform/cartella/piani-terapeutici) --\> V
 - [Come aggiungere lo stato di gravidanza](/platform/cartella/gravidanza) --\> V
 - [Pacchetti prestazioni](/platform/cartella/pacchetti-prestazioni) --\> V
-- [PAI](/platform/cartella/pai)
+- [PAI](/platform/cartella/pai) --\> V
 
 ## Altro
 
-- [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa)
+- [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa) --\> V
 - [Errori Elty](/platform/altro/errori)
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo)
 - [Piani tariffari](/platform/altro/piani-tariffari)

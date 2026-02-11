@@ -3,7 +3,7 @@ title: "Davinci Connector e stampa"
 sidebarTitle: "Davinci Connector e stampa"
 ---
 
-## Download del Davinci Connector
+## 1. Download del Davinci Connector
 
 Il Davinci Connector permette la stampa delle ricette e il collegamento tramite Smart card.
 
@@ -30,9 +30,10 @@ Elty DaVinci utilizza l'app Connector per dare la possibilità di configurare al
   src="/images/platform/davinci-connector/Screenshot_2026-02-03_alle_16.36.00.png"
   alt="Screenshot 2026-02-03 alle 16.36.00.png"
   className="mx-auto"
+  style={{ width:"80%",maxWidth:"700px" }}
 />
 
-## "Errore di stampa" - Accesso alla rete locale
+## 2. "Errore di stampa" - Accesso alla rete locale
 
 **"Errore nella stampa"**
 
@@ -48,6 +49,7 @@ Dalla versione 142 di Chrome per accedere al Davinci Connector viene richiesto i
   src="/images/platform/davinci-connector/image.png"
   alt="image.png"
   className="mx-auto"
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o cliccando volontariamente su Blocca, il Connector smetterà di essere raggiungibile dando l'errore "Errore nella stampa". Per risolvere la questione bisogna:
@@ -59,6 +61,7 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
   alt="image.png"
   className="mx-auto"
   title=""
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Cliccare "Impostazioni sito"
@@ -67,6 +70,7 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
   src="/images/platform/davinci-connector/Screenshot_2026-02-03_alle_16.25.37.png"
   alt="Screenshot 2026-02-03 alle 16.25.37.png"
   className="mx-auto"
+  style={{ width:"40%",maxWidth:"300px" }}
 />
 
 - Tra le varie opzioni (solitamente ultime in lista) troverete "Accesso alla rete locale" impostato su "Blocca". Va modificato in "Consenti"
@@ -76,20 +80,31 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
   alt="image.png"
   className="mx-auto"
   title=""
+  style={{ width:"80%",maxWidth:"700px" }}
 />
 
-## Impostazioni per Mac
+## 3. Impostazioni per Mac
 
 Per capire quale versione installare sul tuo Mac bisogna capire se è Mac Arm o Mac Intel:
 
 - Clicca il simbolo di Apple in alto a sinistra
 - Clicca Informazioni su questo Mac
 
-![Screenshot2026 02 09alle14 59 18](/images/Screenshot2026-02-09alle14.59.18.png)
+<img
+  src="/images/Screenshot2026-02-09alle14.59.18.png"
+  alt="Screenshot2026 02 09alle14 59 18"
+  className="mx-auto"
+  style={{ width:"30%",maxWidth:"200px" }}
+/>
 
 Se il processore è Intel allora dovrai scaricare il link relativo al Mac Intel, se ha un altro chip allora bisognerà scaricare Mac Arm
 
-![Screenshot2026 02 09alle14 58 29](/images/Screenshot2026-02-09alle14.58.29.png)
+<img
+  src="/images/Screenshot2026-02-09alle14.58.29.png"
+  alt="Screenshot2026 02 09alle14 58 29"
+  className="mx-auto"
+  style={{ width:"40%",maxWidth:"300px" }}
+/>
 
 Per permettere l'utilizzo del Davinci Connector ogni volta che si accende il dispositivo ricordiamo che il software non deve essere tolto dagli "Elementi login ed estensioni"
 
@@ -97,6 +112,7 @@ Per permettere l'utilizzo del Davinci Connector ogni volta che si accende il dis
   src="/images/platform/davinci-connector/Screenshot_2026-02-03_alle_16.34.56.png"
   alt="Screenshot 2026-02-03 alle 16.34.56.png"
   className="mx-auto"
+  style={{ width:"70%",maxWidth:"600px" }}
 />
 
 Su Mac dopo l'installazione il software sarà in background, per visualizzare la schermata di Imposta e Configura bisognerà cliccare l'icona a forma di cuore in alto a destra e selezionare "Mostra"
@@ -105,9 +121,10 @@ Su Mac dopo l'installazione il software sarà in background, per visualizzare la
   src="/images/platform/davinci-connector/Screenshot_2026-02-03_alle_16.35.42.png"
   alt="Screenshot 2026-02-03 alle 16.35.42.png"
   className="mx-auto"
+  style={{ width:"30%",maxWidth:"200px" }}
 />
 
-## Imposta (seleziona la stampante)
+## 4. Imposta (seleziona la stampante)
 
 Come selezionare la stampante dal Davinci Connector:
 
@@ -117,7 +134,7 @@ Come selezionare la stampante dal Davinci Connector:
   - Lanciando una stampa dal software di visualizzazione dei documenti del tuo pc (es. Adobe Reader, MS Word, Anteprima di Apple ecc.) vedrai il nome della stampante configurata all'interno del tuo sistema operativo
   - Quando avrai trovato il nome della tua stampante potrai selezionarla all'interno di "Imposta" del Davinci Connector
 
-## Configura (modifica le impostazioni di stampa)
+## 5. Configura (modifica le impostazioni di stampa)
 
 ### Stampante per Rosse Cartacee (Modulo SSN)
 
@@ -136,31 +153,34 @@ Come selezionare la stampante dal Davinci Connector:
 ### Come stampare in A5
 
 - Oltre a scegliere la configurazione corretta sul nostro Connector, vanno tenuti a mente una serie di accorgimenti da utilizzare fisicamente sulla stampante quando si vuole stampare in A5.
-- ****_Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale._****
+- ******_______Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale._______******
 - La prassi migliore vorrebbe che ci attenessimo alle **istruzioni del manuale** della stampante su come posizionare l'A5 nel cassetto della stampante. In alternativa possiamo seguire le **indicazioni riportate sulle guide** del cassetto
 
 <img
   src="/images/platform/davinci-connector/Untitled.png"
   alt="Untitled"
   className="mx-auto"
+  style={{ width:"40%",maxWidth:"500px" }}
 />
 
-- Guide laterali ridotte: alcune stampanti vedono lo spazio delle guide laterali ridursi per accogliere l'A5.
+- **Guide laterali ridotte**: alcune stampanti vedono lo spazio delle guide laterali ridursi per accogliere l'A5.
 
 <img
   src="/images/platform/davinci-connector/Untitled 1.png"
   alt="Untitled"
   className="mx-auto"
   title=""
+  style={{ width:"70%",maxWidth:"600px" }}
 />
 
-- Guide laterali larghe: in altre stampanti le guide non vanno ridotte, e l'A5 va introdotto con il lato più lungo verso il lato di raccolta del foglio.
+- **Guide laterali larghe**: in altre stampanti le guide non vanno ridotte, e l'A5 va introdotto con il lato più lungo verso il lato di raccolta del foglio.
 
 <img
   src="/images/platform/davinci-connector/Untitled 2.png"
   alt="Untitled"
   className="mx-auto"
   title=""
+  style={{ width:"40%",maxWidth:"500px" }}
 />
 
 - Nel caso le guide laterali non vadano ridotte per accogliere l'A5, può essere il cassetto a scivolare verso il lato di raccolta del foglio.
@@ -170,6 +190,7 @@ Come selezionare la stampante dal Davinci Connector:
   alt="Untitled"
   className="mx-auto"
   title=""
+  style={{ width:"70%",maxWidth:"600px" }}
 />
 
 <img
@@ -177,6 +198,7 @@ Come selezionare la stampante dal Davinci Connector:
   alt="Untitled"
   className="mx-auto"
   title=""
+  style={{ width:"70%",maxWidth:"600px" }}
 />
 
 ### Stampante per Bianche Cartacee (Ricettario Personale)
@@ -198,6 +220,7 @@ Come selezionare la stampante dal Davinci Connector:
   alt="Untitled"
   className="mx-auto"
   title=""
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 ### Stampante per Rosse e Bianche Dematerializzate (Promemoria Dematerializzata)
@@ -216,7 +239,7 @@ Come selezionare la stampante dal Davinci Connector:
 
 - **_NOTA BENE: l'orientamento del PDF generato non è direttamente correlato all'orientamento di stampa_**
 
-## Problemi legati a come esce la stampa (orientamento, tagli, misura, testo piccolo ecc.)
+## 6. Problemi legati a come esce la stampa (orientamento, tagli, misura, testo piccolo ecc.)
 
 - Cosa fare se la **stampa è ruotata** rispetto al foglio?
   - Se la stampa è ruotata di +/- 90° rispetto al foglio, provare ad invertire l'orientamento di stampa nella relativa configurazione.
