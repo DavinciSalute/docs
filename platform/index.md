@@ -7,21 +7,21 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni
 
-- [Profilo (impostazioni)](/platform/impostazioni/profilo) --\> V
-- [Gestione Servizi](/platform/impostazioni/gestione-servizi) --\> V
-- [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto) --\> V
-- [Report e statistiche](/platform/impostazioni/report-statistiche) --\> V
-- [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy) --\> V
-- [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss) --\> V
-- [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale) --\> V
-- [Link utili](/platform/impostazioni/link-utili) --\> V
-- [Invita un collega](/platform/impostazioni/invita-collega) --\> V
+- [Profilo (impostazioni)](/platform/impostazioni/profilo)
+- [Gestione Servizi](/platform/impostazioni/gestione-servizi)
+- [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
+- [Report e statistiche](/platform/impostazioni/report-statistiche)
+- [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
+- [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss)
+- [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale)
+- [Link utili](/platform/impostazioni/link-utili)
+- [Invita un collega](/platform/impostazioni/invita-collega)
 
 ## Pazienti
 
-- [Pazienti](/platform/pazienti/panoramica) --\> V
-- [Ricerca paziente](/platform/pazienti/ricerca-paziente) --\> V
-- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche) --\> V
+- [Pazienti](/platform/pazienti/panoramica)
+- [Ricerca paziente](/platform/pazienti/ricerca-paziente)
+- [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche)
 
 ## Connect
 
@@ -52,8 +52,8 @@ Benvenuto nella documentazione di Elty Davinci.
 - [Davinci Connector e stampa](/platform/altro/davinci-connector-stampa) --\> V
 - [Errori Elty](/platform/altro/errori) --\> V
 - [Consigli di utilizzo](/platform/altro/consigli-utilizzo) --\> V
-- [Piani tariffari](/platform/altro/piani-tariffari)
-- [Assistenza da remoto](/platform/altro/assistenza-da-remoto)
+- [Piani tariffari](/platform/altro/piani-tariffari) --\> V
+- [Assistenza da remoto](/platform/altro/assistenza-da-remoto) --\> V
 
 Rispettiamo la tua privacy. Puoi consultare la documentazione qui:\
 https://elty.it/informative/webapp/privacy-policy
