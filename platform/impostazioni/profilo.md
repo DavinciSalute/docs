@@ -3,7 +3,7 @@ title: "Profilo (impostazioni)"
 sidebarTitle: "Profilo (impostazioni)"
 ---
 
-### **_1. Introduzione_**
+### **1. Introduzione**
 
 - Per poter modificare il proprio profilo bisogna cliccare "**_Nome utente_**" → "**_Profilo_**"
 
@@ -123,5 +123,5 @@ sidebarTitle: "Profilo (impostazioni)"
 />
 
 <Warning>
-N.B.: Il numero di telefono che compare sulle ricette viene recuperato dalle informazioni inserite durante la registrazione. La modifica è a cura del nostro team (non si può modificare direttamente dal profilo). Consiglio l'inserimento del numero di ambulatorio.
+  N.B.: Il numero di telefono che compare sulle ricette viene recuperato dalle informazioni inserite durante la registrazione. La modifica è a cura del nostro team (non si può modificare direttamente dal profilo). Consiglio l'inserimento del numero di ambulatorio.
 </Warning>
