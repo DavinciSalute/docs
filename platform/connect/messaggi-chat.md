@@ -38,6 +38,16 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
+- Puoi anche eliminare un messaggio che hai inviato avvicinando il puntatore del mouse sul messaggio stesso: comparirà un cestino rosso in alto a destra del riquadro del tuo messaggio, se cliccato permetterà la sua eliminazione (e il paziente non sarà più in grado di visualizzarlo)
+  - Ricordati che non puoi eliminare un messaggio automatico già inviato
+
+<img
+  src="/images/Screenshot2026-02-12alle16.20.28.png"
+  alt="Screenshot2026 02 12alle16 20 28"
+  title="Screenshot2026 02 12alle16 20 28"
+  className="mx-auto"
+/>
+
 - Clicca su **_“Disabilita”_** (in alto a sinistra dell’icona della videovisita) per bloccare la chat solo per quel paziente.
 
 <img
@@ -62,7 +72,7 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
-- Cliccando il tasto **_“Non letti” (in alto a sinistra) i messaggi verranno filtrati _**_e potrai vedere_ solo i messaggi non letti.
+- Cliccando il tasto “**Non letti**” (in alto a sinistra) i messaggi verranno **filtrati** _e potrai vedere_ solo i messaggi non letti.
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_15.28.23.png"
@@ -81,7 +91,7 @@ sidebarTitle: "Messaggi chat"
   title=""
 />
 
-- Scorri fino a **_“Chat con allegati”_**.
+- Scorri fino a **“Chat con allegati”**.
 
 <img
   src="/images/platform/image 2.png"
