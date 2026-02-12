@@ -121,3 +121,7 @@ sidebarTitle: "Profilo (impostazioni)"
   alt="Screenshot 2025-04-09 alle 10.53.28.png"
   className="mx-auto"
 />
+
+<Warning>
+N.B.: Il numero di telefono che compare sulle ricette viene recuperato dalle informazioni inserite durante la registrazione. La modifica è a cura del nostro team (non si può modificare direttamente dal profilo). Consiglio l'inserimento del numero di ambulatorio.
+</Warning>
