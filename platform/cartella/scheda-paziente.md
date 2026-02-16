@@ -192,6 +192,10 @@ La scheda paziente è composta da:
 - Clicca “Aggiungi pacchetto prestazioni” per poter inserire un pacchetto con all’interno più prestazioni; clicca “Personalizza pacchetti” per poter entrare nella pagina in cui inserire nuovi pacchetti personalizzati di prestazioni o modificare quelli precedentemente creati
 - Dopodiché clicca Salva e prescrivi per avere la bozza di ricetta da elaborare o conferma per aggiungere la prestazione all’interno del box Prestazioni
 
+<Warning>
+  Quando viene fatta un'importazione da un'altra cartella clinica si tengono in considerazione (per i box in scheda paziente) i farmaci e le prestazioni prescritti negli ultimi 5 anni.
+</Warning>
+
 <img
   src="/images/platform/Screenshot_2025-04-13_alle_23.53.09.png"
   alt="Screenshot 2025-04-13 alle 23.53.09.png"
