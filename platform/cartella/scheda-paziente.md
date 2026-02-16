@@ -163,7 +163,7 @@ La scheda paziente è composta da:
 - La divisione è tra Continuativi ed Ordinari (clicca su una delle due tipologie per cambiare visualizzazione e visualizzare l’elenco di farmaci continuativi o di farmaci ordinari)
 - Si possono aggiungere nuovi farmaci all’interno del box cliccando il “+” a destra di “Farmaci”
 - Cerca per nome o principio attivo
-  - Dopo aver selezionato il farmaco comparirà l’avviso relativo alle interazioni con altri farmaci o allergie (se abilitato l’alert dalla Gestione servizi: l’alert delle allergie è impostato automaticamente, quello delle interazioni tra farmaci va abilitato manualmente, il tutto nella sezione “**Avvisi e segnalazioni in piattaforma**” della**Gestione servizi** )
+  - Dopo aver selezionato il farmaco comparirà l’avviso relativo alle interazioni con altri farmaci o allergie (se abilitato l’alert dalla Gestione servizi: l’alert delle allergie è impostato automaticamente, quello delle interazioni tra farmaci va abilitato manualmente, il tutto nella sezione “**Avvisi e segnalazioni in piattaforma**” della **Gestione servizi** )
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_01.09.20.png"
