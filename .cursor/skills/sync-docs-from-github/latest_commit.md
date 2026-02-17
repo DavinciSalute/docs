@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `20fb65e20f46dfd43fe52fe78e75d281b98dbf2c`
-- **Data:** 2026-02-13 20:25:09 UTC
+- **SHA:** `0dec7379f54f2044c2984a9d8b1067ec06c7bea3`
+- **Data:** 2026-02-12 21:15:39 UTC
 - **Autore:** danilosammarcodavinci
-- **Messaggio:** Merge pull request #9003 from DavinciSalute/feature-sc-114232-ottimizzazione-query-workgroups — Feature sc 114232 ottimizzazione query workgroups
-- **URL:** https://github.com/DavinciSalute/davinci/commit/20fb65e20f46dfd43fe52fe78e75d281b98dbf2c
+- **Messaggio:** Merge pull request #9009 from DavinciSalute/feature-sc-112160--bug-master-ricette-duplicate-2 — chore: sc-112160 add filter when publishing prescriptions with siss
+- **URL:** https://github.com/DavinciSalute/davinci/commit/0dec7379f54f2044c2984a9d8b1067ec06c7bea3
