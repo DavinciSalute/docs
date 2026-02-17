@@ -124,6 +124,7 @@ sidebarTitle: "Messaggi chat"
 In gestione servizi è possibile attivare “**Visualizzazione chat dai colleghi sostituti**”
 
 - Questa funzionalità permette ai medici del gruppo di lavoro di poter visionare le tue chat (ad esempio quando sei in ferie) e di poter rispondere ai pazienti a loro nome (usando la modalità medico sostituto)
+- Le azioni di lettura/non lettura fatte dal sostituto restano allineate anche sulla conversazione del medico sostituito.
 
 <img
   src="/images/platform/image 5.png"

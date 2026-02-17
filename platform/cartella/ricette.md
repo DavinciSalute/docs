@@ -219,6 +219,7 @@ In corrispondenza di ogni ricetta troviamo **_3 puntini verticali_** che permett
 - Si possono archiviare massivamente evidenziandole con il quadratino a sinistra delle ricette trasmesse e poi selezionando "Archivia"
   - Questo è utile per togliere il pallino delle notifiche alla sezione ricette quando non si vuole inserire l'email dei pazienti a cui è stata trasmessa la ricetta (perché comunque il paziente ha ricevuto la ricetta tramite FSE)
 - Se si vuole inviare via Email basterà inserire il dato in scheda paziente e poi tornare in Ricette → Trasmesse e cliccare "Elabora" (dopo aver abilitato l'invio tramite Email dalla gestione servizi)
+- Nelle azioni massive (elabora, archivia, elimina, annulla) vengono processate solo le ricette selezionate compatibili con l'azione scelta.
 
 ## 5. Sezione "Archivio"
 
