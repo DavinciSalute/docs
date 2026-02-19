@@ -3,6 +3,8 @@ title: "Consigli di utilizzo"
 sidebarTitle: "Consigli di utilizzo"
 ---
 
+### 1. Icona di Elty DaVinci sul Desktop
+
 - Fare il login tramite https://davinci.elty.it/
 - Aggiungere il collegamento a Elty su Desktop
   - Chrome → Tre puntini in alto a destra → Trasmetti, salva e condividi → Crea scorciatoia
@@ -13,7 +15,7 @@ sidebarTitle: "Consigli di utilizzo"
   className="mx-auto"
 />
 
-**Info esenzioni:**
+### 2. Informazioni sulle esenzioni
 
 Le esenzioni da reddito consentono al cittadino di ottenere l’esonero totale o parziale dal pagamento dei ticket, cioè gli importi che vengono richiesti dal Servizio Sanitario Nazionale (SSN) o regionale (SSR) a titolo di compartecipazione alla spesa sanitaria.
 
@@ -24,7 +26,29 @@ Le quattro tipologie di esenzioni da reddito a livello nazionale sono:
 - E03 - titolari di assegno (ex pensione) sociale, e loro familiari a carico;
 - E04 - titolari di pensione al minimo, con più di 60 anni, e loro familiari a carico, con reddito familiare inferiore a 8.263,31 euro incrementato a 11.362,05 euro in presenza del coniuge e di ulteriori 516,46 euro per ogni figlio.
 
-**Info sui profili:**
+### 3. Informazioni sui profili
 
 - L’unica tipologia di profilo che può elaborare le ricette è il profilo medico. Se un profilo di segreteria o infermeria ha errori come “Qualcosa è andato storto”, si possono escludere tutte le motivazioni legate alla prescrizione e alla connessione con il sistema regionale.
 - Infermeria, segreteria e prenotatori non si connettono mai al sistema regionale.
+
+### 4. Gestione degli informatori scientifici / farmaceutici
+
+- Attualmente gli informatori non possono registrarsi come "Informatore" ma ci sono 3 metodi per gestire le loro prenotazioni:
+
+1. Prenotazioni da parte dell'informatore che scarica l'app:
+
+- L'informatore scarica l'app come se fosse un paziente
+- Può cambiare medico associato per prenotare appuntamenti
+- Il medico può inserire degli slot orari visibili ai pazienti chiamati "Informatore scientifico"
+- Il limite di questa opzione è che altri pazienti potrebbero prendere appuntamenti in questi slot (ma normalmente non accade, non scelgono la prestazione "Informatore scientifico" e nel caso questi appuntamenti possono essere eliminati)
+
+2. Visibilità web delle disponibilità:
+
+- Su richiesta possiamo creare una pagina web collegata all'agenda dove mostrare solo le disponibilità orarie per gli informatori
+- Il link può essere fornito agli informatori stessi che possono prenotarsi in autonomia
+- Le disponibilità modificate su Elty impiegano 24 ore ad essere modificate anche sul sito web
+
+3. Inserimento di eventi all'interno dell'agenda (chiamati "Informatore scientifico"):
+
+- In questo caso si ha l'appuntamento telefonico da parte dell'informatore
+- Semplicemente si blocca lo slot orario in agenda così da evitare sovrapposizioni con altri appuntamenti
