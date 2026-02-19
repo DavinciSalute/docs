@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `0dec7379f54f2044c2984a9d8b1067ec06c7bea3`
-- **Data:** 2026-02-12 21:15:39 UTC
+- **SHA:** `68f4e2c9f935f9f75987dade15a022a2ec1f0dc9`
+- **Data:** 2026-02-17 09:34:36 UTC
 - **Autore:** danilosammarcodavinci
-- **Messaggio:** Merge pull request #9009 from DavinciSalute/feature-sc-112160--bug-master-ricette-duplicate-2 — chore: sc-112160 add filter when publishing prescriptions with siss
-- **URL:** https://github.com/DavinciSalute/davinci/commit/0dec7379f54f2044c2984a9d8b1067ec06c7bea3
+- **Messaggio:** Merge pull request #9023 from DavinciSalute/feature-sc-111827-dashboard-pagamenti-migliorie-v2 — feat: [sc-111827] Dashboard pagamenti - Migliorie
+- **URL:** https://github.com/DavinciSalute/davinci/commit/68f4e2c9f935f9f75987dade15a022a2ec1f0dc9
