@@ -1,5 +1,5 @@
 ---
-title: "Guida ad Elty Davinci"
+title: "📖 Guida ad Elty Davinci"
 sidebarTitle: "Guida ad Elty Davinci"
 ---
 
@@ -7,7 +7,7 @@ Benvenuto nella documentazione di Elty Davinci.
 
 ## Impostazioni
 
-- [Profilo (impostazioni)](/platform/impostazioni/profilo)
+- 👨🏻‍⚕️ [Profilo (impostazioni)](/platform/impostazioni/profilo)
 - [Gestione Servizi](/platform/impostazioni/gestione-servizi)
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
 - [Report e statistiche](/platform/impostazioni/report-statistiche)

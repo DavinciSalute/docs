@@ -4,7 +4,7 @@ sidebarTitle: "Certificati"
 ---
 
 - Nella sezione certificati puoi gestire tutti i certificati del paziente.
-- Per iniziare, clicca su **“Crea nuovo certificato” **_(tasto blu in alto a destra)_.
+- Per iniziare, clicca su “Crea nuovo certificato” _(tasto blu in alto a destra)_.
 
 <img
   src="/images/platform/Schermata_2026-01-07_alle_15.32.40.png"
