@@ -74,6 +74,19 @@ This keeps the “last analyzed” pointer correct and avoids double-analyzing t
 
 For each commit, determine if it's doc-relevant:
 
+## Strict mode 
+
+To avoid accidental “drive-by” doc changes, follow these strict rules for every run:
+
+1. **Diff-first (no guesswork):** do not change docs based only on commit message. Before editing any doc page, inspect the actual diff for the commit (or the compare range) and extract the concrete behavior/API/UI change.
+2. **Evidence gate:** every doc edit must be traceable to at least one changed code/config line in the analyzed commit(s). If you cannot point to a diff that justifies the doc edit, **do not edit** that doc page.
+3. **Minimal surface area:** touch the **fewest files** and **fewest lines** possible.
+   - Do not reword paragraphs, reorder sections, rename headings, or “improve style” unless it is strictly required to document the diff-backed change.
+   - Do not do formatting-only changes (whitespace, punctuation sweeps, capitalization consistency, etc.).
+4. **Mismatch check before changing a “correct” doc:** if a doc section looks already correct, assume it is. Only change it if you can prove a mismatch against the diff-backed behavior.
+5. **Prefer add over rewrite:** when updating an existing page, prefer adding a short note/snippet in the relevant section over rewriting the whole page.
+6. **No speculative docs:** if the diff doesn’t clearly show user-facing behavior, document nothing (or add a brief “needs clarification” note in the PR description, not in docs).
+
 ### Relevant Changes Include:
 - New features or endpoints
 - UI/UX changes visible to end users
@@ -99,16 +112,11 @@ abc123     | src/agenda.ts | Added time slots  | platform/funzionalita/agenda.md
 def456     | api/ricette   | New API endpoint  | NEW: platform/pazienti/ricette-api.md
 ```
 
+**Strict requirement:** the “Change Description” must be backed by a diff excerpt you inspected (store the excerpt in your working notes, not in the PR).
+
 ## Step 3: Map to Mintlify Documentation Structure
 
-Reference the current documentation structure in `docs.json`:
-
-**Current Navigation Groups:**
-- Pazienti (platform/pazienti/*)
-- Funzionalità (platform/funzionalita/*)
-- Configurazione (platform/configurazione/*)
-- Supporto (platform/supporto/*)
-- Info extra (platform/piani-tariffari, platform/qa)
+Reference the current documentation structure in `docs.json`
 
 **Actions:**
 - **Update existing page**: Modify content in relevant .md file
@@ -122,6 +130,8 @@ Use standard file editing tools to:
 1. Update existing `.md` files with new information
 2. Create new `.md` files following Mintlify format
 3. Update `docs.json` navigation if adding new pages
+
+**Strict requirement:** do not make unrelated edits while you’re “already in the file”. If you need to add a section, keep the surrounding context untouched.
 
 **Mintlify File Format:**
 ```markdown
@@ -239,13 +249,18 @@ When you need to see **which files changed** and the **patch** for a single comm
 2. **Reference commit SHAs**: Always link changes back to specific commits
 3. **Maintain Mintlify style**: Follow existing documentation patterns
 4. **Keep language consistent**: Use Italian as per existing docs
-5. **Flag uncertainties**: If unsure about a change's impact, note it clearly in PR
+5. **Be strict about scope**: Only change docs for behavior/API/UI that changed in the analyzed commits; avoid cleanups and refactors.
+6. **Flag uncertainties**: If unsure about a change's impact, note it clearly in PR (prefer PR note over doc edits).
 
 ## Troubleshooting
 
 **No doc-relevant changes found:**
 - Report this clearly to the user
 - Offer to check an earlier date range
+
+**Docs appear already correct for a suspected change:**
+- Do not change docs “just in case”
+- Add a short note in the PR description explaining that the diff did not justify a doc edit (include the commit SHA)
 
 **Unable to determine affected docs page:**
 - Create entry under "Supporto" or appropriate catch-all section
