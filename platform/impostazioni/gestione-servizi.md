@@ -453,7 +453,7 @@ Invio referto:
 ## 14. Visualizzazione chat dai colleghi sostituti
 
 - Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno rispondere a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni)
-  - Quando il collega risponderà ai tuoi messaggi avrai comunque il pallino rosso delle notifiche relative ai messaggi, questo sparirà quando avrai consultato anche tu quelle chat
+  - Quando il collega risponderà ai tuoi messaggi non avrai il pallino rosso delle notifiche relative a quei messaggi (risulteranno già visualizzati)
 
 <img
   src="/images/platform/gestione-servizi/image.png"
