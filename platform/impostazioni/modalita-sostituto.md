@@ -38,7 +38,7 @@ sidebarTitle: "Modalità medico sostituto"
 
 N.B.: per visualizzare la sezione messaggi del medico che sostituisci serve che il medico che sostituisci abiliti la sezione “**Visualizzazione chat dai colleghi sostituti” in “Gestione Servizi”**
 
-- All’interno delle chat potrai rispondere ai pazienti del medico sostituito, con la conversazione gestita a nome del medico sostituito.
+- All’interno delle chat potrai rispondere ai pazienti del medico sostituito, le risposte saranno a tuo nome
 
 Come indicare ai pazienti che verrò sostituito dal collega?
 
