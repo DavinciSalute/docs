@@ -3,7 +3,7 @@ title: "👨🏻‍⚕️ Profilo (impostazioni)"
 sidebarTitle: "Profilo (impostazioni)"
 ---
 
-### 1. Introduzione
+## 1. Introduzione
 
 - Per poter modificare il proprio profilo bisogna cliccare sul proprio **nome e cognome** in alto a destra → "**Profilo**"
 
@@ -13,7 +13,7 @@ sidebarTitle: "Profilo (impostazioni)"
   className="mx-auto"
 />
 
-### 2. Le tue informazioni
+## 2. Le tue informazioni
 
 - All'interno della sezione "Profilo" troverai sotto il tuo nome e cognome:
   - **Il tipo di piano** (es. Hai attivato il Piano Premium);
@@ -62,7 +62,7 @@ sidebarTitle: "Profilo (impostazioni)"
   className="mx-auto"
 />
 
-### 3. Biografia
+## 3. Biografia
 
 - Nella sezione "**Biografia**" si può scrivere la propria biografia. Per scriverla bisogna cliccare prima "**Aggiorna**"
 
@@ -81,7 +81,7 @@ sidebarTitle: "Profilo (impostazioni)"
   className="mx-auto"
 />
 
-### 4. Ambulatorio
+## 4. Ambulatorio
 
 - La sezione "**Ambulatorio**" permette di segnare **l'indirizzo** del proprio ambulatorio. Bisogna cliccare "**Aggiorna**" per aggiungerlo.
 
@@ -100,7 +100,7 @@ sidebarTitle: "Profilo (impostazioni)"
   className="mx-auto"
 />
 
-### 5. Documenti
+## 5. Documenti
 
 - La sezione "**Documenti**" permette di caricare i documenti per verificare la propria identità (è opzionale perché la verifica viene fatta nel momento in cui si sottoscrive l'abbonamento ad Elty), si clicca "**Aggiorna**" per caricare i file e "**Salva**" per salvare le impostazioni
 
@@ -116,7 +116,7 @@ sidebarTitle: "Profilo (impostazioni)"
   className="mx-auto"
 />
 
-### 6. Timbro ricette e certificati
+## 6. Timbro ricette e certificati
 
 - Nella sezione "**Timbro ricette e certificati**" si può visualizzare il proprio timbro, per disattivarlo bisogna cliccare il tasto in alto a destra.
 
