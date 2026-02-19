@@ -3,7 +3,7 @@ title: "⚙️ Gestione Servizi"
 sidebarTitle: "Gestione Servizi"
 ---
 
-## 1. Introduzione
+### 1. Introduzione
 
 - Per modificare / abilitare i servizi di Elty DaVinci bisogna cliccare sul tuo **nome e cognome** (in alto a destra) → “**Gestione Servizi**”.
 
@@ -21,7 +21,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 2. Imposta visualizzazione agenda
+### 2. Imposta visualizzazione agenda
 
 - La prima sezione è “**Imposta visualizzazione agenda**” che permette di impostare le preferenze di visualizzazione dell’agenda.
 
@@ -50,7 +50,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 3. Agenda e prestazioni
+### 3. Agenda e prestazioni
 
 - La seconda sezione è “**Agenda e prestazioni**”, cliccando “**Personalizza**” si possono vedere le prestazioni che saranno disponibili all’interno dell’agenda.
   - Si potranno aggiungere ed eliminare.
@@ -129,7 +129,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 4. Accettazione automatica delle prenotazioni
+### 4. Accettazione automatica delle prenotazioni
 
 - Nella sezione “**Accettazione automatica delle prenotazioni**” apribile dal tasto “**Personalizza**” si può abilitare l’accettazione automatica per “**Prenotazioni per appuntamenti in studio/struttura**” e per “**Prenotazioni per appuntamenti online**”. Cliccare “**Salva**” per salvare le impostazioni.
   - E’ utilissima per risparmiare tempo, in questo modo non si devono accettare manualmente tutte le prenotazioni (anche perché in ogni caso avete pieno controllo delle prenotazioni, potete spostarle ed eliminarle a piacimento)
@@ -140,7 +140,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 5. Prestazioni infermieristiche
+### 5. Prestazioni infermieristiche
 
 - Per attivare le “**Prestazioni infermieristiche**” bisogna cliccare l’apposito tasto sulla destra. Permette agli infermieri del gruppo di ricevere prenotazioni da app dai tuoi assistiti. Il paziente quindi vedrà sia le tue prestazioni sia quelle inserite all’interno dell’account di infermeria (che avrà una sua agenda con delle sue disponibilità). Questa funzionalità durante la campagna vaccinale è fortemente consigliata. Se non viene abilitata i tuoi pazienti non vedranno gli orari impostati nel profilo di infermeria.
 
@@ -150,7 +150,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 6. Richieste di ricette
+### 6. Richieste di ricette
 
 - Per attivare le “**Richieste di ricette**” bisogna cliccare l’apposito tasto a destra di “**Personalizza**”. Si potranno scegliere le “**Tipologie richieste**” che si potranno fare da App. Le opzioni sono “**Ripetitive (pre compilate)**” e “**Nuove richieste (libere)**”.
 - **Richieste ripetitive (pre compilate)**: sono le richieste di farmaci (continuativi / cronici) e prestazioni (continuative) all’interno della scheda paziente, il paziente aprendo l’app, prima di inviare la richiesta, vedrà la lista di farmaci e selezionando quelli di cui ha bisogno potrà mandarti la richiesta
@@ -171,7 +171,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 7. Invio PDF delle ricette tramite e-mail
+### 7. Invio PDF delle ricette tramite e-mail
 
 - Se non visualizzi questa opzione segnalacelo, se hai un piano Smart o Premium possiamo abilitartela
 - Permette di inviare le ricette tramite Email in formato PDF (oltre all’invio tramite FSE, App e in alcune regioni tramite SMS con codice NRE)
@@ -200,7 +200,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 8. Ricezioni di referti
+### 8. Ricezioni di referti
 
 - Per attivare la “**Ricezione di referti**” (che permette ai pazienti di inviare i referti da app) bisogna cliccare l’apposito tasto sulla destra
 
@@ -210,7 +210,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-## 9. Istruzioni per i pazienti
+### 9. Istruzioni per i pazienti
 
 - Cliccando “**Personalizza**” nella sezione “**Istruzioni per i pazienti**” si potranno aggiungere delle istruzioni che saranno visualizzate dai pazienti in app prima e/o dopo aver pianificato delle prenotazioni, inviato delle richieste di farmaci / prestazioni e inviato dei referti
 
@@ -335,7 +335,7 @@ Invio referto:
   Gentile paziente ho ricevuto il suo referto. Si ricordi che le richieste verranno evase generalmente entro 24\\48 ore (esclusi festivi e prefestivi). Grazie.
 </Info>
 
-## 10. Gruppo di lavoro
+### 10. Gruppo di lavoro
 
 - In Gestione Servizi, scorrendo la pagina si arriva alla sezione “**Gruppo di lavoro**”:
 
@@ -389,7 +389,7 @@ Invio referto:
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-## 11. Importa dati
+### 11. Importa dati
 
 - La sezione “**Importa dati**” permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
   - Si può selezionare il **template** del gestionale da voi precedentemente utilizzato
@@ -409,7 +409,7 @@ Invio referto:
   className="mx-auto"
 />
 
-## 12. Avvisi e segnalazioni in piattaforma
+### 12. Avvisi e segnalazioni in piattaforma
 
 - Selezionando “**Personalizza**” nella sezione “**Avvisi e segnalazioni in piattaforma**” si può abilitare l’**Alert** “**Interazioni tra farmaci**” che permette di visualizzare un avviso di alert quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
 - L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e va attivato manualmente)
@@ -420,7 +420,7 @@ Invio referto:
   className="mx-auto"
 />
 
-## 13. Chat con allegati
+### 13. Chat con allegati
 
 - Per attivare il servizio di “**Chat con allegati**” bisogna **attivare la spunta sulla destra.**
 
@@ -450,7 +450,7 @@ Invio referto:
 - Il messaggio verrà visualizzato non appena un paziente proverà a scrivervi
 - Esempio di messaggio di risposta automatica: “Gentile paziente, risponderò entro 48h lavorative”
 
-## 14. Visualizzazione chat dai colleghi sostituti
+### 14. Visualizzazione chat dai colleghi sostituti
 
 - Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno rispondere a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni)
   - Quando il collega risponderà ai tuoi messaggi non avrai il pallino rosso delle notifiche relative a quei messaggi (risulteranno già visualizzati)
@@ -461,7 +461,7 @@ Invio referto:
   className="mx-auto"
 />
 
-## 15. Servizi possibili da richiedere
+### 15. Servizi possibili da richiedere
 
 - Infine si possono richiedere **tre servizi aggiuntivi:**
   - Account per il personale di segreteria
