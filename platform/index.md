@@ -8,7 +8,7 @@ Benvenuto nella documentazione di Elty Davinci.
 ## Impostazioni
 
 - 👨🏻‍⚕️ [Profilo (impostazioni)](/platform/impostazioni/profilo)
-- [Gestione Servizi](/platform/impostazioni/gestione-servizi)
+- ⚙️ [Gestione Servizi](/platform/impostazioni/gestione-servizi)
 - [Modalità medico sostituto](/platform/impostazioni/modalita-sostituto)
 - [Report e statistiche](/platform/impostazioni/report-statistiche)
 - [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
