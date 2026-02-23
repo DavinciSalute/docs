@@ -13,7 +13,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Comparirà una schermata con tutti i **servizi** di Elty, che si possono abilitare e disabilitare in base alle proprie necessità
+- Comparirà una schermata con tutti i **servizi** di Elty, che si possono abilitare e disabilitare in base alle proprie necessità.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.04.52.png"
@@ -31,7 +31,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Cliccando **“Personalizza”** si possono modificare alcune impostazioni
+- Cliccando **“Personalizza”** si possono modificare alcune impostazioni.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.19.07_2.png"
@@ -40,9 +40,9 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - In **"Imposta visualizzazione agenda"** si possono modificare:
-  - **Giorni da visualizzare** (ad esempio togliendo dall’agenda il sabato e la domenica)
-  - **Orario agenda**, che permette di inserire l’orario di inizio ambulatorio e l’orario di fine
-  - **Slot agenda**, che indica l’altezza delle righe della griglia dell’agenda, ad esempio se si inseriscono prestazioni da 15 minuti è consigliato mettere lo Slot agenda di 15 minuti
+  - **Giorni da visualizzare** (ad esempio togliendo dall’agenda il sabato e la domenica).
+  - **Orario agenda**, che permette di inserire l’orario di inizio ambulatorio e l’orario di fine.
+  - **Slot agenda**, che indica l’altezza delle righe della griglia dell’agenda, ad esempio se si inseriscono prestazioni da 15 minuti è consigliato mettere lo Slot agenda di 15 minuti.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-11-25_alle_14.35.33.png"
@@ -62,11 +62,12 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Si possono modificare:
-  - **Durata**
-  - **Prezzo**
-  - **Intervallo di prenotazione** (vale solo per chi si prenota tramite app, permettere di scegliere un intervallo di prenotazione evitando che i pazienti prenotino una disponibilità troppo vicina o troppo lontana nel tempo rispetto al momento della prenotazione, ad es. a partire da 3 ore fino a 10 giorni, quindi il paziente prenotando ora vedrà orari che inizieranno tra tre ore, anche se ci sono orari disponibili prima, e fino a 10 giorni, anche se ci sono orari disponibili dopo)
-  - **Abilitare per app, agenda e web:** si può decidere di rendere visibile la prestazione in App e Agenda, solo in Agenda (utilissimo per le prestazioni che non si vogliono far vedere ai pazienti ma che vogliamo possano esser scelte dal personale medico / di segreteria, ad esempio le “Urgenze”), Sito web (per le prestazioni privatistiche o presenti nella pagina web, per avere la pagina bisogna fare richiesta) oppure Ovunque (App, Agenda e Web)
-  - **Renderla preferita** (solo una): permette la visualizzazione della prestazione come prima sia all’interno dell’app sia tra le prestazioni da scegliere durante la pianificazione della prenotazione (consigliamo “Visita medica generica”) Clicchiamo “**Salva**” per salvare le modifiche.
+  - **Durata.**
+  - **Prezzo.**
+  - **Intervallo di prenotazione** (vale solo per chi si prenota tramite app, permettere di scegliere un intervallo di prenotazione evitando che i pazienti prenotino una disponibilità troppo vicina o troppo lontana nel tempo rispetto al momento della prenotazione, ad es. a partire da 3 ore fino a 10 giorni, quindi il paziente prenotando ora vedrà orari che inizieranno tra tre ore, anche se ci sono orari disponibili prima, e fino a 10 giorni, anche se ci sono orari disponibili dopo).
+  - **Abilitare per app, agenda e web:** si può decidere di rendere visibile la prestazione in App e Agenda, solo in Agenda (utilissimo per le prestazioni che non si vogliono far vedere ai pazienti ma che vogliamo possano esser scelte dal personale medico / di segreteria, ad esempio le “Urgenze”), Sito web (per le prestazioni privatistiche o presenti nella pagina web, per avere la pagina bisogna fare richiesta) oppure Ovunque (App, Agenda e Web).
+  - **Renderla preferita** (solo una): permette la visualizzazione della prestazione come prima sia all’interno dell’app sia tra le prestazioni da scegliere durante la pianificazione della prenotazione (consigliamo “Visita medica generica”).
+  - Clicchiamo **“Salva”** per salvare le modifiche.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.07.08.png"
@@ -75,10 +76,10 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Ricapitolando, cliccando la tendina **“Abilita per”**, si può scegliere dove saranno visibili gli orari di ricevimento:
-  - **Agenda**: visibile solo sull’agenda del medico
+  - **Agenda**: visibile solo sull’agenda del medico.
   - **App e Agenda**: visibile in app dai pazienti e in agenda.
-  - **Sito web**: solo sul sito web
-  - **Ovunque**: in Agenda, App e Sito web
+  - **Sito web**: solo sul sito web.
+  - **Ovunque**: in Agenda, App e Sito web.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-11_alle_12.39.46.png"
@@ -86,7 +87,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Per aggiungere una nuova prestazione, cliccare **“Nuova prestazione”** in basso a sinistra
+- Per aggiungere una nuova prestazione, cliccare **“Nuova prestazione”** in basso a sinistra.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.07.56.png"
@@ -95,8 +96,8 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Dopo aver cliccato "Nuova prestazione" puoi inserire il tipo di appuntamento:
-  - **Appuntamento in studio**
-  - **Appuntamento online** (le prestazioni inserite in appuntamento online saranno visualizzate quando si pianifica una **videovisita**)
+  - **Appuntamento in studio.**
+  - **Appuntamento online** (le prestazioni inserite in appuntamento online saranno visualizzate quando si pianifica una **videovisita**).
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.08.15.png"
@@ -133,8 +134,8 @@ sidebarTitle: "Gestione Servizi"
 ### 4. Accettazione automatica delle prenotazioni
 
 - Nella sezione **“Accettazione automatica delle prenotazioni”** apribile dal tasto **“Personalizza”** si può abilitare l’accettazione automatica per **“Prenotazioni per appuntamenti in studio/struttura”** e per **“Prenotazioni per appuntamenti online”.** Cliccare **“Salva”** per salvare le impostazioni.
-  - È utilissima per risparmiare tempo, in questo modo non si devono accettare manualmente tutte le prenotazioni (anche perché **in ogni caso avete pieno controllo delle prenotazioni**, potete spostarle ed eliminarle a piacimento)
-  - Se non abilitata dovrai accettare di volta in volta ogni prenotazione all'interno della sezione "Agenda", "Da accettare", in questo modo compariranno all'interno dell'Agenda
+  - È utilissima per risparmiare tempo, in questo modo non si devono accettare manualmente tutte le prenotazioni (anche perché **in ogni caso avete pieno controllo delle prenotazioni**, potete spostarle ed eliminarle a piacimento).
+  - Se non abilitata dovrai accettare di volta in volta ogni prenotazione all'interno della sezione "Agenda", "Da accettare", in questo modo compariranno all'interno dell'Agenda.
 
 <img
   src="/images/platform/gestione-servizi/4..png"
@@ -275,7 +276,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Cliccare, infine, il tasto **“Salva”** per confermare
+- Cliccare, infine, il tasto **“Salva”** per confermare.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.39.08.png"
@@ -365,7 +366,7 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Nella parte superiore è indicato il **nome dell’ambulatorio**, mentre in basso compaiono i diversi **ruoli** presenti (segretaria, infermiera, medico). A ciascun ruolo sono associati i nominativi del personale dell'ambulatorio e i relativi permessi
+- Nella parte superiore è indicato il **nome dell’ambulatorio**, mentre in basso compaiono i diversi **ruoli** presenti (segretaria, infermiera, medico). A ciascun ruolo sono associati i nominativi del personale dell'ambulatorio e i relativi permessi.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-11-25_alle_15.01.18.png"
@@ -373,7 +374,7 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Per la modifica dei **permessi** dei componenti del **gruppo di lavoro** si dovrà cliccare su **“Modifica”**
+- Per la modifica dei **permessi** dei componenti del **gruppo di lavoro** si dovrà cliccare su **“Modifica”.**
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.46.10.png"
@@ -405,7 +406,7 @@ Invio **referto**:
 ### 11. Importa dati
 
 - La sezione “**Importa dati**” permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
-  - Si può selezionare il **template** del gestionale da voi precedentemente utilizzato
+  - Si può selezionare il **template** del gestionale da voi precedentemente utilizzato.
 
 <img
   src="/images/platform/gestione-servizi/17.png"
@@ -413,8 +414,8 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Dopo aver selezionato il **template** potrete caricare il **file** con formato .sql, .backup, .db3 o .zip
-  - In alcuni casi si possono caricare gli **allegati** (i file pdf dei referti caricati nel gestionale precedentemente utilizzato), il formato richiesto è .zip
+- Dopo aver selezionato il **template** potrete caricare il **file** con formato .sql, .backup, .db3 o .zip.
+  - In alcuni casi si possono caricare gli **allegati** (i file pdf dei referti caricati nel gestionale precedentemente utilizzato), il formato richiesto è .zip.
 
 <img
   src="/images/platform/gestione-servizi/18..png"
@@ -425,7 +426,7 @@ Invio **referto**:
 ### 12. Avvisi e segnalazioni in piattaforma
 
 - Selezionando “**Personalizza**” nella sezione “**Avvisi e segnalazioni in piattaforma**” si può abilitare l’**Alert** “**Interazioni tra farmaci**” che permette di visualizzare un avviso di alert quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
-- L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e va attivato manualmente)
+- L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e va attivato manualmente).
 
 <img
   src="/images/platform/gestione-servizi/19..png"
@@ -443,7 +444,7 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Cliccando “**Personalizza**” si aprirà una schermata in basso in cui inserire un **Messaggio di risposta automatica**” per i pazienti
+- Cliccando “**Personalizza**” si aprirà una schermata in basso in cui inserire un **Messaggio di risposta automatica**” per i pazienti.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-19_alle_18.04.00.png"
@@ -452,7 +453,7 @@ Invio **referto**:
 />
 
 - Il messaggio andrà inserito nel campo “**Testo messaggio**” e sarà necessario **abilitarlo cliccando la spunta alla destra del messaggio**.
-- Cliccare poi su “**Salva**” per confermare
+- Cliccare poi su “**Salva**” per confermare.
 
 <img
   src="/images/platform/gestione-servizi/16..png"
@@ -460,13 +461,13 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Il messaggio verrà visualizzato non appena un paziente proverà a scrivervi
-- Esempio di messaggio di risposta automatica: “Gentile paziente, risponderò entro 48h lavorative”
+- Il messaggio verrà visualizzato non appena un paziente proverà a scrivervi.
+- Esempio di messaggio di risposta automatica: “Gentile paziente, risponderò entro 48h lavorative”.
 
 ### 14. Visualizzazione chat dai colleghi sostituti
 
-- Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno rispondere a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni)
-  - Quando il collega risponderà ai tuoi messaggi non avrai il pallino rosso delle notifiche relative a quei messaggi (risulteranno già visualizzati)
+- Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno rispondere a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni).
+  - Quando il collega risponderà ai tuoi messaggi non avrai il pallino rosso delle notifiche relative a quei messaggi (risulteranno già visualizzati).
 
 <img
   src="/images/platform/gestione-servizi/image.png"
@@ -477,9 +478,9 @@ Invio **referto**:
 ### 15. Servizi possibili da richiedere
 
 - Infine si possono richiedere **tre servizi aggiuntivi:**
-  - Account per il personale di segreteria
-  - Pagina web per la professione
-  - Passaggio dati da un altro gestionale
+  - Account per il personale di segreteria.
+  - Pagina web per la professione.
+  - Passaggio dati da un altro gestionale.
 
 <img
   src="/images/platform/gestione-servizi/20..png"
