@@ -405,7 +405,7 @@ Invio **referto**:
 
 ### 11. Importa dati
 
-- La sezione “**Importa dati**” permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
+- La sezione **“Importa dati”** permette di importare i dati delle altre cartelle cliniche all’interno di Elty (consigliamo di contattarci per effettuare l’import di dati).
   - Si può selezionare il **template** del gestionale da voi precedentemente utilizzato.
 
 <img
@@ -425,8 +425,8 @@ Invio **referto**:
 
 ### 12. Avvisi e segnalazioni in piattaforma
 
-- Selezionando “**Personalizza**” nella sezione “**Avvisi e segnalazioni in piattaforma**” si può abilitare l’**Alert** “**Interazioni tra farmaci**” che permette di visualizzare un avviso di alert quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
-- L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e va attivato manualmente).
+- Selezionando **“Personalizza”** nella sezione **“Avvisi e segnalazioni in piattaforma”** si può abilitare l’**Alert** **“Interazioni tra farmaci”** che permette di visualizzare un avviso quando ci sono interazioni tra diversi farmaci che il paziente riceve in prescrizione.
+- L’alert sulle **allergie** non è disattivabile per questioni di sicurezza, quello delle interazioni tra farmaci sì (è disattivato di default e **va attivato manualmente**).
 
 <img
   src="/images/platform/gestione-servizi/19..png"
@@ -436,7 +436,7 @@ Invio **referto**:
 
 ### 13. Chat con allegati
 
-- Per attivare il servizio di “**Chat con allegati**” bisogna **attivare la spunta sulla destra.**
+- Per attivare il servizio di **“Chat con allegati”** bisogna attivare la **spunta** sulla destra di personalizza.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-19_alle_18.01.45.png"
@@ -444,7 +444,7 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Cliccando “**Personalizza**” si aprirà una schermata in basso in cui inserire un **Messaggio di risposta automatica**” per i pazienti.
+- Cliccando **“Personalizza”** si aprirà una schermata in basso in cui inserire un **messaggio di risposta automatica** per i pazienti.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-19_alle_18.04.00.png"
@@ -452,8 +452,8 @@ Invio **referto**:
   className="mx-auto"
 />
 
-- Il messaggio andrà inserito nel campo “**Testo messaggio**” e sarà necessario **abilitarlo cliccando la spunta alla destra del messaggio**.
-- Cliccare poi su “**Salva**” per confermare.
+- Il messaggio andrà inserito nel campo **“Testo messaggio”** e sarà necessario **abilitarlo** cliccando la spunta alla destra del messaggio.
+- Cliccare poi su **“Salva”** per confermare.
 
 <img
   src="/images/platform/gestione-servizi/16..png"
@@ -462,11 +462,14 @@ Invio **referto**:
 />
 
 - Il messaggio verrà visualizzato non appena un paziente proverà a scrivervi.
-- Esempio di messaggio di risposta automatica: “Gentile paziente, risponderò entro 48h lavorative”.
+
+<Info>
+  Esempio di messaggio di risposta automatica: “Gentile paziente, risponderò entro 48h lavorative”.
+</Info>
 
 ### 14. Visualizzazione chat dai colleghi sostituti
 
-- Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno rispondere a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni).
+- Permette ai medici all’interno del gruppo di lavoro di poter visualizzare la sezione chat del tuo profilo; potranno **rispondere** a loro nome ai messaggi che riceverai dai tuoi pazienti (ottimo in caso di sostituzioni).
   - Quando il collega risponderà ai tuoi messaggi non avrai il pallino rosso delle notifiche relative a quei messaggi (risulteranno già visualizzati).
 
 <img
