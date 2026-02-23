@@ -65,7 +65,7 @@ sidebarTitle: "Gestione Servizi"
   - **Durata**
   - **Prezzo**
   - **Intervallo di prenotazione** (vale solo per chi si prenota tramite app, permettere di scegliere un intervallo di prenotazione evitando che i pazienti prenotino una disponibilità troppo vicina o troppo lontana nel tempo rispetto al momento della prenotazione, ad es. a partire da 3 ore fino a 10 giorni, quindi il paziente prenotando ora vedrà orari che inizieranno tra tre ore, anche se ci sono orari disponibili prima, e fino a 10 giorni, anche se ci sono orari disponibili dopo)
-  - **\_Abilitare per app, agenda e web: \_**si può decidere di rendere visibile la prestazione in App e Agenda, solo in Agenda (utilissimo per le prestazioni che non si vogliono far vedere ai pazienti ma che vogliamo possano esser scelte dal personale medico / di segreteria, ad esempio le “Urgenze”), Sito web (per le prestazioni privatistiche o presenti nella pagina web, per avere la pagina bisogna fare richiesta) oppure Ovunque (App, Agenda e Web)
+  - \*\*Abilitare per app, agenda e web: \*\*si può decidere di rendere visibile la prestazione in App e Agenda, solo in Agenda (utilissimo per le prestazioni che non si vogliono far vedere ai pazienti ma che vogliamo possano esser scelte dal personale medico / di segreteria, ad esempio le “Urgenze”), Sito web (per le prestazioni privatistiche o presenti nella pagina web, per avere la pagina bisogna fare richiesta) oppure Ovunque (App, Agenda e Web)
   - **Renderla preferita** (solo una): permette la visualizzazione della prestazione come prima sia all’interno dell’app sia tra le prestazioni da scegliere durante la pianificazione della prenotazione (consigliamo “Visita medica generica”) Clicchiamo “**Salva**” per salvare le modifiche.
 
 <img
@@ -75,10 +75,10 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Ricapitolando, cliccando la tendina “Abilita per”, si può scegliere dove saranno visibili gli orari di ricevimento:
-  - Agenda: visibile solo sull’agenda del medico
-  - App e Agenda: visibile in app dai pazienti e in agenda.
-  - Sito web: solo sul sito web
-  - Ovunque: in Agenda, App e Sito web
+  - **Agenda**: visibile solo sull’agenda del medico
+  - **App e Agenda**: visibile in app dai pazienti e in agenda.
+  - **Sito web**: solo sul sito web
+  - **Ovunque**: in Agenda, App e Sito web
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-11_alle_12.39.46.png"
@@ -86,7 +86,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Per aggiungere una nuova prestazione, cliccare **“Nuova prestazione” in basso a sinistra**
+- Per aggiungere una nuova prestazione, cliccare **“Nuova prestazione”** in basso a sinistra
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.07.56.png"
@@ -94,9 +94,9 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Puoi inserire il tipo di appuntamento:
-  - Appuntamento in studio
-  - Appuntamento online (le prestazioni inserite in appuntamento online saranno visualizzate quando si pianifica una videovisita)
+- Dopo aver cliccato "Nuova prestazione" puoi inserire il tipo di appuntamento:
+  - **Appuntamento in studio**
+  - **Appuntamento online** (le prestazioni inserite in appuntamento online saranno visualizzate quando si pianifica una **videovisita**)
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.08.15.png"
@@ -105,7 +105,8 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Cliccando nella barra di ricerca, si aprirà un **menu a tendina** con le prestazioni disponibili. Seleziona quella che ti serve.
-- Se la prestazione voluta non è all’interno della lista si può richiederne l’inserimento (il team di sviluppo valuterà e inserirà la prestazione)
+  - Essendo una multiselect, si devono cliccare tutte le prestazioni che si vogliono aggiungere, dopo averle selezionate bisogna cliccare in un qualsiasi punto all'interno del box "Nuova prestazione", non all'esterno, altrimenti non verranno salvate le modifiche.
+- Se la prestazione voluta non è all’interno della lista si può richiederne l’inserimento (il team di sviluppo valuterà e inserirà la prestazione).
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.08.32.png"
@@ -113,7 +114,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Una volta selezionata, la prestazione apparirà **in un box blu sotto al riquadro di ricerca, si possono selezionare più prestazioni (è una multiselect)**. Per uscire dall’elenco di ricerca basterà cliccare al di fuori dell’elenco (attenzione, non cliccare fuori dal box di “Nuova prestazione” altrimenti non verrà salvata la prestazione aggiunta, clicca fuori dall’elenco ma all’interno del box). A questo punto clicca su **“Aggiungi”** per confermare.
+- Una volta selezionata, la prestazione apparirà in un\*\*box blu \*\* sotto al riquadro di ricerca, sottolineo che si possono selezionare più prestazioni (è una multiselect). Ricordo che per uscire dall’elenco di ricerca basterà cliccare al di fuori dell’elenco (attenzione, non cliccare fuori dal box di “Nuova prestazione” altrimenti non verrà salvata la prestazione aggiunta, clicca fuori dall’elenco ma all’interno del box). A questo punto clicca su **“Aggiungi”** per confermare.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.08.50.png"
@@ -121,7 +122,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Di default visualizzerai le Prestazioni in presenza, per vedere le prestazioni online clicca su “**Prestazioni online**” a destra di “**Prestazioni in presenza**”.
+- Di default visualizzerai le Prestazioni in presenza, per vedere le prestazioni online clicca su **“Prestazioni online”** a destra di **“Prestazioni in presenza”**.
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-04-09_alle_11.09.06.png"
@@ -131,8 +132,9 @@ sidebarTitle: "Gestione Servizi"
 
 ### 4. Accettazione automatica delle prenotazioni
 
-- Nella sezione “**Accettazione automatica delle prenotazioni**” apribile dal tasto “**Personalizza**” si può abilitare l’accettazione automatica per “**Prenotazioni per appuntamenti in studio/struttura**” e per “**Prenotazioni per appuntamenti online**”. Cliccare “**Salva**” per salvare le impostazioni.
-  - E’ utilissima per risparmiare tempo, in questo modo non si devono accettare manualmente tutte le prenotazioni (anche perché in ogni caso avete pieno controllo delle prenotazioni, potete spostarle ed eliminarle a piacimento)
+- Nella sezione **“Accettazione automatica delle prenotazioni”** apribile dal tasto **“Personalizza”** si può abilitare l’accettazione automatica per **“Prenotazioni per appuntamenti in studio/struttura”** e per **“Prenotazioni per appuntamenti online”.** Cliccare **“Salva”** per salvare le impostazioni.
+  - È utilissima per risparmiare tempo, in questo modo non si devono accettare manualmente tutte le prenotazioni (anche perché **in ogni caso avete pieno controllo delle prenotazioni**, potete spostarle ed eliminarle a piacimento)
+  - Se non abilitata dovrai accettare di volta in volta ogni prenotazione all'interno della sezione "Agenda", "Da accettare", in questo modo compariranno all'interno dell'Agenda
 
 <img
   src="/images/platform/gestione-servizi/4..png"
@@ -142,7 +144,12 @@ sidebarTitle: "Gestione Servizi"
 
 ### 5. Prestazioni infermieristiche
 
-- Per attivare le “**Prestazioni infermieristiche**” bisogna cliccare l’apposito tasto sulla destra. Permette agli infermieri del gruppo di ricevere prenotazioni da app dai tuoi assistiti. Il paziente quindi vedrà sia le tue prestazioni sia quelle inserite all’interno dell’account di infermeria (che avrà una sua agenda con delle sue disponibilità). Questa funzionalità durante la campagna vaccinale è fortemente consigliata. Se non viene abilitata i tuoi pazienti non vedranno gli orari impostati nel profilo di infermeria.
+- Per attivare le **“Prestazioni infermieristiche”** bisogna cliccare l’apposito tasto sulla destra.
+- Permette agli infermieri del gruppo di ricevere prenotazioni ambulatoriali da app dai tuoi assistiti. Il paziente quindi vedrà sia le tue prestazioni sia quelle inserite all’interno dell’account di infermeria (che avrà una sua agenda con delle sue disponibilità).
+
+<Warning>
+  Questa funzionalità durante la **campagna vaccinale** è fortemente consigliata. Se non viene abilitata i tuoi pazienti non vedranno gli orari impostati nel profilo di infermeria.
+</Warning>
 
 <img
   src="/images/platform/gestione-servizi/Screenshot_2025-03-03_alle_15.42.21.png"
@@ -152,9 +159,9 @@ sidebarTitle: "Gestione Servizi"
 
 ### 6. Richieste di ricette
 
-- Per attivare le “**Richieste di ricette**” bisogna cliccare l’apposito tasto a destra di “**Personalizza**”. Si potranno scegliere le “**Tipologie richieste**” che si potranno fare da App. Le opzioni sono “**Ripetitive (pre compilate)**” e “**Nuove richieste (libere)**”.
-- **Richieste ripetitive (pre compilate)**: sono le richieste di farmaci (continuativi / cronici) e prestazioni (continuative) all’interno della scheda paziente, il paziente aprendo l’app, prima di inviare la richiesta, vedrà la lista di farmaci e selezionando quelli di cui ha bisogno potrà mandarti la richiesta
-- **Nuove richieste (libere)**: il paziente dovrà scrivere a mano la tipologia di richiesta, non ha accesso ad alcun database di farmaci (a contrario delle richieste inserite da voi o dal personale di segreteria nella sezione richieste), il testo inviato sarà un testo libero
+- Per attivare le **“Richieste di ricette”** bisogna cliccare l’apposito tasto a destra di**“Personalizza”** . Si potranno scegliere le tipologie di richieste di ricetta che si potranno fare da App. Le opzioni sono **“Ripetitive (pre compilate)”** e **“Nuove richieste (libere)”**.
+- **Richieste ripetitive (pre compilate)**: sono le richieste di farmaci (continuativi / cronici) e prestazioni (continuative, con ripetibilità) all’interno della scheda paziente, il paziente aprendo l’app, prima di inviare la richiesta, vedrà la lista di farmaci e selezionando quelli di cui ha bisogno potrà mandarti la richiesta.
+- **Nuove richieste (libere)**: il paziente dovrà scrivere a mano la tipologia di richiesta, non ha accesso ad alcun database di farmaci (a contrario delle richieste inserite da voi o dal personale di segreteria nella sezione richieste), il testo inviato sarà un testo libero.
 
 <img
   src="/images/platform/gestione-servizi/5..png"
@@ -162,8 +169,9 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Per le due tipologie di richieste (pre compilate e libere) si potrà decidere se attivare la funzionalità solo per i **farmaci**, solo per le **prestazioni** o per entrambi, questo spuntando l’apposita casella (ad esempio si può decidere di attivare la funzionalità per le richieste di farmaci continuativi e per le prestazioni libere, bloccando le prestazioni continuative e le richieste libere di farmaci)
-  - Cliccare, infine, su **“Salva”** per confermare la selezione
+- Per le due tipologie di richieste (pre compilate e libere) si potrà decidere se attivare la funzionalità solo per i **farmaci**, solo per le **prestazioni** o per entrambi, questo spuntando l’apposita casella
+  - Ad esempio si può decidere di attivare la funzionalità per le richieste di farmaci continuativi e per le prestazioni libere, bloccando le prestazioni continuative e le richieste libere di farmaci
+- Cliccare, infine, su **“Salva”** per confermare la selezione
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.29.51.png"
@@ -173,8 +181,8 @@ sidebarTitle: "Gestione Servizi"
 
 ### 7. Invio PDF delle ricette tramite e-mail
 
-- Se non visualizzi questa opzione segnalacelo, se hai un piano Smart o Premium possiamo abilitartela
-- Permette di inviare le ricette tramite Email in formato PDF (oltre all’invio tramite FSE, App e in alcune regioni tramite SMS con codice NRE)
+- Se non visualizzi questa opzione apri una segnalazione, se hai un piano **Smart** o **Premium** **possiamo abilitartela**
+- Permette di inviare le ricette tramite Email in formato **PDF** (oltre all’invio tramite **FSE**, **App** e in alcune regioni tramite SMS con codice **NRE**)
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.31.32.png"
@@ -182,7 +190,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Cliccando il tasto “**Personalizza**” si potrà andare a personalizzare la tipologia di Email
+- Cliccando il tasto **“Personalizza”** si potrà andare a personalizzare la tipologia di Email
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.31.36.png"
@@ -190,9 +198,10 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Si potrà scegliere la “**Modalità di invio**”\*\*: \*\*
-  - “**Invio in chiaro**”: una sola email
-  - “**Invio protetto**”: due email, una con una password per poter visualizzare il documento Per abilitarla si dovrà spuntare l’apposita casella in corrispondenza di “**Abilita**” e cliccare “**Salva**” per confermare il tutto
+- Si potrà scegliere la **“Modalità di invio”**:
+  - **“Invio in chiaro”**: una sola email.
+  - **“Invio protetto”**: due email, una con una password per poter visualizzare il documento. 
+  - Per abilitare l'invio si dovrà spuntare l’apposita casella in corrispondenza di **“Abilita”** e cliccare **“Salva”** per confermare il tutto.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.31.43.png"
@@ -202,7 +211,7 @@ sidebarTitle: "Gestione Servizi"
 
 ### 8. Ricezioni di referti
 
-- Per attivare la “**Ricezione di referti**” (che permette ai pazienti di inviare i referti da app) bisogna cliccare l’apposito tasto sulla destra
+- Per attivare la **“Ricezione di referti”** (che permette ai pazienti di inviare i referti da **app**) bisogna cliccare l’apposito tasto sulla destra
 
 <img
   src="/images/platform/gestione-servizi/6..png"
@@ -212,7 +221,8 @@ sidebarTitle: "Gestione Servizi"
 
 ### 9. Istruzioni per i pazienti
 
-- Cliccando “**Personalizza**” nella sezione “**Istruzioni per i pazienti**” si potranno aggiungere delle istruzioni che saranno visualizzate dai pazienti in app prima e/o dopo aver pianificato delle prenotazioni, inviato delle richieste di farmaci / prestazioni e inviato dei referti
+- Cliccando **“Personalizza”** nella sezione **“Istruzioni per i pazienti”** si potranno aggiungere delle istruzioni che saranno visualizzate dai **pazienti in app**.
+- Queste istruzioni saranno visualizzate prima e/o dopo aver pianificato delle prenotazioni, inviato delle richieste di farmaci / prestazioni e inviato dei referti.
 
 <img
   src="/images/platform/gestione-servizi/7..png"
@@ -221,9 +231,9 @@ sidebarTitle: "Gestione Servizi"
 />
 
 - Si potrà scegliere il servizio a cui allegare un istruzione per pazienti tra:
-  - Richieste di ricette
-  - Appuntamento in studio
-  - Invio referto
+  - **Richieste di ricette**
+  - **Appuntamento in studio**
+  - **Invio referto**
 
 <img
   src="/images/platform/gestione-servizi/8..png"
@@ -231,7 +241,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- “**Richieste di ricette**”: si potrà scegliere se mettere l’istruzione per le “Ricette continuative” o per le “Ricette ordinarie”.
+- **“Richieste di ricette”**: si potrà scegliere se mettere l’istruzione per le **“Ricette continuative”** o per le **“Ricette ordinarie”**.
 
 <img
   src="/images/platform/gestione-servizi/9..png"
@@ -239,7 +249,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- “**Appuntamento in studio**”: si potrà scegliere se mettere l’istruzione per la “Visita medica generica” o per le altre prestazioni che si sono state abilitate nella sezione “**Agenda e prestazioni**”
+- **“Appuntamento in studio”**: si potrà scegliere se mettere l’istruzione per la “Visita medica generica” o per le altre **prestazioni** che si sono state abilitate nella sezione “Agenda e prestazioni”
 
 <img
   src="/images/platform/gestione-servizi/10..png"
@@ -247,7 +257,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- “**Invio referto**”: si dovrà selezionare “Visione referto”.
+- **“Invio referto”**: si dovrà selezionare “Visione referto”.
 
 <img
   src="/images/platform/gestione-servizi/11..png"
@@ -255,7 +265,9 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Dopo aver scelto il servizio a cui si vuole aggiungere un’istruzione, bisogna inserire nel box di testo il messaggio / istruzione che si vuol far vedere ai pazienti → Si sceglie cosa dire al paziente “**Prima della richiesta**” e “**Alla conferma della richiesta**”. Si può decidere di selezionare anche il tasto “**Attiva subito questa istruzione**”, per renderla subito operativa
+- Dopo aver scelto il servizio a cui si vuole aggiungere un’istruzione, bisogna inserire nel box di testo il messaggio / istruzione che si vuol far vedere ai pazienti.
+- Si sceglie cosa dire al paziente **“Prima della richiesta”** e **“Alla conferma della richiesta”.**
+- Si può decidere di selezionare anche il tasto “**Attiva subito questa istruzione**”, per renderla subito operativa.
 
 <img
   src="/images/platform/gestione-servizi/12..png"
@@ -263,7 +275,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Cliccare, infine, il tasto “Salva” per confermare
+- Cliccare, infine, il tasto**“Salva” ** per confermare
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.39.08.png"
@@ -271,7 +283,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Dopo aver **salvato** l’istruzione per i pazienti comparirà una preview con all’interno il testo inserito precedentemente. Si può decidere se **attivare** o **disattivare** l’istruzione in qualsiasi momento cliccando l’apposita spunta.
+- Dopo aver salvato l’istruzione per i pazienti comparirà una **preview** con all’interno il testo inserito precedentemente. Si può decidere se **attivare** o **disattivare** l’istruzione in qualsiasi momento cliccando l’apposita spunta.
 
 <img
   src="/images/platform/gestione-servizi/14..png"
@@ -279,7 +291,7 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-- Si può **eliminare** o **modificare** l’istruzione cliccando i tasti “**Azioni**” a forma di penna e di cestino.
+- Si può **modificare** o **eliminare **l’istruzione cliccando i tasti **“Azioni”** a forma di penna e di cestino.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.41.19.png"
@@ -287,9 +299,9 @@ sidebarTitle: "Gestione Servizi"
   className="mx-auto"
 />
 
-Alcuni esempi di istruzioni:
+Alcuni **esempi di istruzioni**:
 
-- Prima della richiesta di visita ambulatoriale:
+- Prima della richiesta di **visita ambulatoriale**:
 
 <Info>
   Specificare nella descrizione il motivo della richiesta di visita (es. mal di testa) - Se più persone desiderano essere visitate contemporaneamente con lo stesso appuntamento (es. moglie e marito che vogliano entrambi essere visitati) sono pregate di specificarlo in fase di prenotazione nella descrizione insieme al motivo della visita. Grazie.
@@ -301,7 +313,7 @@ Alcuni esempi di istruzioni:
   Gentile paziente, si raccomanda la puntualità per permettere il normale svolgimento dell'ambulatorio. Si precisa che i tempi di attesa rispetto all'orario previsto potranno variare in base alle necessità cliniche dei pazienti precedenti.
 </Info>
 
-Prima delle richieste ricette:
+Prima delle **richieste ricette**:
 
 - Richieste continuative:
 
@@ -321,7 +333,7 @@ Prima delle richieste ricette:
   Gentile paziente ho ricevuto la sua richiesta. Si ricordi che le richieste verranno evase generalmente entro 24\\48 ore (esclusi festivi e prefestivi). Grazie.
 </Info>
 
-Invio referto:
+Invio **referto**:
 
 - Prima della richiesta di invio:
 
@@ -337,7 +349,7 @@ Invio referto:
 
 ### 10. Gruppo di lavoro
 
-- In Gestione Servizi, scorrendo la pagina si arriva alla sezione “**Gruppo di lavoro**”:
+- In Gestione Servizi, scorrendo la pagina si arriva alla sezione **“Gruppo di lavoro”**:
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-11_alle_11.41.27.png"
@@ -345,7 +357,7 @@ Invio referto:
   className="mx-auto"
 />
 
-- Cliccando su “**Personalizza**” potrete vedere i “**Membri del gruppo di lavoro**” (medici, personale di segreteria e infermeria del vostro gruppo).
+- Cliccando su **“Personalizza”** potrete vedere i **“Membri del gruppo di lavoro”** (medici, personale di segreteria e infermeria del vostro gruppo).
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.43.17.png"
@@ -353,7 +365,7 @@ Invio referto:
   className="mx-auto"
 />
 
-- Nella parte superiore è indicato il nome dell’ambulatorio, mentre in basso compaiono i diversi ruoli presenti (segretaria, infermiera, medico). A ciascun ruolo sono associati i nominativi delle persone e i relativi permessi
+- Nella parte superiore è indicato il **nome dell’ambulatorio**, mentre in basso compaiono i diversi **ruoli** presenti (segretaria, infermiera, medico). A ciascun ruolo sono associati i nominativi del personale dell'ambulatorio e i relativi permessi
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-11-25_alle_15.01.18.png"
@@ -361,7 +373,7 @@ Invio referto:
   className="mx-auto"
 />
 
-- Per la **modifica del gruppo di lavoro** si dovrà cliccare su “Modifica”
+- Per la modifica dei **permessi** dei componenti del **gruppo di lavoro** si dovrà cliccare su **“Modifica”**
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.46.10.png"
@@ -369,7 +381,8 @@ Invio referto:
   className="mx-auto"
 />
 
-- Per **modificare i Membri del gruppo di lavoro** si deve cliccare su “**Contattaci**”
+- Per **modificare i Membri **del **gruppo di lavoro** si deve cliccare su **“Contattaci”.**
+  - In questo modo si aprirà un ticket di assistenza: la modifica dei componenti del gruppo (eliminazione e aggiunta del personale di ambulatorio) è gestita dai componenti del team di Elty.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-12-18_alle_15.48.45.png"
@@ -378,9 +391,9 @@ Invio referto:
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Cliccando su “**Modifica**” si possono modificare i “**Permessi ruolo**” dei membri del gruppo di lavoro
+- Cliccando su **“Modifica”** si possono modificare i **“Permessi ruolo”** dei membri del gruppo di lavoro
   - Ad esempio si può decidere se far visualizzare il diario clinico o meno ai propri colleghi e permettere di visualizzare alcune sezioni al personale di segreteria e infermeria.
-  - Cliccare “**Salva**” per confermare
+  - Cliccare **“Salva”** per confermare.
 
 <img
   src="/images/platform/gestione-servizi/Schermata_2025-11-25_alle_15.11.00.png"
