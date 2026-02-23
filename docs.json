@@ -16,7 +16,9 @@
           {
             "group": "Indice",
             "pages": [
-              "platform/index"
+              "platform/index",
+              "platform/qa",
+              "platform/altro/privacy"
             ]
           },
           {
