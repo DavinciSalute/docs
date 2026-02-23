@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `68f4e2c9f935f9f75987dade15a022a2ec1f0dc9`
-- **Data:** 2026-02-17 09:34:36 UTC
+- **SHA:** `2b1900e3a09b792fcb7dea2f7a6ef3df3e35a682`
+- **Data:** 2026-02-19 19:46:39 UTC
 - **Autore:** danilosammarcodavinci
-- **Messaggio:** Merge pull request #9023 from DavinciSalute/feature-sc-111827-dashboard-pagamenti-migliorie-v2 — feat: [sc-111827] Dashboard pagamenti - Migliorie
-- **URL:** https://github.com/DavinciSalute/davinci/commit/68f4e2c9f935f9f75987dade15a022a2ec1f0dc9
+- **Messaggio:** Merge pull request #9042 from DavinciSalute/fix/fix-custom-query-table-query — fix(webapp): always skip cache when forcing data refresh in custom query table
+- **URL:** https://github.com/DavinciSalute/davinci/commit/2b1900e3a09b792fcb7dea2f7a6ef3df3e35a682

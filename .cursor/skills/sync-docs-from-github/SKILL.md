@@ -10,8 +10,8 @@ This skill helps synchronize the Mintlify documentation with recent code changes
 ## Quick Start
 
 1. Read `latest_commit.md` to get the last analyzed commit SHA (so we don’t re-analyze the same commits).
-2. `list_commits(DavinciSalute, davinci, master, perPage: 20)` → keep only commits **newer** than that SHA (newest-first; stop when you reach it).
-3. Analyze only those new commits; update/create doc pages.
+2. Use `gh api` with `--jq` to fetch a commit list from master → keep only commits **newer** than that SHA (newest-first; stop when you reach it).
+3. **Analyze every commit** in that list — one by one, without skipping any. Update/create doc pages as needed.
 4. **Update `latest_commit.md`** with the newest commit analyzed this run. No new commits → leave unchanged.
 5. **Use the same umbrella branch** every time: checkout `docs/sync-from-davinci`, apply changes, commit, push. Open the PR (or update the existing one). One branch for all sync runs; a reviewer controls when to merge (see Step 5).
 
@@ -26,27 +26,25 @@ Read `.cursor/skills/sync-docs-from-github/latest_commit.md`.
 
 ### 1b. Fetch commits and filter to “new” ones only
 
-Use the GitHub MCP `list_commits` tool:
+**IMPORTANT — use `gh api` with `--jq` (not the MCP `list_commits` tool).** Always use the compact command below so all commits fit in a single readable output:
 
+```bash
+gh api "repos/DavinciSalute/davinci/commits?sha=master&per_page=30" \
+  --jq '.[] | {sha: .sha, date: .commit.author.date, author: .commit.author.name, message: .commit.message | split("\n")[0]}'
 ```
-CallMcpTool:
-  server: "user-GitHub"
-  toolName: "list_commits"
-  arguments:
-    owner: "DavinciSalute"
-    repo: "davinci"
-    sha: "master"
-    perPage: 20
-```
+
+ **You MUST read the entire output** — do not stop at the first N lines.
 
 The API returns commits **newest first**. From this list:
 
 - **If you have a last-analyzed SHA from latest_commit.md:** walk from the top and collect commits until you **reach** that SHA. The commits you collected **before** reaching it are the **new** ones to analyze. Do **not** analyze the last-analyzed commit again; only analyze the newer ones.
 - **If you have no last-analyzed SHA:** treat the whole fetched list as new and analyze all (or the first N you need).
 
-If the last-analyzed SHA does not appear in the first page, fetch more pages (`page: 2`, etc.) until you find it, then “new” commits are all those from the start of the list down to (but not including) that SHA. If master has moved and that SHA is no longer in the history, treat the whole first page as new.
+If the last-analyzed SHA does not appear, fetch more SHA until you find it, then “new” commits are all those from the start of the list down to (but not including) that SHA. If master has moved and that SHA is no longer in the history, treat the whole first page as new.
 
 **Output to use:** the list of **new** commits only (SHA, message, author, date).
+
+**Mandatory:** you must analyze **every** new commit in this list — whether it's a merged PR or a direct commit to master. Do not skip any. For each one, inspect the diff and decide if docs need changes.
 
 ### 1c. Update latest_commit.md at the end of the run
 
@@ -74,14 +72,12 @@ This keeps the “last analyzed” pointer correct and avoids double-analyzing t
 
 For each commit, determine if it's doc-relevant:
 
-## Strict mode 
-
 To avoid accidental “drive-by” doc changes, follow these strict rules for every run:
 
-1. **Diff-first (no guesswork):** do not change docs based only on commit message. Before editing any doc page, inspect the actual diff for the commit (or the compare range) and extract the concrete behavior/API/UI change.
+1. **Diff-first (no guesswork):** do not change docs based only on commit message. Before editing any doc page, inspect the actual diff for the commit and extract the concrete behavior/API/UI change.
 2. **Evidence gate:** every doc edit must be traceable to at least one changed code/config line in the analyzed commit(s). If you cannot point to a diff that justifies the doc edit, **do not edit** that doc page.
 3. **Minimal surface area:** touch the **fewest files** and **fewest lines** possible.
-   - Do not reword paragraphs, reorder sections, rename headings, or “improve style” unless it is strictly required to document the diff-backed change.
+   - Do not reword paragraphs, reorder sections, rename headings, or “improve style” unless it is required to document the diff-backed change.
    - Do not do formatting-only changes (whitespace, punctuation sweeps, capitalization consistency, etc.).
 4. **Mismatch check before changing a “correct” doc:** if a doc section looks already correct, assume it is. Only change it if you can prove a mismatch against the diff-backed behavior.
 5. **Prefer add over rewrite:** when updating an existing page, prefer adding a short note/snippet in the relevant section over rewriting the whole page.
@@ -202,10 +198,6 @@ Then open a PR with the template above if there isn’t one yet; otherwise the p
 
 ## GitHub MCP Tools Reference
 
-**List commits:**
-```
-list_commits(owner, repo, sha, page, perPage)
-```
 
 **Get file contents:**
 ```
