@@ -3,9 +3,9 @@ title: "Report e statistiche"
 sidebarTitle: "Report e statistiche"
 ---
 
-### Introduzione
+### 1. Introduzione
 
-- Dalla pagina principale (home, raggiungibile al link [davinci.elty.it](http://davinci.elty.it) oppure cliccando il logo Elty Davinci in alto a sinistra da qualsiasi sezione della webapp), clicca sul tuo nome e cognome in alto a destra e poi su **“Report e Statistiche”.**
+- Clicca sul tuo nome e cognome in alto a destra e poi su **“Report e Statistiche”.**
 
 <img
   src="/images/platform/HP_report_e_statistiche.png"
@@ -35,7 +35,7 @@ sidebarTitle: "Report e statistiche"
   className="mx-auto"
 />
 
-### 0. Download Report
+### 2. Download Report
 
 - Cliccando sul tasto “**_Download report_**” si potrà andare a scaricare il report
 
@@ -53,7 +53,7 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.33.51.png"
   alt="Schermata 2025-12-19 alle 14.33.51.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Spuntare “**_Seleziona pagina_**” se si è interessati ad un download di pagine specifiche (_Home, Demografiche, Esami, Ricette, Vaccinazioni_)
@@ -62,7 +62,7 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.34.01.png"
   alt="Schermata 2025-12-19 alle 14.34.01.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
 - Abbiamo anche eventuali **_opzioni aggiuntive_** da andare a spuntare.
@@ -72,10 +72,10 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.33.51_2.png"
   alt="Schermata 2025-12-19 alle 14.33.51 2.png"
   className="mx-auto"
-  style={{ width: "60%", maxWidth: "500px" }}
+  style={{ width:"60%",maxWidth:"500px" }}
 />
 
-### 1. Home (di Report e statistiche)
+### 3. Home (di Report e statistiche)
 
 - Nella sezione Home _(di Report e statistiche)_ potrai:
   - Scaricare il tuo report: cliccando “Download report” in alto a destra
@@ -115,7 +115,7 @@ sidebarTitle: "Report e statistiche"
   className="mx-auto"
 />
 
-### 2. Sezione “Demografiche”
+### 4. Sezione “Demografiche”
 
 - Si può accedere a questa sezione cliccando sul tasto “**_Demografiche”_**
 
@@ -162,7 +162,7 @@ sidebarTitle: "Report e statistiche"
   className="mx-auto"
 />
 
-### 3. Sezione “Esami”
+### 5. Sezione “Esami”
 
 - Si accedere tramite il tasto “Esami”.
 - È possibile andare a modificare i dati visualizzati in base al tipo di preferenze (età, sesso, patologia, periodo).
@@ -211,7 +211,7 @@ sidebarTitle: "Report e statistiche"
   className="mx-auto"
 />
 
-### 4. Sezione “Ricette”
+### 6. Sezione “Ricette”
 
 - Qui possiamo trovare ulteriori grafici che forniscono informazioni relative all’ambito Ricette.
 
@@ -264,7 +264,7 @@ sidebarTitle: "Report e statistiche"
 
 - Anche qui c’è la possibilità di andare a visualizzare le informazioni sulla base delle necessità del Medico (Età, sesso, patologia, periodo)
 
-### 5. Sezione “Vaccinazioni”
+### 7. Sezione “Vaccinazioni”
 
 - Questa è l’ultima sezione che comprare in “Report e statistiche” e dà informazioni relative alle patologie, vaccinazioni, dati basati su età e sesso oltre all’export delle vaccinazioni
 

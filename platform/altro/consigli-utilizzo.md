@@ -52,3 +52,9 @@ Le quattro tipologie di esenzioni da reddito a livello nazionale sono:
 
 - In questo caso si ha l'appuntamento telefonico da parte dell'informatore
 - Semplicemente si blocca lo slot orario in agenda così da evitare sovrapposizioni con altri appuntamenti
+
+### 5. Visualizzare la schermata di Home
+
+- Per visualizzare la pagina principale (**home**) ci sono due metodi:
+  - Vai al link [davinci.elty.it](http://davinci.elty.it) 
+  - Clicca il logo Elty Davinci in alto a sinistra da qualsiasi sezione della webapp
