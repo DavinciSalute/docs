@@ -14,7 +14,7 @@ Benvenuto nella documentazione di Elty Davinci.
 - 🔒 [Impostazioni e privacy](/platform/impostazioni/impostazioni-privacy)
 - 📋 [Bacheca SISS (Lombardia)](/platform/impostazioni/bacheca-siss)
 - 🔐 [Login Cloud regionale](/platform/impostazioni/login-cloud-regionale)
-- [Link utili](/platform/impostazioni/link-utili)
+- 🔗 [Link utili](/platform/impostazioni/link-utili)
 - [Invita un collega](/platform/impostazioni/invita-collega)
 
 ## Pazienti
