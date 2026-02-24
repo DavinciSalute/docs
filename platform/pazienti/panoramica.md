@@ -127,14 +127,15 @@ sidebarTitle: "Pazienti"
   - **Codice Fiscale**.
   - **Numero di telefono**.
   - **Email**.
-- Per invitarlo a scaricare l’app spunta **“Invia messaggio al paziente”**, in questo modo sarà inviato un messaggio pre-impostato (modificabile) tramite **SMS**. Ricordati di cliccare **“Aggiungi paziente”** alla fine.
-- N.B.: il nome, cognome e Codice fiscale non potranno essere modificati in seguito, se avrai bisogno di modificarli ci devi inviare una segnalazione.
 
 <img
   src="/images/platform/image 7.png"
   alt="image.png"
   className="mx-auto"
 />
+
+- Per invitarlo a scaricare l’app spunta **“Invia messaggio al paziente”**, in questo modo sarà inviato un messaggio pre-impostato (modificabile) tramite **SMS**. Ricordati di cliccare **“Aggiungi paziente”** alla fine.
+- N.B.: il nome, cognome e Codice fiscale non potranno essere modificati in seguito, se avrai bisogno di modificarli ci devi inviare una segnalazione.
 
 <img
   src="/images/platform/image 8.png"

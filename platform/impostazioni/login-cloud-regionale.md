@@ -14,12 +14,15 @@ sidebarTitle: "Login Cloud regionale"
 />
 
 - Si aprirà la pagina web di **autenticazione** regionale che permetterà di accedere tramite **SPID** **CIE** o **CNS**.
+- Schermata della regione **Toscana**:
 
 <img
   src="/images/platform/SR_toscana.png"
   alt="SR toscana.png"
   className="mx-auto"
 />
+
+- Schermata della regione **Lombardia**:
 
 <img
   src="/images/platform/Schermata_2025-12-19_alle_15.54.29.png"
