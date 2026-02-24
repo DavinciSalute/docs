@@ -20,7 +20,7 @@ Benvenuto nella documentazione di Elty Davinci.
 ## Pazienti
 
 - 😷 [Pazienti](/platform/pazienti/panoramica)
-- [Ricerca paziente](/platform/pazienti/ricerca-paziente)
+- 🔍 [Ricerca paziente](/platform/pazienti/ricerca-paziente)
 - [Guida al download delle anagrafiche pazienti](/platform/pazienti/download-anagrafiche)
 
 ## Connect
