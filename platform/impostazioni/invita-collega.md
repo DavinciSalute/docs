@@ -1,9 +1,12 @@
 ---
-title: "Invita un collega"
+title: "📨 Invita un collega"
 sidebarTitle: "Invita un collega"
 ---
 
-- Clicca sul tuo nome e cognome **in alto a destra**.
+### 1. Introduzione
+
+- Puoi segnalarci dei colleghi interessati all'utilizzo di Elty, in questi casi procederemo noi al contatto così da fissare una **demo** senza alcun impegno per il medico invitato.
+- Clicca sul tuo **nome e cognome** in alto a destra.
 
 <img
   src="/images/platform/Screenshot_2025-04-16_alle_10.56.27_2.png"
@@ -19,13 +22,15 @@ sidebarTitle: "Invita un collega"
   className="mx-auto"
 />
 
+### 2. Quali dati inserire
+
 - Inserisci i dati del collega che vuoi invitare:
-  - Nome
-  - Cognome
-  - Numero di telefono
-  - Regione
-  - Note (facoltativo) 
-- Lo contatteremo presto per presentargli Elty DaVinci.
+  - **Nome**.
+  - **Cognome**.
+  - **Numero di telefono**.
+  - **Regione**.
+  - **Note** (facoltativo).
+- Lo contatteremo il prima possibile per presentargli **Elty DaVinci**.
 
 <img
   src="/images/platform/Screenshot_2025-04-16_alle_11.10.34.png"
