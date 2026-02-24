@@ -53,7 +53,7 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.33.51.png"
   alt="Schermata 2025-12-19 alle 14.33.51.png"
   className="mx-auto"
-  style={{ width:"60%",maxWidth:"500px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Spuntare **“Seleziona pagina”** se si è interessati ad un download di pagine specifiche (Home, Demografiche, Esami, Ricette, Vaccinazioni).
@@ -62,7 +62,7 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.34.01.png"
   alt="Schermata 2025-12-19 alle 14.34.01.png"
   className="mx-auto"
-  style={{ width:"60%",maxWidth:"500px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 - Abbiamo anche eventuali **opzioni aggiuntive** da andare a spuntare.
@@ -72,7 +72,7 @@ sidebarTitle: "Report e statistiche"
   src="/images/platform/Schermata_2025-12-19_alle_14.33.51_2.png"
   alt="Schermata 2025-12-19 alle 14.33.51 2.png"
   className="mx-auto"
-  style={{ width:"60%",maxWidth:"500px" }}
+  style={{ width:"50%",maxWidth:"400px" }}
 />
 
 ### 3. Home (di Report e statistiche)
