@@ -79,7 +79,7 @@ sidebarTitle: "Ricette (scheda paziente)"
 />
 
 - Dopo aver cliccato prescrivi si creerà la bozza di ricetta
-- Sul fondo della pagina "Ricette" (della scheda paziente) ci sarà la bozza di **ricetta pronta per essere elaborata** (_subito o più tardi_).
+- Sul fondo della pagina "Ricette" (della scheda paziente) ci sarà la bozza di **ricetta pronta per essere elaborata** (subito o più tardi).
   - L'elabora più tardi permette al medico di creare delle bozze di ricetta quando ci sono dei problemi con il sistema regionale, in questo modo quando il sistema regionale torna a funzionare il medico potrà elaborare massivamente le ricette dalla sezione "Ricette" (in alto a sinistra di "Richieste")
 - Dalla bozza di ricetta si potrà modificare la tipologia di ricetta (cliccando la tipologia di ricetta in alto a destra all'interno della bozza di ricetta, a sinistra dei 3 puntini verticali):
   - Rossa dematerializzata → a carico del SSN e dematerializzata (non cartacea, fascia A)
@@ -96,7 +96,7 @@ sidebarTitle: "Ricette (scheda paziente)"
 
 ### 3. Prescrivere una prestazione
 
-- Per prescrivere una prestazione, seleziona **_"Prestazione"_**.
+- Per prescrivere una prestazione, seleziona **"Prestazione"**.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-16_alle_11.22.52_2.png"
@@ -112,7 +112,7 @@ sidebarTitle: "Ricette (scheda paziente)"
   className="mx-auto"
 />
 
-- Apparirà un'anteprima della visita, clicca su **_"Conferma"_** per salvarla.
+- Apparirà un'anteprima della visita, clicca su **"Conferma"** per salvarla.
   - Se si modifica la quantità/cicli la prestazione sarà continuativa (e nel box Prestazioni continuative)
 
 <img
@@ -191,7 +191,7 @@ sidebarTitle: "Ricette (scheda paziente)"
 
 ### 4. Trasporto sanitario
 
-- Per prescrivere un trasporto sanitario, seleziona **_"Trasporto Sanitario"_**.
+- Per prescrivere un trasporto sanitario, seleziona **"Trasporto Sanitario"**.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-16_alle_11.22.52_3.png"
@@ -243,7 +243,7 @@ sidebarTitle: "Ricette (scheda paziente)"
 
 ### 5. Ricovero ospedaliero
 
-- Per prescrivere un ricovero ospedaliero, seleziona **_"Ricovero ospedaliero"_**.
+- Per prescrivere un ricovero ospedaliero, seleziona **"Ricovero ospedaliero"**.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-16_alle_11.22.52_4.png"
@@ -256,7 +256,7 @@ sidebarTitle: "Ricette (scheda paziente)"
   - Reparto
   - Selezionare "Compila scheda di accesso ospedaliero" per inserire i dati per completare la scheda di accesso ospedaliero
   - Se cliccato "Compila scheda di accesso ospedaliero" si apriranno le sezioni "Accertamenti e terapie in corso" (Seleziona farmaci o prestazioni tra quelli già inseriti in scheda paziente e/o utilizza il campo libero "Aggiungi altre informazioni"), anamnesi e scheda sanitaria
-- Clicca **_"Aggiungi"_** per confermare.
+- Clicca **"Aggiungi"** per confermare.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-16_alle_11.25.06.png"
@@ -266,7 +266,7 @@ sidebarTitle: "Ricette (scheda paziente)"
 
 ### 6. Prescrizione libera
 
-- Seleziona **_"Prescrizione libera" _**_per fare una prescrizione libera_**_"Bianca cartacea" _** _o_**_"Rossa cartacea"_** .
+- Seleziona **\_"Prescrizione libera" \_**per fare una prescrizione libera**\_"Bianca cartacea" \_** o**"Rossa cartacea"** .
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-16_alle_11.22.52_5.png"
@@ -274,7 +274,7 @@ sidebarTitle: "Ricette (scheda paziente)"
   className="mx-auto"
 />
 
-- Scrivi la prescrizione a mano libera nel campo testuale. Per salvare clicca su **_"Prescrivi"_**.
+- Scrivi la prescrizione a mano libera nel campo testuale. Per salvare clicca su **"Prescrivi"**.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-18_alle_09.17.11.png"
@@ -297,16 +297,15 @@ sidebarTitle: "Ricette (scheda paziente)"
 
 ### 7. Elaborazione
 
-- Si può **rimandare l'elaborazione della ricetta** a un momento successivo cliccando "**_Elabora più tardi_**".
+- Si può **rimandare l'elaborazione della ricetta** a un momento successivo cliccando "**Elabora più tardi**".
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-04_alle_14.14.58.png"
   alt="Screenshot 2025-04-04 alle 14.14.58.png"
   className="mx-auto"
-  title=""
 />
 
-- La ricetta verrà automaticamente spostata nella sezione ****"Ricette" → "Da elaborare".**** Per completare l'operazione, clicca **_"Elabora tutte" _**_in alto a destra._
+- La ricetta verrà automaticamente spostata nella sezione ****"Ricette" → "Da elaborare".**** Per completare l'operazione, clicca **\_"Elabora tutte" \_**in alto a destra.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-23_alle_10.48.04.png"
@@ -314,7 +313,7 @@ sidebarTitle: "Ricette (scheda paziente)"
   className="mx-auto"
 />
 
-- Cliccando **_"Elabora" all'interno della bozza di ricetta _**_(in basso a destra)_ la ricetta viene validata dal sistema regionale.
+- Cliccando **\_"Elabora" all'interno della bozza di ricetta \_**(in basso a destra) la ricetta viene validata dal sistema regionale.
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-04_alle_14.14.58_2.png"
@@ -322,7 +321,7 @@ sidebarTitle: "Ricette (scheda paziente)"
   className="mx-auto"
 />
 
-- Per vedere lo storico delle ricette elaborate relative al paziente clicca su "**_Vai all'archivio_**".
+- Per vedere lo storico delle ricette elaborate relative al paziente clicca su "**Vai all'archivio**".
 
 <img
   src="/images/platform/ricette-scheda-paziente/Screenshot_2025-04-23_alle_10.50.45.png"
