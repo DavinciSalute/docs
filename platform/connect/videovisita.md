@@ -3,7 +3,7 @@ title: "Videovisita"
 sidebarTitle: "Videovisita"
 ---
 
-- Dalla pagina principale, clicca su **_“Videovisita”_**.
+- Dalla pagina principale, clicca su **“Videovisita”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-11_alle_13.19.15.png"
@@ -72,7 +72,7 @@ sidebarTitle: "Videovisita"
   className="mx-auto"
 />
 
-- Ci sarà un riepilogo dei dati del paziente, premi **_“Nuova video chiamata”_** per iniziare.
+- Ci sarà un riepilogo dei dati del paziente, premi **“Nuova video chiamata”** per iniziare.
 
 <img
   src="/images/platform/Screenshot_2025-04-11_alle_17.57.29.png"
@@ -93,7 +93,7 @@ Il paziente come fa ad entrare nella video chiamata?
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Cliccando sulla notifica, si aprirà la chat: da lì sarà sufficiente premere il pulsante **_“Inizia”_** per entrare nella videochiamata
+- Cliccando sulla notifica, si aprirà la chat: da lì sarà sufficiente premere il pulsante **“Inizia”** per entrare nella videochiamata
 
 <img
   src="/images/platform/IMG_8486_copia.png"
