@@ -114,8 +114,8 @@ La scheda paziente è composta da:
   className="mx-auto"
 />
 
-- Per modificare il layout della pagina, clicca i tre puntini verticali a destra di “Aggiungi a diario” e seleziona “**_Modifica layout_**”.
-  - Clicca “**_Salva layout_**” per rendere effettive le modifiche.
+- Per modificare il layout della pagina, clicca i tre puntini verticali a destra di “Aggiungi a diario” e seleziona “**Modifica layout**”.
+  - Clicca “**Salva layout**” per rendere effettive le modifiche.
   - N.B.: La modifica del layout riguarderà il dispositivo utilizzato in quel momento (sono dati salvati nel browser), se si cambia dispositivo andranno rimodificate
 
 <img
@@ -174,7 +174,7 @@ La scheda paziente è composta da:
 - Inserisci:
   - Unità posologica (di base è una posologia strutturata, per inserire un testo libero cliccare “Passa a posologia libera”)
   - Periodicità
-  - Se il farmaco è continuativo, spunta l’opzione **_“Continuativo”_**.
+  - Se il farmaco è continuativo, spunta l’opzione **“Continuativo”**.
   - Salva e prescrivi (se si vuol creare la bozza di ricetta) oppure Salva (per inserire il farmaco alla lista del box “Farmaci”)
 
 <img
