@@ -4,7 +4,7 @@ sidebarTitle: "Certificati"
 ---
 
 - Nella sezione certificati puoi gestire tutti i certificati del paziente.
-- Per iniziare, clicca su “Crea nuovo certificato” _(tasto blu in alto a destra)_.
+- Per iniziare, clicca su “Crea nuovo certificato” (tasto blu in alto a destra).
 
 <img
   src="/images/platform/Schermata_2026-01-07_alle_15.32.40.png"
@@ -40,7 +40,7 @@ sidebarTitle: "Certificati"
 
 - Inserisci:
   - Indirizzo di residenza
-  - Indirizzo di reperibilità Una volta terminato, clicca su **_“Trasmetti all’INPS”_** per l’invio.
+  - Indirizzo di reperibilità Una volta terminato, clicca su **“Trasmetti all’INPS”** per l’invio.
 
 <img
   src="/images/platform/Schermata_2026-01-07_alle_16.14.55.png"
@@ -56,7 +56,7 @@ sidebarTitle: "Certificati"
   className="mx-auto"
 />
 
-- Una volta creato, il certificato apparirà nell’elenco dei certificati creati / pubblicati. Per **visualizzarlo o scaricarlo**, clicca su **_“Visualizza”_**.
+- Una volta creato, il certificato apparirà nell’elenco dei certificati creati / pubblicati. Per **visualizzarlo o scaricarlo**, clicca su **“Visualizza”**.
 
 <img
   src="/images/platform/Schermata_2026-01-07_alle_16.02.26.png"
