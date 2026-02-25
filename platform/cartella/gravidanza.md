@@ -3,7 +3,7 @@ title: "Come aggiungere lo stato di gravidanza"
 sidebarTitle: "Come aggiungere gravidanza"
 ---
 
-Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_** dalla schermata di Home.
+Per aggiungere lo stato di gravidanza, clicca sulla sezione **“Pazienti”** dalla schermata di Home.
 
 <img
   src="/images/platform/Screenshot_2025-04-07_alle_11.20.14.png"
@@ -43,7 +43,7 @@ Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_**
   className="mx-auto"
 />
 
-- Fino ad arrivare alla sezione **_“Gravidanze e parto”_**, qui potrai inserire le seguenti informazioni:
+- Fino ad arrivare alla sezione **“Gravidanze e parto”**, qui potrai inserire le seguenti informazioni:
   - Data ultimo ciclo
   - Stato
   - Settimana
@@ -58,7 +58,7 @@ Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_**
   className="mx-auto"
 />
 
-- Nel campo “Stato” puoi selezionare: 
+- Nel campo “Stato” puoi selezionare:
   - Aborto spontaneo
   - Aborto volontario
   - In corso
@@ -70,7 +70,7 @@ Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_**
   className="mx-auto"
 />
 
-- Inserendo la **_data dell’ultimo ciclo_**, il sistema calcolerà automaticamente: 
+- Inserendo la **data dell’ultimo ciclo**, il sistema calcolerà automaticamente:
   - Le settimane di gravidanza
   - La data presunta del parto
 
@@ -80,7 +80,7 @@ Per aggiungere lo stato di gravidanza, clicca sulla sezione **_“Pazienti”_**
   className="mx-auto"
 />
 
-- Nel campo **_“Parto”_** si può inserire:
+- Nel campo **“Parto”** si può inserire:
   - Cesareo
   - Distocico
   - Eutocico
