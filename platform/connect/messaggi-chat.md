@@ -5,7 +5,7 @@ sidebarTitle: "Messaggi chat"
 
 ### 1. Messaggi
 
-- Dalla schermata principale (schermata di Home), clicca su **_“Messaggi” (a destra di “Referti”)._**
+- Dalla schermata principale (schermata di Home), clicca su **“Messaggi” (a destra di “Referti”).**
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_12.36.24.png"
@@ -48,7 +48,7 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
-- Clicca su **_“Disabilita”_** (in alto a sinistra dell’icona della videovisita) per bloccare la chat solo per quel paziente.
+- Clicca su **“Disabilita”** (in alto a sinistra dell’icona della videovisita) per bloccare la chat solo per quel paziente.
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_12.39.13_3.png"
@@ -56,7 +56,7 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
-- Comparirà la scritta **Chat disabilitata** in rosso, per riattivarla clicca sul tasto **_“abilita”_**.
+- Comparirà la scritta **Chat disabilitata** in rosso, per riattivarla clicca sul tasto **“abilita”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_12.39.43.png"
@@ -72,7 +72,7 @@ sidebarTitle: "Messaggi chat"
   className="mx-auto"
 />
 
-- Cliccando il tasto “**Non letti**” (in alto a sinistra) i messaggi verranno **filtrati** _e potrai vedere_ solo i messaggi non letti.
+- Cliccando il tasto “**Non letti**” (in alto a sinistra) i messaggi verranno **filtrati** e potrai vedere solo i messaggi non letti.
 
 <img
   src="/images/platform/Screenshot_2025-04-09_alle_15.28.23.png"
@@ -82,13 +82,12 @@ sidebarTitle: "Messaggi chat"
 
 ### 2. Come attivare la chat con allegati
 
-- Dalla pagina principale, clicca il tuo nome e cognome in alto a destra e poi su **_“Gestione servizi”_**.
+- Dalla pagina principale, clicca il tuo nome e cognome in alto a destra e poi su **“Gestione servizi”**.
 
 <img
   src="/images/platform/image 1.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
 
 - Scorri fino a **“Chat con allegati”**.
@@ -97,26 +96,23 @@ sidebarTitle: "Messaggi chat"
   src="/images/platform/image 2.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
 
-- Per attivarla bisogna cliccare l’apposito tasto sulla destra. Cliccando “**_Personalizza_**” si potrà inserire un “**_Messaggio di risposta automatica_**”.
+- Per attivarla bisogna cliccare l’apposito tasto sulla destra. Cliccando “**Personalizza**” si potrà inserire un “**Messaggio di risposta automatica**”.
 
 <img
   src="/images/platform/image 3.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
 
-- Attivato il “**_Messaggio di risposta automatica_**”, questo verrà inviato ogni volta che un paziente proverà a contattarvi
+- Attivato il “**Messaggio di risposta automatica**”, questo verrà inviato ogni volta che un paziente proverà a contattarvi
   - Se il messaggio automatico è già stato recapitato al paziente, non verrà reinviato quando vi riscriverà
 
 <img
   src="/images/platform/image 4.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
 
 ### 3. Visualizzazione Chat dai colleghi sostituti
@@ -130,5 +126,4 @@ In gestione servizi è possibile attivare “**Visualizzazione chat dai colleghi
   src="/images/platform/image 5.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
