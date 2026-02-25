@@ -29,7 +29,7 @@ sidebarTitle: "Pacchetti prestazioni personalizzati"
   - Potrai cercare il pacchetto da aggiungere al pacchetto che stai creando scrivendo il nome del pacchetto che vuoi aggiungere
   - Cliccando le due frecce sulla destra potrai convertire la ricerca in “Cerca per categoria”; cliccando di nuovo tornerai alla “Cerca per nome”
   - Clicca salva per salvare il pacchetto
-- Per prescrivere un pacchetto di prestazioni personalizzato, clicca **_“Pazienti”_**.
+- Per prescrivere un pacchetto di prestazioni personalizzato, clicca **“Pazienti”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-11_alle_10.58.12.png"
@@ -45,7 +45,7 @@ sidebarTitle: "Pacchetti prestazioni personalizzati"
   className="mx-auto"
 />
 
-- Dalla scheda del paziente clicca su **_“Ricette”_**.
+- Dalla scheda del paziente clicca su **“Ricette”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-11_alle_11.05.49.png"
@@ -53,7 +53,7 @@ sidebarTitle: "Pacchetti prestazioni personalizzati"
   className="mx-auto"
 />
 
-- Seleziona **_“Prestazioni”_**.
+- Seleziona **“Prestazioni”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-11_alle_09.36.51.png"
@@ -100,9 +100,9 @@ sidebarTitle: "Pacchetti prestazioni personalizzati"
 
 FAQ
 
-- _Si può importare in Elty un pacchetto personalizzato che ho su un’altra cartella (es. Medico2000)?_
+- Si può importare in Elty un pacchetto personalizzato che ho su un’altra cartella (es. Medico2000)?
   - Per il momento no, si può inserire manualmente → Potrebbe esser introdotto in futuro
-- _Non riesco più a trovare le categorie dei pacchetti, come faccio a vedere i pacchetti di prestazioni come in passato?_
+- Non riesco più a trovare le categorie dei pacchetti, come faccio a vedere i pacchetti di prestazioni come in passato?
   - Con la doppia freccia si può cercare per categoria, riavendo la visualizzazione che c’era in passato
 
 <img
@@ -111,7 +111,7 @@ FAQ
   className="mx-auto"
 />
 
-- _Non riesco a modificare il pacchetto di prestazioni personalizzato_
+- Non riesco a modificare il pacchetto di prestazioni personalizzato
   - Per modificare il pacchetto di prestazioni personalizzato bisogna cliccare i tre puntini a destra del pacchetto e cliccare “Modifica”
 
 <img
@@ -128,7 +128,7 @@ FAQ
   className="mx-auto"
 />
 
-- _Qualche prestazione è barrata, perché?_
+- Qualche prestazione è barrata, perché?
   - Perché è stato aggiornato il catalogo regionale e la prestazione non è più disponibile (oppure è cambiato il codice di riferimento)
 
 <img
@@ -145,7 +145,7 @@ FAQ
   className="mx-auto"
 />
 
-- _Nella home non trovo la sezione messaggi_
+- Nella home non trovo la sezione messaggi
   - E’ stata sostituita dalla sezione “Pacchetti prestazioni personalizzati”, i messaggi si possono comunque trovare nella barra in alto
 
 <img
@@ -154,11 +154,11 @@ FAQ
   className="mx-auto"
 />
 
-- _Vorrei che la segretaria / infermiera possa modificare un pacchetto sotto mia indicazione_
+- Vorrei che la segretaria / infermiera possa modificare un pacchetto sotto mia indicazione
   - Attualmente sia i profili segretaria che infermiera non hanno la possibilità di modificare i pacchetti di prestazioni (solo il MMG può)
-- _Posso usare pacchetti personalizzati lato PAI?_
+- Posso usare pacchetti personalizzati lato PAI?
   - Sì, durante la creazione di un PAI si possono sviluppare pacchetti di prestazioni personalizzati
-- _Posso creare un pacchetto di prestazioni mentre sto facendo una ricetta?_
+- Posso creare un pacchetto di prestazioni mentre sto facendo una ricetta?
   - In fase di prescrizione dalla scheda paziente è possibile tramite una checkbox “salvare il pacchetto” inserendo un nome
 
 <img
