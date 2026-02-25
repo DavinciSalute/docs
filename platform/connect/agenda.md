@@ -7,7 +7,7 @@ sidebarTitle: "Agenda"
 
 ### 1. Introduzione
 
-- Si può accede all’agenda cliccando “**_Agenda_**” in alto a sinistra (a destra di Pazienti) o “**_Agenda Online_**” dalla home (schermata principale che si può raggiungere cliccando il logo Elty Davinci in alto a sinistra).
+- Si può accede all’agenda cliccando “**Agenda**” in alto a sinistra (a destra di Pazienti) o “**Agenda Online**” dalla home (schermata principale che si può raggiungere cliccando il logo Elty Davinci in alto a sinistra).
 
 <img
   src="/images/platform/agenda/Screenshot_2025-04-10_alle_10.42.56.png"
@@ -28,7 +28,7 @@ sidebarTitle: "Agenda"
   - **Prenotazioni** (sezione che permette di vedere tutte le prenotazioni che sono state programmate: è un elenco)
   - **Storico** (sezione con tutte le prenotazioni effettuate in passato e la cui visita è stata completata: è un elenco)
   - **Da accettare** (sezione facoltativa che permette di accettare le prenotazioni dei pazienti in app, se viene abilitata l’accettazione automatica in gestione servizi rimarrà vuota: è un elenco)
-- Ci si può muovere all’interno dell’agenda di settimana in settimana cliccando le frecce accanto al riquadro “_Oggi_” (sulla sinistra della griglia, all’interno della sezione Calendario)
+- Ci si può muovere all’interno dell’agenda di settimana in settimana cliccando le frecce accanto al riquadro “Oggi” (sulla sinistra della griglia, all’interno della sezione Calendario)
 
 <img
   src="/images/platform/agenda/Screenshot_2025-04-10_alle_16.36.24_2.png"
@@ -54,7 +54,7 @@ sidebarTitle: "Agenda"
 
 ### 2. Imposta disponibilità
 
-- Cliccando sul tasto “**_Imposta disponibilità_**” (si trova a sinistra dell’agenda, è bianco) si apre la schermata per poter impostare gli orari di ricevimento.
+- Cliccando sul tasto “**Imposta disponibilità**” (si trova a sinistra dell’agenda, è bianco) si apre la schermata per poter impostare gli orari di ricevimento.
 
 <img
   src="/images/platform/agenda/5..png"
@@ -84,8 +84,8 @@ sidebarTitle: "Agenda"
   - **Orario di fine**
   - **La ricorrenza** (le opzioni sono: “O_gni …” valida per ogni giorno della settimana, ad esempio ogni lunedì, “Per quattro settimane”, “Solo per …” valido per qualsiasi giorno, bisogna indicare il giorno in cui si vogliono le disponibilità\_)
   - Selezionare l’opzione “**Non mostrare disponibilità nei festivi**” (attualmente non c’è l’opzione per i prefestivi, se si vogliono bloccare allora bisognerà inserire sopra un “evento”)
-  - Le prestazioni che si vogliono far prenotare in quel lasso di tempo: **sono state inserite in Gestione Servizi** (_si possono aggiungere in “Gestione servizi” → “Agenda e prestazioni”_)
-  - La possibilità di rendere l’**orario visibile ai pazienti in app** (_quindi nell’agenda il riquadro sarà giallo, se non si spunta sarà bianco_)
+  - Le prestazioni che si vogliono far prenotare in quel lasso di tempo: **sono state inserite in Gestione Servizi** (si possono aggiungere in “Gestione servizi” → “Agenda e prestazioni”)
+  - La possibilità di rendere l’**orario visibile ai pazienti in app** (quindi nell’agenda il riquadro sarà giallo, se non si spunta sarà bianco)
   - La possibilità di rendere **Visibile a tutti i pazienti della medicina di gruppo SSN** (quindi visibile anche ai pazienti degli altri medici all’interno del gruppo di lavoro)
   - In **Opzioni aggiuntive** è possibile inserire anche il Numero di pazienti che vuoi ricevere in questa fascia oraria (non è consigliato: se è correttamente impostata la durata della prestazione all’interno della Gestione servizi allora il numero di prenotazioni sarà sulla base degli slot inseriti nel calendario, quindi non c’è bisogno di inserire il numero di pazienti da ricevere in quella fascia oraria).
 
@@ -96,7 +96,7 @@ sidebarTitle: "Agenda"
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Dopo aver cliccato “_Aggiungi orario di ricevimento_”, l’orario sarà inserito all’interno dell’agenda
+- Dopo aver cliccato “Aggiungi orario di ricevimento”, l’orario sarà inserito all’interno dell’agenda
 
 <img
   src="/images/platform/agenda/8..png"
@@ -112,7 +112,7 @@ sidebarTitle: "Agenda"
   className="mx-auto"
 />
 
-- Il **colore è cambiato**, i pazienti in app **non potranno prenotare** una visita negli slot bianchi che potranno essere usati dal Medico e dal personale di segreteria per i pazienti che hanno deciso di prenotarsi con un altro mezzo (_ad es. telefonicamente_).
+- Il **colore è cambiato**, i pazienti in app **non potranno prenotare** una visita negli slot bianchi che potranno essere usati dal Medico e dal personale di segreteria per i pazienti che hanno deciso di prenotarsi con un altro mezzo (ad es. telefonicamente).
 
 <img
   src="/images/platform/agenda/10..png"
@@ -120,7 +120,7 @@ sidebarTitle: "Agenda"
   className="mx-auto"
 />
 
-- Clicca poi su “**_Aggiungi orario di ricevimento_**” per confermare
+- Clicca poi su “**Aggiungi orario di ricevimento**” per confermare
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-19_alle_16.17.56.png"
@@ -131,7 +131,7 @@ sidebarTitle: "Agenda"
 
 ### 3. Pianificare una prenotazione o un evento
 
-- Per pianificare una prenotazione clicca “**_Agenda_**” in alto a sinistra (a destra di Pazienti) o “**_Agenda Online_**” dalla home (schermata principale che si può raggiungere cliccando il logo Elty Davinci in alto a sinistra).
+- Per pianificare una prenotazione clicca “**Agenda**” in alto a sinistra (a destra di Pazienti) o “**Agenda Online**” dalla home (schermata principale che si può raggiungere cliccando il logo Elty Davinci in alto a sinistra).
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-22_alle_15.38.46.png"
@@ -139,7 +139,7 @@ sidebarTitle: "Agenda"
   className="mx-auto"
 />
 
-- Una volta aperta, si dovrà cliccare sul tasto “**_Pianifica_**” (si trova in basso a sinistra, sopra “Imposta disponibilità”) **_oppure su una cella dell’agenda_**
+- Una volta aperta, si dovrà cliccare sul tasto “**Pianifica**” (si trova in basso a sinistra, sopra “Imposta disponibilità”) **oppure su una cella dell’agenda**
   - Nel caso degli account di segreteria, infermeria e prenotatore esiste il tasto “Prenotazione veloce” in alto a destra: questo permette di selezionare un paziente, una prestazione e poter vedere tutti gli orari disponibili di tutti i medici del gruppo di lavoro (relativi a quella specifica prestazione e al giorno selezionato)
 
 <img
@@ -157,10 +157,10 @@ sidebarTitle: "Agenda"
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Per prima cosa si può scegliere se pianificare una “**_Prenotazione_**” o un “**_Evento_**” (selezionando l’opzione voluta)
-- Nel caso della “**_Prenotazione_**” si può decidere di pianificare un **appuntamento** in studio o un appuntamento online.
+- Per prima cosa si può scegliere se pianificare una “**Prenotazione**” o un “**Evento**” (selezionando l’opzione voluta)
+- Nel caso della “**Prenotazione**” si può decidere di pianificare un **appuntamento** in studio o un appuntamento online.
 - Bisogna scrivere il **nome del paziente** e selezionarlo
-  - Nel caso in cui non fosse all’interno della lista, **bisogna** cliccare “**_Aggiungi nuovo paziente_**”.
+  - Nel caso in cui non fosse all’interno della lista, **bisogna** cliccare “**Aggiungi nuovo paziente**”.
     - Si inseriscono questi dati:
       - Medico associato
       - Nome e cognome
@@ -174,27 +174,25 @@ sidebarTitle: "Agenda"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
-  title=""
 />
 
 - Si visualizzeranno anche i pazienti dei colleghi all’interno della medicina di gruppo, si differenzieranno dai tuoi assistiti perché sarà indicato il loro nome tra parentesi dopo il nome del paziente
 - Si seleziona la struttura in cui effettuare l’appuntamento.
-- Si seleziona la “**_Prestazione_**”
-- Compariranno gli orari disponibili (precedentemente inseriti in Imposta Disponibilità) all’interno della sezione “**_Slot disponibili_**”.
+- Si seleziona la “**Prestazione**”
+- Compariranno gli orari disponibili (precedentemente inseriti in Imposta Disponibilità) all’interno della sezione “**Slot disponibili**”.
 
 <img
   src="/images/platform/agenda/image 2.png"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
-  title=""
 />
 
 - Si possono inserire altri partecipanti (medici)
 - Si possono inserire note da condividere con il paziente in app
 - Si possono inserire note interne visibili solo al personale medico
 - Cliccando pianifica la prenotazione sarà all’interno dell’agenda
-- Per pianificarla cliccare il tasto “**_Pianifica_**”.
+- Per pianificarla cliccare il tasto “**Pianifica**”.
 - L’appuntamento verrà visualizzato all’interno dell’**agenda.**
 
 <img
@@ -203,7 +201,7 @@ sidebarTitle: "Agenda"
   className="mx-auto"
 />
 
-- Per visualizzare **il Riepilogo prenotazione** (_o per modificare/eliminare l’appuntamento_) si può cliccare sulla prenotazione appena creata (quindi il blocco che rappresenta l’appuntamento all’interno della griglia agenda). Si aprirà una schermata con varie informazioni relative alla prenotazione (servizio, tipologia, struttura, data di inizio, durata, prezzo, canale di prenotazione, report interno e stato)
+- Per visualizzare **il Riepilogo prenotazione** (o per modificare/eliminare l’appuntamento) si può cliccare sulla prenotazione appena creata (quindi il blocco che rappresenta l’appuntamento all’interno della griglia agenda). Si aprirà una schermata con varie informazioni relative alla prenotazione (servizio, tipologia, struttura, data di inizio, durata, prezzo, canale di prenotazione, report interno e stato)
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-22_alle_15.56.52.png"
@@ -221,8 +219,8 @@ sidebarTitle: "Agenda"
 
 Caso di pianificazione di un “Evento”:
 
-- Cliccando su “**_Pianifica_**” e selezionando “**_Evento_**” si potrà creare un evento: l’evento è come se fosse un post-it che viene applicato sull’orario di ricevimento, in questo modo nessuno potrà prenotare sopra l’evento (ottimo per bloccare l’agenda in caso di ferie)
-- Si potrà inserire il “**_Titolo_**” dell’evento, la “**_Categoria_**”, la “**_Struttura_**” (di default è selezionata come “Tutte”),  la “**_Data e ora_**”, la “**_Durata_**”, la “**_Ricorrenza dell’evento_**”
+- Cliccando su “**Pianifica**” e selezionando “**Evento**” si potrà creare un evento: l’evento è come se fosse un post-it che viene applicato sull’orario di ricevimento, in questo modo nessuno potrà prenotare sopra l’evento (ottimo per bloccare l’agenda in caso di ferie)
+- Si potrà inserire il “**Titolo**” dell’evento, la “**Categoria**”, la “**Struttura**” (di default è selezionata come “Tutte”),  la “**Data e ora**”, la “**Durata**”, la “**Ricorrenza dell’evento**”
 
 <img
   src="/images/platform/agenda/16..png"
@@ -230,7 +228,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Le categorie che si possono scegliere sono “**_Informatore Scientifico_**”, “**_Ferie_**” e “**_Altro_**”.
+- Le categorie che si possono scegliere sono “**Informatore Scientifico**”, “**Ferie**” e “**Altro**”.
 
 <img
   src="/images/platform/agenda/17..png"
@@ -238,7 +236,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Ipotizziamo di pianificare un evento “**_Ferie_**” chiamato “**_Vacanza_**”:
+- Ipotizziamo di pianificare un evento “**Ferie**” chiamato “**Vacanza**”:
   - Si clicca Pianifica → Evento → Categoria: Ferie → Titolo “Vacanza” → Inseriamo l’inizio e la fine dell’evento → Inseriamo delle note → Pianifica
 
 <img
@@ -247,7 +245,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Sull’**agenda** comparirà uno slot verde (colore che rappresenta gli “**_Eventi_**”, mentre il blu rappresenta le “Prenotazioni” [_Il colore può variare in base al numero di ambulatori_]) che occuperà **tutti gli slot** tra la data di inizio e la data di fine. Ricordiamo che i pazienti non potranno pianificare una prenotazione negli slot “**_Evento_**” (tranne se non è stato selezionato “Tutte” in “Struttura”, in quel caso bloccherà solo l’orario della struttura selezionata).
+- Sull’**agenda** comparirà uno slot verde (colore che rappresenta gli “**Eventi**”, mentre il blu rappresenta le “Prenotazioni” [Il colore può variare in base al numero di ambulatori]) che occuperà **tutti gli slot** tra la data di inizio e la data di fine. Ricordiamo che i pazienti non potranno pianificare una prenotazione negli slot “**Evento**” (tranne se non è stato selezionato “Tutte” in “Struttura”, in quel caso bloccherà solo l’orario della struttura selezionata).
 
 <img
   src="/images/platform/agenda/18..png"
@@ -255,7 +253,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- I giorni con all’interno **prenotazioni** o **eventi** saranno rappresentati da un **_pallino grigio_** all’interno del piccolo **_calendario sulla sinistra_** (il calendario di preview).
+- I giorni con all’interno **prenotazioni** o **eventi** saranno rappresentati da un **pallino grigio** all’interno del piccolo **calendario sulla sinistra** (il calendario di preview).
 
 <img
   src="/images/platform/agenda/19..png"
@@ -267,7 +265,7 @@ Caso di pianificazione di un “Evento”:
   Ad ogni prenotazione inserita dal medico o dal personale di studio il paziente riceverà un SMS di avvenuta prenotazione e un SMS/email di promemoria 24h prima dell’appuntamento.
 </Tip>
 
-- Se si decide di pianificare una prenotazione o evento direttamente in agenda, **_si può cliccare la cella in cui si vuol inserire l’appuntamento_**
+- Se si decide di pianificare una prenotazione o evento direttamente in agenda, **si può cliccare la cella in cui si vuol inserire l’appuntamento**
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-22_alle_16.10.40.png"
@@ -290,7 +288,7 @@ Caso di pianificazione di un “Evento”:
 
 ### 4. Prenotazioni
 
-- Nella sezione “**_Prenotazioni_**” (a destra della sezione “Calendario”) si trova l’elenco di tutti i pazienti che hanno prenotato una prestazione.
+- Nella sezione “**Prenotazioni**” (a destra della sezione “Calendario”) si trova l’elenco di tutti i pazienti che hanno prenotato una prestazione.
 
 <img
   src="/images/platform/agenda/20..png"
@@ -298,7 +296,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- A destra si possono trovare due pulsanti, “**_Termina_**” e il cestino che indica “**_Elimina_**”.
+- A destra si possono trovare due pulsanti, “**Termina**” e il cestino che indica “**Elimina**”.
 
 <img
   src="/images/platform/agenda/21..png"
@@ -310,12 +308,12 @@ Caso di pianificazione di un “Evento”:
   - Il nome e cognome del paziente, la data, la prestazione / servizio prenotato e il canale di prenotazione (app o telefono)
   - Nel canale di prenotazione viene sempre inserito il profilo che ha inserito la prenotazione (quindi anche il profilo del personale di segreteria che ha pianificato l’appuntamento)
 - Si possono esportare tutte le prenotazioni in un file .csv cliccando il tasto “Esporta” a sinistra di “Pianifica”
-- Cliccando su “**_Termina_**” si entrerà nella schermata “**_Termina appuntamento_**”. All’interno il medico potrà inserire
+- Cliccando su “**Termina**” si entrerà nella schermata “**Termina appuntamento**”. All’interno il medico potrà inserire
   - Com’è andato l’appuntamento:
     - La visita è stata svolta correttamente
     - Il paziente non si è presentato (no-show)
       - In No-show comparirà anche nel diario all’interno della scheda paziente
-  - le “**_Raccomandazioni_**” condivise con il paziente e delle “**_Note_**” interne; **_cliccando la freccia verso il basso si apriranno altre impostazioni:_**
+  - le “**Raccomandazioni**” condivise con il paziente e delle “**Note**” interne; **cliccando la freccia verso il basso si apriranno altre impostazioni:**
 
 <img
   src="/images/platform/agenda/Screenshot_2025-12-16_alle_15.55.51.png"
@@ -324,7 +322,7 @@ Caso di pianificazione di un “Evento”:
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Si può caricare un **allegato**, aggiungere una “**_Categoria_**” e il “**_Nome_**” del File. Infine, bisogna cliccare “**_Termina Consulto_**”.
+- Si può caricare un **allegato**, aggiungere una “**Categoria**” e il “**Nome**” del File. Infine, bisogna cliccare “**Termina Consulto**”.
   - La prenotazione verrà spostata nella sezione “Storico”
 
 <img
@@ -335,7 +333,7 @@ Caso di pianificazione di un “Evento”:
 
 - Non è obbligatorio cliccare “Termina”:
   - Alla fine della prestazione ambulatoriale la prenotazione si concluderà in automatico e verrà spostata nella sezione “Storico”
-- Cliccando sulla sezione “**_Storico_**” (a destra di “Prenotazioni”) si potranno visualizzare tutte le prenotazioni “**_Terminate_**” (sia automaticamente che manualmente).
+- Cliccando sulla sezione “**Storico**” (a destra di “Prenotazioni”) si potranno visualizzare tutte le prenotazioni “**Terminate**” (sia automaticamente che manualmente).
 
 <img
   src="/images/platform/agenda/25..png"
@@ -343,13 +341,13 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Cliccando sulla sezione “**_Da accettare_**” (a destra di “Storico”) potrete visualizzare le prenotazioni da accettare. Questo vale solo se non è stata attivata l’accettazione automatica delle prenotazioni in “Gestione servizi”
-  - Cliccando “**_Accetta_**” la prenotazione comparirà **nell’Agenda**.
+- Cliccando sulla sezione “**Da accettare**” (a destra di “Storico”) potrete visualizzare le prenotazioni da accettare. Questo vale solo se non è stata attivata l’accettazione automatica delle prenotazioni in “Gestione servizi”
+  - Cliccando “**Accetta**” la prenotazione comparirà **nell’Agenda**.
   - Le prenotazioni da accettare sono visualizzate nell’agenda come dei blocchi tratteggiati (possono essere accettate anche cliccando su questi blocchi all’interno della sezione “Calendario”, dove c’è la griglia con gli orari di ricevimento)
 
 ### 5. Impostazioni di Gestione servizi utili al funzionamento dell’agenda
 
-- Per abilitare **_l’accettazione automatica_** delle prenotazioni in app bisogna cliccare sul proprio nome e cognome in alto a destra e poi “**_Gestione Servizi_**”.
+- Per abilitare **l’accettazione automatica** delle prenotazioni in app bisogna cliccare sul proprio nome e cognome in alto a destra e poi “**Gestione Servizi**”.
 
 <img
   src="/images/platform/agenda/Screenshot_2025-04-09_alle_11.05.06.png"
@@ -357,7 +355,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Nella sezione “**_Accettazione automatica delle prenotazioni_**” apribile dal tasto “**_Personalizza_**” si può abilitare l’accettazione automatica per “**_Prenotazioni per appuntamenti in studio/struttura_**” e per “**_Prenotazioni per appuntamenti online_**”. Cliccare “**_Salva_**” per salvare le impostazioni.
+- Nella sezione “**Accettazione automatica delle prenotazioni**” apribile dal tasto “**Personalizza**” si può abilitare l’accettazione automatica per “**Prenotazioni per appuntamenti in studio/struttura**” e per “**Prenotazioni per appuntamenti online**”. Cliccare “**Salva**” per salvare le impostazioni.
 
 <img
   src="/images/platform/agenda/28..png"
@@ -365,7 +363,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Sempre in “**_Gestione servizi_**” si può trovare la sezione “**_Agenda e prestazioni_**”, cliccando “**_Personalizza_**” si possono vedere le prestazioni che vogliamo in agenda e cliccando il cestino avremo la possibilità di **eliminarle**.
+- Sempre in “**Gestione servizi**” si può trovare la sezione “**Agenda e prestazioni**”, cliccando “**Personalizza**” si possono vedere le prestazioni che vogliamo in agenda e cliccando il cestino avremo la possibilità di **eliminarle**.
 
 <img
   src="/images/platform/agenda/Screenshot_2025-04-09_alle_11.06.47.png"
@@ -373,7 +371,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Si possono aggiungere nuove “**_Prestazioni_**” con l’apposito tasto “Nuova prestazione”.
+- Si possono aggiungere nuove “**Prestazioni**” con l’apposito tasto “Nuova prestazione”.
 
 <img
   src="/images/platform/agenda/Screenshot_2025-04-09_alle_11.07.56.png"
@@ -384,7 +382,7 @@ Caso di pianificazione di un “Evento”:
 ## FAQ
 
 - Come posso modificare le disponibilità inserite?
-  - Per modificare una disponibilità è sufficiente cliccare il tasto “**_Imposta disponibilità”_** nella sezione “Agenda” → Calendario. Il tasto Imposta disponibilità è bianco ed è sotto “Pianifica” a sinistra della griglia che rappresenta l’agenda
+  - Per modificare una disponibilità è sufficiente cliccare il tasto “**Imposta disponibilità”** nella sezione “Agenda” → Calendario. Il tasto Imposta disponibilità è bianco ed è sotto “Pianifica” a sinistra della griglia che rappresenta l’agenda
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-24_alle_15.46.55.png"
@@ -392,7 +390,7 @@ Caso di pianificazione di un “Evento”:
   className="mx-auto"
 />
 
-- Si dovrà poi **_cliccare sullo slot che si desidera modificare_**
+- Si dovrà poi **cliccare sullo slot che si desidera modificare**
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-24_alle_15.48.30.png"
@@ -401,7 +399,7 @@ Caso di pianificazione di un “Evento”:
 />
 
 - Si aprirà il riepilogo dell’orario di ricevimento.
-- Si clicca il tasto **_“Modifica”_**  _che troviamo in basso a destra_
+- Si clicca il tasto **“Modifica”**  che troviamo in basso a destra
 
 <img
   src="/images/platform/agenda/Screenshot_2024-05-02_alle_11.13.15.png"
@@ -423,8 +421,8 @@ Caso di pianificazione di un “Evento”:
 
 - Per salvare le modifiche clicca “Conferma modifiche”
 - Per non salvare le modifiche clicca “Annulla”
-- Nella schermata di riepilogo, per chiudere la schermata clicca il tasto “**_Chiudi”_**
-- Per eliminare la prenotazione clicca il tasto “**_Elimina prenotazione”_**
+- Nella schermata di riepilogo, per chiudere la schermata clicca il tasto “**Chiudi”**
+- Per eliminare la prenotazione clicca il tasto “**Elimina prenotazione”**
 
 <img
   src="/images/platform/agenda/Schermata_2025-12-24_alle_16.00.57.png"
