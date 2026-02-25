@@ -132,7 +132,7 @@ Qui si troverà la lista delle ricette in errore che andranno corrette.
   className="mx-auto"
 />
 
-Per correggere la ricetta si dovrà cliccare il tasto "**_Correggi_**" sulla destra della ricetta. Si ricreerà la bozza di ricetta con l'errore che ha portato alla non elaborazione / validazione da parte del sistema regionale
+Per correggere la ricetta si dovrà cliccare il tasto "**Correggi**" sulla destra della ricetta. Si ricreerà la bozza di ricetta con l'errore che ha portato alla non elaborazione / validazione da parte del sistema regionale
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_11.49.10_3.png"
@@ -140,7 +140,7 @@ Per correggere la ricetta si dovrà cliccare il tasto "**_Correggi_**" sulla des
   className="mx-auto"
 />
 
-Accanto al tasto "Correggi" troveremo tre **_puntini verticali:_**
+Accanto al tasto "Correggi" troveremo tre **puntini verticali:**
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_11.49.10_2.png"
@@ -148,7 +148,7 @@ Accanto al tasto "Correggi" troveremo tre **_puntini verticali:_**
   className="mx-auto"
 />
 
-Se cliccati (sempre in corrispondenza della ricetta a cui si è interessati) potremo andare ad eliminare quella ricetta (cliccando "**_Elimina ricetta_**")
+Se cliccati (sempre in corrispondenza della ricetta a cui si è interessati) potremo andare ad eliminare quella ricetta (cliccando "**Elimina ricetta**")
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_12.01.31.png"
@@ -176,7 +176,7 @@ Ognuna delle ricette riporta:
 - La data di elaborazione;
 - Lo stato della ricetta;
 
-Per elaborare la ricetta cliccare sul tasto "**_Elabora_**" in corrispondenza della ricetta interessata, per elaborarle massivamente bisogna cliccare "Elabora tutte"
+Per elaborare la ricetta cliccare sul tasto "**Elabora**" in corrispondenza della ricetta interessata, per elaborarle massivamente bisogna cliccare "Elabora tutte"
 
 - Si potrà scaricare o stampare
 - Se si vuole inviare tramite Email bisogna inserire nella scheda anagrafica l'informazione (l'email)
@@ -193,7 +193,7 @@ Per elaborare la ricetta cliccare sul tasto "**_Elabora_**" in corrispondenza de
   className="mx-auto"
 />
 
-In corrispondenza di ogni ricetta troviamo **_3 puntini verticali_** che permettono di eseguire una serie di azioni relative alla ricetta interessata
+In corrispondenza di ogni ricetta troviamo **3 puntini verticali** che permettono di eseguire una serie di azioni relative alla ricetta interessata
 
 <img
   src="/images/platform/ricette/Schermata_2025-12-29_alle_11.49.15_3.png"
@@ -201,7 +201,7 @@ In corrispondenza di ogni ricetta troviamo **_3 puntini verticali_** che permett
   className="mx-auto"
 />
 
-**_Si aprirà un menù_** con diverse voci che permettono al Medico di eseguire azioni specifiche sulla ricetta. Troviamo:
+**Si aprirà un menù** con diverse voci che permettono al Medico di eseguire azioni specifiche sulla ricetta. Troviamo:
 
 - Sposta in archivio;
 - Annulla ricetta (per annullare la ricetta tramite sistema regionale);
@@ -250,7 +250,7 @@ Nell'archivio avremo tutte le ricette elaborate su Elty e tutte quelle importate
   className="mx-auto"
 />
 
-Cliccando i **_3 puntini verticali_** in corrispondenza della ricetta interessata comparirà un menù con diverse possibili azioni:
+Cliccando i **3 puntini verticali** in corrispondenza della ricetta interessata comparirà un menù con diverse possibili azioni:
 
 - Annulla ricetta (per annullarla tramite il sistema regionale)
 - Verifica validità ricetta
