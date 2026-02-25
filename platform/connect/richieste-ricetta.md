@@ -5,7 +5,7 @@ sidebarTitle: "Richieste di ricetta"
 
 ### 1. Introduzione
 
-- Si può accede alle **richieste** di ricetta cliccando “**_Richieste_**” in alto o “**_Richieste di ricetta_**” dalla **home**
+- Si può accede alle **richieste** di ricetta cliccando “**Richieste**” in alto o “**Richieste di ricetta**” dalla **home**
 
 <img
   src="/images/platform/richieste-ricetta/1..png"
@@ -24,7 +24,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Per inserire manualmente una richiesta di ricetta bisogna cliccare “**_Nuova richiesta_**” in alto a destra (sezione “Richieste”).
+- Per inserire manualmente una richiesta di ricetta bisogna cliccare “**Nuova richiesta**” in alto a destra (sezione “Richieste”).
 
 <img
   src="/images/platform/richieste-ricetta/3..png"
@@ -32,7 +32,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Si inserisce il nome del “**_Paziente_**” e la tipologia di ricetta richiesta: “**_Farmaco_**” o “Prestazione”.
+- Si inserisce il nome del “**Paziente**” e la tipologia di ricetta richiesta: “**Farmaco**” o “Prestazione”.
 
 <img
   src="/images/platform/richieste-ricetta/4..png"
@@ -42,7 +42,7 @@ sidebarTitle: "Richieste di ricetta"
 
 ### 2. Inserire una richiesta di farmaco
 
-- Quando si inserisce il nome del paziente comparirà una preview con le sue informazioni anagrafiche. Si seleziona “Farmaco” e “**_Conferma_**” per continuare.
+- Quando si inserisce il nome del paziente comparirà una preview con le sue informazioni anagrafiche. Si seleziona “Farmaco” e “**Conferma**” per continuare.
 
 <img
   src="/images/platform/richieste-ricetta/5..png"
@@ -50,9 +50,9 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Nel caso di una richiesta di “**_Farmaco_**” ci saranno due sezioni: “**_Rinnova farmaco_**” e “**_Nuovo farmaco_**”.
+- Nel caso di una richiesta di “**Farmaco**” ci saranno due sezioni: “**Rinnova farmaco**” e “**Nuovo farmaco**”.
   - Nel caso di rinnova farmaco compariranno tutti i farmaci continuativi inseriti in scheda paziente (e non gli ordinari), basterà selezionarli e cliccare “Conferma” o “Conferma e richiedi altro”
-  - Nel caso di nuovo farmaco si inserisce il nome del farmaco (_o il principio attivo_).
+  - Nel caso di nuovo farmaco si inserisce il nome del farmaco (o il principio attivo).
 
 <img
   src="/images/platform/richieste-ricetta/6..png"
@@ -61,8 +61,8 @@ sidebarTitle: "Richieste di ricetta"
 />
 
 - All’interno del Database di **Elty DaVinci** si troverà facilmente il farmaco ricercato, i dati sono aggiornati giornalmente sulla base di Farmadati.
-- Si può aggiungere un nuovo farmaco da prescrivere cliccando “**_Aggiungi nuovo_**” (in basso a sinistra) oppure cliccando “Conferma e richiedi altro”.
-- Sia per “Rinnova farmaco” che per “Nuovo farmaco” si possono inserire delle “**_Note interne_**”
+- Si può aggiungere un nuovo farmaco da prescrivere cliccando “**Aggiungi nuovo**” (in basso a sinistra) oppure cliccando “Conferma e richiedi altro”.
+- Sia per “Rinnova farmaco” che per “Nuovo farmaco” si possono inserire delle “**Note interne**”
 
 <img
   src="/images/platform/richieste-ricetta/7..png"
@@ -70,7 +70,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Dopo aver confermato, la richiesta comparirà nella sezione “**_Richieste_**” → “**_Da prescrivere_**” (se il farmaco / prestazione non è mai stato prescritto in Elty) oppure in “Richieste” → “Da rinnovare” (se già prescritto in passato)
+- Dopo aver confermato, la richiesta comparirà nella sezione “**Richieste**” → “**Da prescrivere**” (se il farmaco / prestazione non è mai stato prescritto in Elty) oppure in “Richieste” → “Da rinnovare” (se già prescritto in passato)
 
 <img
   src="/images/platform/richieste-ricetta/8..png"
@@ -89,7 +89,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Nel caso in cui si **_invia una nota al paziente_** si potranno anche allegare dei file.
+- Nel caso in cui si **invia una nota al paziente** si potranno anche allegare dei file.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-04_alle_14.07.02.png"
@@ -97,7 +97,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Cliccando sulla spunta a destra di “**_Prescrivi_**” comparirà la schermata di “Hai già processato questa richiesta?”. Questo serve ad avvisare **Elty DaVinci** che la richiesta è stata processata su un altro gestionale. In seguito la richiesta verrà visualizzata **nell’Archivio delle richieste**. Si possono inserire note da condividere con il paziente e caricare un file (ad esempio la ricetta elaborata da un altro gestionale).
+- Cliccando sulla spunta a destra di “**Prescrivi**” comparirà la schermata di “Hai già processato questa richiesta?”. Questo serve ad avvisare **Elty DaVinci** che la richiesta è stata processata su un altro gestionale. In seguito la richiesta verrà visualizzata **nell’Archivio delle richieste**. Si possono inserire note da condividere con il paziente e caricare un file (ad esempio la ricetta elaborata da un altro gestionale).
 
 <img
   src="/images/platform/richieste-ricetta/image.png"
@@ -106,7 +106,7 @@ sidebarTitle: "Richieste di ricetta"
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
-- Per prescrivere la richiesta tramite Elty (funziona solo nelle regioni in cui Elty è anche gestionale permettendo l’elaborazione delle ricette) bisogna cliccare su “**_Prescrivi_**”.
+- Per prescrivere la richiesta tramite Elty (funziona solo nelle regioni in cui Elty è anche gestionale permettendo l’elaborazione delle ricette) bisogna cliccare su “**Prescrivi**”.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-04_alle_14.13.41.png"
@@ -114,7 +114,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Compariranno i “**_Dettagli richiesta_**”. Con il nome del “**_Farmaco_**”. Si possono cliccare “_Prescrivi solo per principio attivo_”, “_Non sostituibile_” e “_Continuativo_”. Si può selezionare anche la sezione “**_Farmaci equivalenti in commercio_**” per poter visualizzare i farmaci equivalenti.
+- Compariranno i “**Dettagli richiesta**”. Con il nome del “**Farmaco**”. Si possono cliccare “Prescrivi solo per principio attivo”, “Non sostituibile” e “Continuativo”. Si può selezionare anche la sezione “**Farmaci equivalenti in commercio**” per poter visualizzare i farmaci equivalenti.
 
 <img
   src="/images/platform/richieste-ricetta/14..png"
@@ -122,7 +122,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Nella sezione “**_Confezioni e posologia_**” si possono inserire il numero di confezioni, le unità, i giorni, la durata, la via di somministrazione e la modalità di assunzione (per avere una posologia strutturata e poter calcolare le scorte del paziente, si può convertire la posologia in una posologia libera cliccando il tasto “Passa a posologia libera”, da lì si potrà inserire un testo perdendo però la possibilità di calcolare le scorte). Si possono selezionare le esenzioni del paziente nella sezione “**_Esenzione_**” e si possono scrivere note nella sezione “**_Note in ricetta_**”
+- Nella sezione “**Confezioni e posologia**” si possono inserire il numero di confezioni, le unità, i giorni, la durata, la via di somministrazione e la modalità di assunzione (per avere una posologia strutturata e poter calcolare le scorte del paziente, si può convertire la posologia in una posologia libera cliccando il tasto “Passa a posologia libera”, da lì si potrà inserire un testo perdendo però la possibilità di calcolare le scorte). Si possono selezionare le esenzioni del paziente nella sezione “**Esenzione**” e si possono scrivere note nella sezione “**Note in ricetta**”
 
 <img
   src="/images/platform/richieste-ricetta/15..png"
@@ -130,7 +130,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Dopo aver cliccato “**_Prescrivi_**” sarai portato alla **_scheda del paziente, sezione “Ricette”_**, all’interno di questa pagina, sotto la sezione “Crea una nuova ricetta” troverai la bozza di ricetta che è stata creata sulla base della richiesta di ricetta che era nella sezione “Richieste”.
+- Dopo aver cliccato “**Prescrivi**” sarai portato alla **scheda del paziente, sezione “Ricette”**, all’interno di questa pagina, sotto la sezione “Crea una nuova ricetta” troverai la bozza di ricetta che è stata creata sulla base della richiesta di ricetta che era nella sezione “Richieste”.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-04_alle_14.14.35.png"
@@ -138,7 +138,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- _Puoi decidere di elaborare la ricetta subito o più tardi_)
+- Puoi decidere di elaborare la ricetta subito o più tardi)
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-04_alle_14.14.58.png"
@@ -146,7 +146,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Tornando alla sezione “**_Richieste_**”: le richieste si possono **eliminare** cliccando i tre puntini a destra della richiesta e selezionando “Elimina”
+- Tornando alla sezione “**Richieste**”: le richieste si possono **eliminare** cliccando i tre puntini a destra della richiesta e selezionando “Elimina”
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-04_alle_14.15.19.png"
@@ -161,10 +161,9 @@ sidebarTitle: "Richieste di ricetta"
   alt="image.png"
   className="mx-auto"
   style={{ width:"60%",maxWidth:"500px" }}
-  title=""
 />
 
-- Si può scegliere una **motivazione** da condividere con il paziente (_che visualizzerà nelle notifiche in App_), le opzioni sono:
+- Si può scegliere una **motivazione** da condividere con il paziente (che visualizzerà nelle notifiche in App), le opzioni sono:
   - Nessuna motivazione da inviare al paziente
   - Informazioni mancanti
   - Richiesta errata
@@ -177,7 +176,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Nella sezione “**_Archivio_**” (delle richieste) si possono visualizzare tutte le “**_Richieste di ricetta_**” che son state processate ed elaborate (sia tramite altri gestionali che da Elty).
+- Nella sezione “**Archivio**” (delle richieste) si possono visualizzare tutte le “**Richieste di ricetta**” che son state processate ed elaborate (sia tramite altri gestionali che da Elty).
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.41.00.png"
@@ -185,7 +184,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Nella sezione “**_Da rinnovare_**” si trovano tutte le richieste di rinnovo di prescrizioni continuative che sono state impostate nella scheda dei pazienti e che sono già state elaborate in passato all’interno di Elty. Cliccando “**_Rinnova tutte_**” si rinnoveranno tutte in automatico sulla base delle informazioni inserite della stessa prescrizione precedentemente prescritta.
+- Nella sezione “**Da rinnovare**” si trovano tutte le richieste di rinnovo di prescrizioni continuative che sono state impostate nella scheda dei pazienti e che sono già state elaborate in passato all’interno di Elty. Cliccando “**Rinnova tutte**” si rinnoveranno tutte in automatico sulla base delle informazioni inserite della stessa prescrizione precedentemente prescritta.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.41.13.png"
@@ -195,7 +194,7 @@ sidebarTitle: "Richieste di ricetta"
 
 ### 2. Inserire una richiesta di prestazione
 
-- Quando si inserisce in Elty DaVinci una “**_Nuova richiesta_**” si può scegliere una “**_Prestazione_**” invece di “**_Farmaco_**”.
+- Quando si inserisce in Elty DaVinci una “**Nuova richiesta**” si può scegliere una “**Prestazione**” invece di “**Farmaco**”.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.41.48.png"
@@ -203,7 +202,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Si può scegliere tra una “**_Nuova prestazione_**” e “**_Rinnova prestazione_**”. Si inserisce il nome della prestazione (**_che potrà esser cliccata tra le prestazioni inserite nel database di Elty DaVinci, aggiornate sulla base dei cataloghi regionali_**). Si possono inserire anche “**_Note interne_**”.
+- Si può scegliere tra una “**Nuova prestazione**” e “**Rinnova prestazione**”. Si inserisce il nome della prestazione (**che potrà esser cliccata tra le prestazioni inserite nel database di Elty DaVinci, aggiornate sulla base dei cataloghi regionali**). Si possono inserire anche “**Note interne**”.
 
 <img
   src="/images/platform/richieste-ricetta/24..png"
@@ -211,7 +210,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Dopo aver inserito tutte le informazioni necessarie si può scegliere di aggiungere una nuova prestazione cliccando “**_Aggiungi nuovo_**” (o conferma e richiedi altro) o si conferma la prestazione inserita cliccando “**_Conferma_**”.
+- Dopo aver inserito tutte le informazioni necessarie si può scegliere di aggiungere una nuova prestazione cliccando “**Aggiungi nuovo**” (o conferma e richiedi altro) o si conferma la prestazione inserita cliccando “**Conferma**”.
 
 <img
   src="/images/platform/richieste-ricetta/25..png"
@@ -219,7 +218,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- La richiesta di “**_Prestazione_**” potrà esser visualizzata nella sezione “**_Richieste_**” (da prescrivere o da rinnovare). Cliccando “**_Prescrivi_**” comparirà una nuova schermata.
+- La richiesta di “**Prestazione**” potrà esser visualizzata nella sezione “**Richieste**” (da prescrivere o da rinnovare). Cliccando “**Prescrivi**” comparirà una nuova schermata.
 
 <img
   src="/images/platform/richieste-ricetta/26..png"
@@ -227,7 +226,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- La schermata permette di scegliere tra “**_Aggiungi prestazione singola_**” e “**_Aggiungi gruppo di prestazioni_**”. Cercando una prestazione si potrà aggiungerla all’interno della bozza di ricetta e poi si “**_Conferma_**”, se la richiesta è strutturata (basata sulle prestazioni già inserite nella scheda del paziente, allora comparirà come già selezionata).
+- La schermata permette di scegliere tra “**Aggiungi prestazione singola**” e “**Aggiungi gruppo di prestazioni**”. Cercando una prestazione si potrà aggiungerla all’interno della bozza di ricetta e poi si “**Conferma**”, se la richiesta è strutturata (basata sulle prestazioni già inserite nella scheda del paziente, allora comparirà come già selezionata).
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.55.24.png"
@@ -235,7 +234,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- All’interno della **scheda paziente** si potrà visualizzare la **_ricetta da elaborare (bozza di ricetta)_**, si possono inserire: “_Esenzione_”, “_Quesito diagnostico_” (libero o codificato), “_Classe priorità_” e tra le informazioni aggiuntive anche la possibilità di selezionare “Suggerito da uno specialista” e “Compilato in situazione di urgenza”.
+- All’interno della **scheda paziente** si potrà visualizzare la **ricetta da elaborare (bozza di ricetta)**, si possono inserire: “Esenzione”, “Quesito diagnostico” (libero o codificato), “Classe priorità” e tra le informazioni aggiuntive anche la possibilità di selezionare “Suggerito da uno specialista” e “Compilato in situazione di urgenza”.
 - La bozza può essere elaborata cliccando “Elabora” e può essere messa in coda cliccando “Elabora più tardi”
 
 <img
@@ -246,7 +245,7 @@ sidebarTitle: "Richieste di ricetta"
 
 ### 3. Impostazioni
 
-- Se si vuole permettere ai propri pazienti di mandare “**_Richieste di ricetta_**” **tramite App** si può attivare la funzione andando sul tuo nome e cognome in alto a destra e poi “**_Gestione servizi_**”.
+- Se si vuole permettere ai propri pazienti di mandare “**Richieste di ricetta**” **tramite App** si può attivare la funzione andando sul tuo nome e cognome in alto a destra e poi “**Gestione servizi**”.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.59.15.png"
@@ -254,7 +253,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Per attivare le “**_Richieste di ricette_**” bisogna cliccare l’apposito tasto a destra di “**_Personalizza_**”.
+- Per attivare le “**Richieste di ricette**” bisogna cliccare l’apposito tasto a destra di “**Personalizza**”.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_10.01.31.png"
@@ -262,7 +261,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- Cliccando “**_Personalizza_**” si potranno scegliere le “**_Tipologie richieste_**” che si potranno fare da App. Le opzioni sono “**_Ripetitive (pre compilate)_**” e “**_Nuove richieste (libere)_**”. Cliccare “**_Salva_**” alla fine per salvare le impostazioni.
+- Cliccando “**Personalizza**” si potranno scegliere le “**Tipologie richieste**” che si potranno fare da App. Le opzioni sono “**Ripetitive (pre compilate)**” e “**Nuove richieste (libere)**”. Cliccare “**Salva**” alla fine per salvare le impostazioni.
 - Si può decidere di abilitare alcune richieste e altre no (es. sì alle ripetitive di farmaci e no alle prestazioni ripetitive mentre sì per le richieste libere di prestazioni e no per le richieste libere di farmaci)
 
 <img
@@ -271,7 +270,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-- All’interno della sezione “**_Richieste_**” verranno visualizzate le **richieste fatte tramite App** e le richieste inserite dal personale di segreteria (nella colonna “Richiesta” ci sarà la richiesta e anche “Richiesto da …”)
+- All’interno della sezione “**Richieste**” verranno visualizzate le **richieste fatte tramite App** e le richieste inserite dal personale di segreteria (nella colonna “Richiesta” ci sarà la richiesta e anche “Richiesto da …”)
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_10.40.57.png"
@@ -279,7 +278,7 @@ sidebarTitle: "Richieste di ricetta"
   className="mx-auto"
 />
 
-**_Per chi utilizza la funzionalità prescrittiva_**
+**Per chi utilizza la funzionalità prescrittiva**
 
 - Devo sempre inserire il quesito diagnostico a mano per ogni ricetta di prestazione che creo?
 
@@ -293,7 +292,7 @@ sidebarTitle: "Richieste di ricetta"
 
 - Cosa rappresenta il simbolo del fulmine in scheda paziente a destra di un farmaco?
 
-  Il simbolo del fulmine rappresenta il calcolatore delle scorte che aiuta il medico a valutare se il paziente sta **_richiedendo troppo spesso_** i medicinali o **_non li sta chiedendo affatto._**
+  Il simbolo del fulmine rappresenta il calcolatore delle scorte che aiuta il medico a valutare se il paziente sta **richiedendo troppo spesso** i medicinali o **non li sta chiedendo affatto.**
   - Verde = significa che il paziente ha ancora scorte disponibili
   - Arancio = significa che il paziente ha scorte in esaurimento
   - Rosso = significa che il paziente ha esaurito le scorte
@@ -314,11 +313,11 @@ sidebarTitle: "Richieste di ricetta"
   Poi abbiamo una quota di Medicinali che viene distribuita (Legge del 16/11/2001, n. 405, art. 8) anche attraverso le Farmacie ospedaliere e i servizi farmaceutici delle ASL (**DD - Distribuzione diretta**)
 - Cosa cambia tra rinnova e prescrivi se sono entrambi farmaci continuativi?
 
-  **_Rinnova = la ricetta è già stata elaborata almeno una volta in Elty DaVinci_**
+  **Rinnova = la ricetta è già stata elaborata almeno una volta in Elty DaVinci**
 
   Abbiamo già tutti i dati della prescrizione precedente dunque si può ripetere in un click. Nel caso di una ricetta di farmaco si avrà il calcolatore delle scorte attivo dunque si potrà vedere se il paziente ha già terminato o no la scorta di farmaci (solo se è stata inserita una posologia strutturata)
 
-  **_Prescrivi = Non è ancora mai stata prescritta In DaVinci_**
+  **Prescrivi = Non è ancora mai stata prescritta In DaVinci**
 
   Potrebbero mancare ancora dei dati dunque non basterà un click per procedere alla realizzazione della ricetta. Se sono stati importati i dati dal gestionale precedente si troverà il pulsante “rinnova” per quelle già prescritte almeno una volta nel gestionale precedente
 - Posso inviare direttamente le ricette via mail al paziente?
@@ -350,7 +349,7 @@ sidebarTitle: "Richieste di ricetta"
   style={{ width:"50%",maxWidth:"400px" }}
 />
 
-**_Per chi NON utilizza la funzionalità prescrittiva_**
+**Per chi NON utilizza la funzionalità prescrittiva**
 
 - Come si accede alle richieste di ricetta dei pazienti?
 
@@ -431,7 +430,6 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 <img
@@ -451,8 +449,8 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
 />
 
 - Il comando serve ad avvisare **Elty DaVinci** che la richiesta è stata processata su un altro gestionale. In seguito la richiesta verrà visualizzata **nell’Archivio**.
-- Dalla schermata che si aprirà si potranno inserire “**_Note da condividere con il paziente_**” e si potrà **_Caricare un file (di solito il pdf della ricetta)._**
-- Cliccare il tasto “**_Conferma_**” per mandare la richiesta in archivio (non arriverà alcuna notifica al paziente se non ci sono note)
+- Dalla schermata che si aprirà si potranno inserire “**Note da condividere con il paziente**” e si potrà **Caricare un file (di solito il pdf della ricetta).**
+- Cliccare il tasto “**Conferma**” per mandare la richiesta in archivio (non arriverà alcuna notifica al paziente se non ci sono note)
 
 <img
   src="/images/platform/richieste-ricetta/Schermata_2025-12-24_alle_11.20.38.png"
@@ -462,14 +460,13 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
 />
 
 - Come fa il paziente a inoltrare una richiesta?
-  - _Dopo aver cliccato il nome del medico_ clicca **Richiedi ricetta** ✅
+  - Dopo aver cliccato il nome del medico clicca **Richiedi ricetta** ✅
 
 <img
   src="/images/platform/richieste-ricetta/Untitled 202.png"
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 - Se sono presenti farmaci e prestazioni continuative il paziente le ritroverà sotto le relative sezioni:
@@ -488,7 +485,6 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 - Il paziente potrà scegliere tra “**Farmaco”** e “**Visita o Esame”**
@@ -498,11 +494,10 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 - Il paziente inserirà il **Nome del farmaco**. Può anche inserire delle **Note per il medico**
-- C’è anche la possibilità di aggiungere un farmaco aggiuntivo cliccando sul tasto **_“Aggiungi altro farmaco”_**
+- C’è anche la possibilità di aggiungere un farmaco aggiuntivo cliccando sul tasto **“Aggiungi altro farmaco”**
 
 <img
   src="/images/platform/richieste-ricetta/IMG_0248_3.jpg"
@@ -511,7 +506,7 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   style={{ width:"50%",maxWidth:"400px" }}
 />
 
-- Verrà aggiunta una sezione in cui inserire il **_nome del secondo farmaco_** ed e**_ventuali note per il Medico._**  Cliccare, infine, su “**_Continua_**” per confermare la richiesta
+- Verrà aggiunta una sezione in cui inserire il **nome del secondo farmaco** ed e**ventuali note per il Medico.**  Cliccare, infine, su “**Continua**” per confermare la richiesta
 
 <img
   src="/images/platform/richieste-ricetta/IMG_0249_3.jpg"
@@ -527,7 +522,6 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 - Compariranno i dettagli richiesta. Si può eliminare la richiesta cliccando **Annulla richiesta**:
@@ -537,12 +531,11 @@ Eliminando la richiesta si può scegliere se mandare una comunicazione al pazien
   alt="Untitled"
   className="mx-auto"
   style={{ width:"50%",maxWidth:"400px" }}
-  title=""
 />
 
 - Come impostare il servizio di richieste ricette?
 
-  Se si vuole permettere ai propri pazienti di mandare **Richieste di ricetta** **tramite App** si può attivare la funzione andando sul tuo nome e cognome in alto a destra e poi **_Gestione servizi_**.
+  Se si vuole permettere ai propri pazienti di mandare **Richieste di ricetta** **tramite App** si può attivare la funzione andando sul tuo nome e cognome in alto a destra e poi **Gestione servizi**.
 
 <img
   src="/images/platform/richieste-ricetta/Screenshot_2025-04-08_alle_09.59.15.png"
