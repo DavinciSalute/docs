@@ -67,7 +67,6 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
   src="/images/platform/davinci-connector/image 1.png"
   alt="image.png"
   className="mx-auto"
-  title=""
   style={{ width:"50%",maxWidth:"400px" }}
 />
 
@@ -86,7 +85,6 @@ Se questo non dovesse avvenire, anche semplicemente ignorando quel popup o clicc
   src="/images/platform/davinci-connector/image 2.png"
   alt="image.png"
   className="mx-auto"
-  title=""
   style={{ width:"80%",maxWidth:"700px" }}
 />
 
@@ -150,17 +148,17 @@ Come selezionare la stampante dal Davinci Connector:
 - Le ricette rosse vengono di default generate in formato A5 con orientamento verticale: si lascia la possibilità di selezionare comunque il formato di carta e l'orientamento di stampa solo in caso la stampante non riesca a posizionare la ricetta nell'orientamento giusto dettato dal PDF.
 
 <Note>
-  **_Si raccomanda di iniziare la configurazione con un formato di carta A5 e orientamento verticale._**
+  **Si raccomanda di iniziare la configurazione con un formato di carta A5 e orientamento verticale.**
 
-  _In caso la stampa risulti ruotata rispetto al foglio, per determinare la giusta configurazione, si può tentare selezionando il formato di carta A4 e facendo due test, sia con orientamento orizzontale che verticale._
+  In caso la stampa risulti ruotata rispetto al foglio, per determinare la giusta configurazione, si può tentare selezionando il formato di carta A4 e facendo due test, sia con orientamento orizzontale che verticale.
 
-  _Una volta sistemato l'orientamento si può passare a correggere lo scostamento rispetto ai margini._
+  Una volta sistemato l'orientamento si può passare a correggere lo scostamento rispetto ai margini.
 </Note>
 
 ### Come stampare in A5
 
 - Oltre a scegliere la configurazione corretta sul nostro Connector, vanno tenuti a mente una serie di accorgimenti da utilizzare fisicamente sulla stampante quando si vuole stampare in A5.
-- ************_Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale._************
+- ************Il consiglio è di mantenere nella configurazione del Connector un orientamento verticale del foglio, oltre a selezionare A5 come formato di stampa. Solo in caso le varie combinazioni sotto riportate non dovessero dare l'effetto desiderato si consiglia di tentare anche selezionando l'orientamento orizzontale.************
 - La prassi migliore vorrebbe che ci attenessimo alle **istruzioni del manuale** della stampante su come posizionare l'A5 nel cassetto della stampante. In alternativa possiamo seguire le **indicazioni riportate sulle guide** del cassetto
 
 <img
@@ -176,7 +174,6 @@ Come selezionare la stampante dal Davinci Connector:
   src="/images/platform/davinci-connector/Untitled 1.png"
   alt="Untitled"
   className="mx-auto"
-  title=""
   style={{ width:"70%",maxWidth:"600px" }}
 />
 
@@ -186,7 +183,6 @@ Come selezionare la stampante dal Davinci Connector:
   src="/images/platform/davinci-connector/Untitled 2.png"
   alt="Untitled"
   className="mx-auto"
-  title=""
   style={{ width:"40%",maxWidth:"500px" }}
 />
 
@@ -196,7 +192,6 @@ Come selezionare la stampante dal Davinci Connector:
   src="/images/platform/davinci-connector/Untitled 3.png"
   alt="Untitled"
   className="mx-auto"
-  title=""
   style={{ width:"70%",maxWidth:"600px" }}
 />
 
@@ -204,7 +199,6 @@ Come selezionare la stampante dal Davinci Connector:
   src="/images/platform/davinci-connector/Untitled 4.png"
   alt="Untitled"
   className="mx-auto"
-  title=""
   style={{ width:"70%",maxWidth:"600px" }}
 />
 
@@ -215,18 +209,17 @@ Come selezionare la stampante dal Davinci Connector:
 - In caso di A5 le ricette verranno generate con orientamento orizzontale, altrimenti verticale.
 
 <Note>
-  **_Si raccomanda di iniziare la configurazione con un formato di carta A4/verticale o A5/verticale._**
+  **Si raccomanda di iniziare la configurazione con un formato di carta A4/verticale o A5/verticale.**
 
-  _Il formato di carta deve necessariamente corrispondere al formato utilizzato._
+  Il formato di carta deve necessariamente corrispondere al formato utilizzato.
 
-  _Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio._
+  Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio.
 </Note>
 
 <img
   src="/images/platform/davinci-connector/Untitled 5.png"
   alt="Untitled"
   className="mx-auto"
-  title=""
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
@@ -237,14 +230,14 @@ Come selezionare la stampante dal Davinci Connector:
 - In caso di A5 le ricette verranno generate con orientamento orizzontale, altrimenti verticale.
 
 <Note>
-  **_Si raccomanda di iniziare la configurazione con un formato di carta A4/verticale o A5/verticale._**
+  **Si raccomanda di iniziare la configurazione con un formato di carta A4/verticale o A5/verticale.**
 
-  _Il formato di carta deve necessariamente corrispondere al formato utilizzato._
+  Il formato di carta deve necessariamente corrispondere al formato utilizzato.
 
-  _Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio._
+  Si può variare l'orientamento in caso la stampa risulti ruotata rispetto al foglio.
 </Note>
 
-- **_NOTA BENE: l'orientamento del PDF generato non è direttamente correlato all'orientamento di stampa_**
+- **NOTA BENE: l'orientamento del PDF generato non è direttamente correlato all'orientamento di stampa**
 
 ## 6. Problemi legati a come esce la stampa (orientamento, tagli, misura, testo piccolo ecc.)
 
