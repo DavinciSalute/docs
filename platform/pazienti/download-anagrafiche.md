@@ -1,18 +1,17 @@
 ---
-title: "Guida al download delle anagrafiche pazienti"
+title: "⬇️ Guida al download delle anagrafiche pazienti"
 sidebarTitle: "Guida download anagrafiche pazienti"
 ---
 
-## Introduzione
+### 1. Introduzione
 
-Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con all'interno alcuni dati dei pazienti: Codice fiscale, nome, cognome, numero di telefono ed email
+- Il download delle anagrafiche permette l'estrazione di un file **.xlsx** o **.csv** con all'interno alcuni dati dei pazienti: **Codice fiscale**, **nome**, **cognome**, **numero** di telefono ed **email.**
+- Questi dati verranno in seguito importati in Elty così da permettere il funzionamento della gestione **Connect** (comunicazione medico → paziente).
+- Il file dopo che ci sarà stato recapitato (ad esempio come allegato all'interno di un ticket di assistenza) verrà adattato ed inserito da noi all'interno del tuo profilo.
 
-- Questi dati verranno in seguito importati in Elty così da permettere il funzionamento della gestione connect (comunicazione medico - paziente)
-- Il file dopo che ci sarà stato recapitato (ad esempio come allegato all'interno di un ticket di assistenza) verrà adattato ed inserito da noi all'interno del tuo profilo
+### 2. Bacheca SISS - Lombardia
 
-## **1. SISS medici Lombardia**
-
-- Dopo aver effettuato l'accesso a Bacheca SISS clicca sul menù a sinistra la sezione "Medboard - Bacheca Medici"
+- Dopo aver effettuato l'accesso a Bacheca SISS clicca sul menù a sinistra la sezione **"Medboard - Bacheca Medici"**.
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-05-07_alle_12.35.51.jpeg"
@@ -20,7 +19,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Nella sezione Medboard - Bacheca Medici troverai un Menu sulla destra, cliccando ci sarà un elenco a scomparsa, clicca "Elenco Assistiti"
+- Nella sezione "Medboard - Bacheca Medici" troverai il **"Menu"** sulla destra, cliccandoci sopra comparirà un elenco a scomparsa: clicca **"Elenco Assistiti"**.
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-05-07_alle_12.37.15.png"
@@ -28,7 +27,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Scegli il "Formato File", .CSV, scegli la data di oggi e cliccare il simbolo "Elabora" così da avere il file aggiornato. Sotto possiamo trovare il file .CSV ma potrebbe non esser aggiornato ad "oggi".
+- Scegli il **"Formato File"**, **.CSV**, scegli la data di oggi e cliccare il simbolo **"Elabora"** così da avere il file aggiornato. Sotto possiamo trovare il file .CSV ma potrebbe non esser aggiornato ad "oggi".
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-05-07_alle_12.38.52.png"
@@ -36,16 +35,16 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- N.B.: per la regione Lombardia, l'inserimento del file .csv scaricato da Bacheca SISS può essere inserito direttamente dal medico:
-  - Vai sulla sezione Pazienti
-  - Clicca i tre puntini verticali in alto a destra (a fianco di "Aggiungi paziente")
-  - Importa pazienti da SISS
-  - Carica il .csv e clicca "Archivia pazienti che non sono più miei assistiti"
-  - Dopo aver cliccato "Avanti" si potrà procedere all'aggiornamento dei propri assistiti
+- N.B.: per la regione Lombardia, l'inserimento del file .csv scaricato da Bacheca SISS può essere inserito **direttamente** dal medico:
+  - Vai sulla sezione **"Pazienti"**.
+  - Clicca i **tre puntini verticali** in alto a destra (a fianco di "Aggiungi paziente").
+  - **"Importa pazienti da SISS"**.
+  - Carica il .csv e clicca **"Archivia pazienti che non sono più miei assistiti"**.
+  - Dopo aver cliccato **"Avanti"** si potrà procedere all'aggiornamento dei propri assistiti.
 
-## 2. Sistema regionale Sicilia
+### 3. Sistema regionale - Sicilia
 
-- Sul sistema regionale TS → "Stampa pincode"
+- Dopo aver effattuato l'accesso al sistema regionale TS (Progetto Tessera Sanitaria), clicca in alto a destra **"Stampa pincode"** (a sinistra di "Esci").
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-09-17_alle_15.04.42.png"
@@ -53,7 +52,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Clicco sull'icona pdf
+- Clicca sull'**icona .pdf** (colonna "Stampa").
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-09-17_alle_15.05.51.png"
@@ -61,7 +60,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Apro il pdf e copio pincode
+- Apri il documento .pdf e copia il **pincode**.
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-09-17_alle_15.06.38.png"
@@ -69,7 +68,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Vado su Elty DaVinci → Impostazioni e privacy → Sistema regionale → Disabilita connessione
+- Vai su Elty DaVinci, clicca il tuo nome e cognome in alto a destra → **"Impostazioni e privacy"** → **"Sistema regionale"** → **"Disabilita connessione"**.
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-09-17_alle_15.07.32.png"
@@ -77,7 +76,11 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Nome utente = pincode; Password = password del sistema TS → Clicca su "Connetti"
+- Devi inserire:
+  - Nome utente = **Pincode**.
+  - Password = **password del sistema TS**.
+  - Clicca su **"Connetti"**.
+- N.B.: questo è fondamentale anche per il collegamento all'INPS per i certificati di malattia.
 
 <img
   src="/images/platform/download-anagrafiche/2ad1647e-063c-453b-9cd2-9399931dba95.png"
@@ -85,7 +88,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Sezione "Pazienti" → Cliccare sui tre puntini in alto a destra → "Importa Pazienti da Sistema Regionale"
+- Sezione **"Pazienti"** → Clicca sui **tre puntini in alto a destra** → **"Importa Pazienti da Sistema Regionale".**
 
 <img
   src="/images/platform/download-anagrafiche/Screenshot_2024-09-17_alle_15.11.52.png"
@@ -93,7 +96,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Importa
+- Seleziona "Archivia pazienti che non sono più miei assistiti" e clicca **"Importa"**.
 
 <img
   src="/images/platform/download-anagrafiche/b6f2cb29-aa80-4d6b-9859-3ee74ed6b6be.png"
@@ -101,7 +104,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-- Se risulta "errore" continuare a cliccare "Importa"
+- Se risultasse "Errore nell'importazione dei contatti dal sistema regionale. Non è stato possibile completare l'operazione", continuare a cliccare **"Importa"**.
 
 <img
   src="/images/platform/download-anagrafiche/103fd67a-af17-4382-8154-3d6fa614b59e.png"
@@ -121,7 +124,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 3. Sistema regionale Toscana - Portale Medico SSR Toscana
+### 4. Sistema regionale Toscana - Portale Medico SSR Toscana
 
 - Effettuare il Login su Portale medico toscana (https://portalemedico.ssr.toscana.it/portale/area-privata/lista-pazienti) → Cliccare su "pazienti" e sulla destra "Scarica elenco".
 
@@ -131,7 +134,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 4. Sistema regionale Piemonte
+### 5. Sistema regionale Piemonte
 
 - Andare su "Portale Medici e Pediatri" → https://www.regione.piemonte.it/web/temi/sanita/strumenti-operativi/portale-medici-pediatri
 
@@ -189,7 +192,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 5. Sistema regionale Emilia Romagna
+### 6. Sistema regionale Emilia Romagna
 
 - https://www.progetto-sole.it/pubblica/ → Entra con le tue credenziali
 
@@ -247,9 +250,9 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 6. Millewin (2 metodi)
+### 7. Millewin (2 metodi)
 
-### 1. Versione solo contatti
+### 7.1. Versione solo contatti
 
 - Aprire "Mille Utilità"
 
@@ -267,7 +270,6 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   alt="Untitled"
   className="mx-auto"
   style={{ width:"80%",maxWidth:"700px" }}
-  title=""
 />
 
 - Scegliere quelli SSN attivi, esegui
@@ -288,7 +290,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   style={{ width:"80%",maxWidth:"700px" }}
 />
 
-### 2. Versione con Email
+### 7.2. Versione con Email
 
 - Mille utilità → Statistiche → Impostazione Estrazioni SQL Personali
 
@@ -366,7 +368,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   style={{ width:"80%",maxWidth:"700px" }}
 />
 
-## 7. Medico 2000
+### 8. Medico2000
 
 - Dal menù cliccare su "data mining"
 
@@ -408,7 +410,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 8. TServe
+### 9. TServe
 
 - Menù in alto cliccare su Elenco assistiti
 
@@ -490,7 +492,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 9. Cartella Sole (versione senza Email e Telefono)
+### 10. Cartella Sole (versione senza Email e Telefono)
 
 - Statistiche → Icona "Esplora documenti" sulla sinistra
 
@@ -540,7 +542,7 @@ Il download delle anagrafiche permette l'estrazione di un file .xlsx o .csv con 
   className="mx-auto"
 />
 
-## 10. Next
+### 11. Next
 
 - Archivi
 
