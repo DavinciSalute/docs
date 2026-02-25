@@ -5,7 +5,7 @@ sidebarTitle: "Login Cloud regionale"
 
 ### 1. Accesso con firma remota
 
-- Per accedere al cloud regionale e procedere con l’elaborazione delle ricette, bisogna cliccare sul tuo **nome e cognome** (in alto a destra) e poi **_“Login Cloud regionale”_**.
+- Per accedere al cloud regionale e procedere con l’elaborazione delle ricette, bisogna cliccare sul tuo **nome e cognome** (in alto a destra) e poi **“Login Cloud regionale”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-18_alle_11.52.36.png"
