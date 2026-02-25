@@ -5,7 +5,7 @@ sidebarTitle: "Parametri"
 
 - Per accedere ai parametri entra all’interno della scheda paziente e clicca “Parametri” a destra di “Misurazioni” e a sinistra di “Anamnesi”
 - Quando usi la funzionalità “**referti AI”** la sezione viene aggiornata automaticamente (attualmente i referti AI sono in manutenzione).
-- Per l’inserimento **manuale** clicca su **_“+ Aggiungi”_**.
+- Per l’inserimento **manuale** clicca su **“+ Aggiungi”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.50.49.png"
@@ -21,12 +21,12 @@ sidebarTitle: "Parametri"
   className="mx-auto"
 />
 
-- Compila i seguenti campi: 
+- Compila i seguenti campi:
   - Risultato
   - Valore minimo
   - Valore massimo
   - Unità
-- Una volta completato, clicca su **_“Conferma”_** per salvare.
+- Una volta completato, clicca su **“Conferma”** per salvare.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.51.44.png"
@@ -34,7 +34,7 @@ sidebarTitle: "Parametri"
   className="mx-auto"
 />
 
-- Il sistema assegna **automaticamente uno stato** in base ai valori inseriti, ma puoi cambiarlo manualmente cliccandoci sopra: 
+- Il sistema assegna **automaticamente uno stato** in base ai valori inseriti, ma puoi cambiarlo manualmente cliccandoci sopra:
   - Alterato
   - Borderline
   - In norma
