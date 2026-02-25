@@ -20,7 +20,7 @@ Si possono inserire e visualizzare numerose informazioni relative al paziente:
   className="mx-auto"
 />
 
-- Cliccando su **_“Storico”_**, puoi accedere a  grafici e tabelle che mostrano l’andamento nel tempo dei dati inseriti.
+- Cliccando su **“Storico”**, puoi accedere a  grafici e tabelle che mostrano l’andamento nel tempo dei dati inseriti.
 
 <img
   src="/images/platform/Screenshot_2025-04-12_alle_10.29.43.png"
