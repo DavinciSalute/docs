@@ -10,7 +10,7 @@ sidebarTitle: "Avvisi ai pazienti"
   - Gli SMS si azzerano il primo del mese (quindi se ne potranno inviare ancora 2500)
 </Warning>
 
-- Potete accedere alla funzione “_Avvisi ai pazienti_” cliccando all’interno della **Home** (se non riuscite a raggiungere la home basterà cliccare il logo Elty DaVinci in alto a sinistra o andare all’indirizzo davinci.elty.it)
+- Potete accedere alla funzione “Avvisi ai pazienti” cliccando all’interno della **Home** (se non riuscite a raggiungere la home basterà cliccare il logo Elty DaVinci in alto a sinistra o andare all’indirizzo davinci.elty.it)
 
 <img
   src="/images/platform/avvisi-pazienti/image.png"
@@ -18,13 +18,12 @@ sidebarTitle: "Avvisi ai pazienti"
   className="mx-auto"
 />
 
-- Comparirà una schermata in cui potrete creare un nuovo avviso cliccando “**_Crea nuovo avviso_**”
+- Comparirà una schermata in cui potrete creare un nuovo avviso cliccando “**Crea nuovo avviso**”
 
 <img
   src="/images/platform/avvisi-pazienti/image 1.png"
   alt="image.png"
   className="mx-auto"
-  title=""
 />
 
 - Il **titolo** non è modificabile, si può inserire un **testo** di 318 caratteri e la **notifica** sarà inviata a tutti i pazienti (i caratteri speciali non sono ammessi) Possono essere aggiunti dei filtri per:
@@ -52,7 +51,7 @@ sidebarTitle: "Avvisi ai pazienti"
   className="mx-auto"
 />
 
-- Prima di essere inviato uscirà un’anteprima. Per inviarlo basterà cliccare “**_Pubblica_**”.
+- Prima di essere inviato uscirà un’anteprima. Per inviarlo basterà cliccare “**Pubblica**”.
 - All’interno del conteggio si può trovare il numero di pazienti, dispositivi, email e numeri di telefono inseriti all’interno della sezione Pazienti, quindi il numero di pazienti a cui arriverà l’avviso
 
 <img
@@ -61,7 +60,7 @@ sidebarTitle: "Avvisi ai pazienti"
   className="mx-auto"
 />
 
-- Dopo aver cliccato “_Avanti_” comparirà l’avviso all’interno dello storico degli avvisi inviati ai pazienti
+- Dopo aver cliccato “Avanti” comparirà l’avviso all’interno dello storico degli avvisi inviati ai pazienti
 
 <img
   src="/images/platform/avvisi-pazienti/Schermata_2025-12-12_alle_17.52.40.png"
@@ -79,7 +78,6 @@ sidebarTitle: "Avvisi ai pazienti"
   src="/images/platform/avvisi-pazienti/image 2.png"
   alt="image.png"
   className="mx-auto"
-  title=""
   style={{ width:"60%",maxWidth:"500px" }}
 />
 
@@ -87,7 +85,7 @@ sidebarTitle: "Avvisi ai pazienti"
 
 Attraverso quali canali i pazienti ricevono gli avvisi?
 
-Il paziente riceverà l’**SMS** **SOLO** **se non è inserita la email** nel profilo paziente **e il paziente non ha scaricato l’app**, se ha scaricato l’App Elty arriverà tramite app e se è registrata la mail, arriverà per Email 
+Il paziente riceverà l’**SMS** **SOLO** **se non è inserita la email** nel profilo paziente **e il paziente non ha scaricato l’app**, se ha scaricato l’App Elty arriverà tramite app e se è registrata la mail, arriverà per Email
 
 N.B.: Nel caso in cui un paziente abbia scaricato l’app, riceverà la notifica solo in app. Se all’interno dell’anagrafica del paziente è salvata anche la mail, l’avviso arriverà anche li.
 
