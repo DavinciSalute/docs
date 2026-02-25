@@ -10,7 +10,7 @@ sidebarTitle: "Referti (scheda paziente)"
 - Sezione che permette di vedere tutti i referti del paziente
 - Per scaricare i referti da FSE clicca "**Scarica referti"** (a destra di "Nuovo referto")
   - Fondamentale è inserire **Motivazione di accesso** (in alcuni casi si possono scaricare solo se selezionato "Emergenza/Urgenza dell'interessato")
-- Per inserire manualmente un referto bisogna cliccare "**_Nuovo referto_**".
+- Per inserire manualmente un referto bisogna cliccare "**Nuovo referto**".
 
 <img
   src="/images/platform/Screenshot_2025-04-18_alle_10.03.46.png"
@@ -30,7 +30,7 @@ sidebarTitle: "Referti (scheda paziente)"
   className="mx-auto"
 />
 
-- Una volta inserite tutte le informazioni, clicca su "**_Conferma_**" per salvare il referto.
+- Una volta inserite tutte le informazioni, clicca su "**Conferma**" per salvare il referto.
 
 <img
   src="/images/platform/Screenshot_2025-04-18_alle_10.09.39.png"
@@ -38,7 +38,7 @@ sidebarTitle: "Referti (scheda paziente)"
   className="mx-auto"
 />
 
-- Per consultare un referto già caricato, clicca su **_"Visualizza"_**.
+- Per consultare un referto già caricato, clicca su **"Visualizza"**.
 
 <img
   src="/images/platform/Screenshot_2025-04-18_alle_10.09.54.png"
