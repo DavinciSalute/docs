@@ -11,7 +11,7 @@ L'Anamnesi è il riassunto della storia clinica del paziente.
   className="mx-auto"
 />
 
-- Clicca su **_"Esporta Patient Summary"_** (in alto a destra) per l'esportazione in PDF del riassunto della scheda paziente
+- Clicca su **"Esporta Patient Summary"** (in alto a destra) per l'esportazione in PDF del riassunto della scheda paziente
   - È un riassunto della cartella clinica del paziente con all'interno:
     - Allergie
     - Terapie farmacologiche
@@ -26,7 +26,7 @@ L'Anamnesi è il riassunto della storia clinica del paziente.
   className="mx-auto"
 />
 
-- Si può aggiungere l'anamnesi generale e familiare cliccando su **_"+"_**
+- Si può aggiungere l'anamnesi generale e familiare cliccando su **"+"**
 
 <img
   src="/images/platform/Schermata_2026-01-07_alle_14.22.58_2.png"
