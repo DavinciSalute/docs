@@ -14,7 +14,7 @@ sidebarTitle: "Invita un collega"
   className="mx-auto"
 />
 
-- Seleziona l’opzione **_“Invita un collega”_**.
+- Seleziona l’opzione **“Invita un collega”**.
 
 <img
   src="/images/platform/Screenshot_2025-04-16_alle_11.10.21.png"
