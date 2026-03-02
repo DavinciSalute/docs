@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `39e0bb163eeaca7cae997db00e42e07a0dfd1030`
-- **Data:** 2026-02-24 17:41:45 UTC
-- **Autore:** Dario Tolve
-- **Messaggio:** fix: sc-114607 disabling button while prescribing
-- **URL:** https://github.com/DavinciSalute/davinci/commit/39e0bb163eeaca7cae997db00e42e07a0dfd1030
+- **SHA:** `40670ac1710d9d40a99fea50829cadcdcf579bcd`
+- **Data:** 2026-03-02 11:03:34 UTC
+- **Autore:** Christian
+- **Messaggio:** Merge pull request #9058 from DavinciSalute/feature-sc-115036--bug-master-erronea-presenza-dicitura-pt-su
+- **URL:** https://github.com/DavinciSalute/davinci/commit/40670ac1710d9d40a99fea50829cadcdcf579bcd
