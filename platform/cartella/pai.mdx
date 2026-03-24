@@ -18,7 +18,8 @@ Il **PAI** (Piano Assistenziale Individuale) è composto da:
 - **Patologia primaria**.
 - Eventuali **patologie secondarie** (aumentano la complessità del PAI, aumentando il **compenso economico**).
 - **Prestazioni** e **farmaci**.
-- **Stile di vita** e **vaccinazioni** (non obbligatori al fine della pubblicazione).
+- **Stile di vita.**
+- **Vaccinazioni** (non obbligatorie al fine della pubblicazione).
 
 Ogni **ATS** ha un **elenco di patologie ammesse** come primarie: a volte potrebbero risultare errori legati alla patologia primaria che possono esser risolti cambiandola.
 
@@ -27,6 +28,8 @@ N.B.: Le ricette ora sono valide **6 mesi** (non più 12), abbiamo introdotto la
 - Prescrivi primo lotto.
 - Prescrivi secondo lotto.
 - Prescrivi tutto.
+
+Dalla sezione PAI pubblicati (generale) hai il controllo sulle ricette pubblicate, si può utilizzare quella sezione per verificare quando elaborare le ricette restanti e per quali pazienti non sono ancora state prescritte.
 
 ### 2. Termini, requisiti ed incentivi economici per fare PAI con noi
 
@@ -55,6 +58,7 @@ ATS in cui siamo attualmente abilitati:
 - Gli incentivi economici sono divisi tra **incentivi forniti da Regione Lombardia** e **incentivi forniti da Horus Medica**.
 - Per dare l’idea, il **guadagno potenziale su 320 nuovi PAI è più di 10.000 €.**
   - 15 x 320 \+ 8 x 320 \+ 11 x 320 = 10.880 euro
+- Si ha accesso ad **Elty ad un prezzo agevolato**, stornato sui guadagni ricavati dai PAI.
 
 Nello specifico gli **incentivi forniti da Horus Medica** sono:
 
@@ -72,7 +76,7 @@ Nello specifico gli **incentivi forniti da Horus Medica** sono:
 Questi incentivi vanno **sommati** agli **incentivi** economici della regione **Lombardia**:
 
 - 15€ per PAI.
-- **23€ per PAI** se:
+- **\+ 8€ (15 \+ 8 = 23€) per PAI** se:
   - Il MMG ha preso in carico almeno il 15% dei pazienti cronici.
   - Solo per PAI nuovi dal 2024 (no rinnovi).
   - Se rispettano indicatori e valori di soglia.
@@ -102,7 +106,7 @@ La pagina è composta da:
 
 - **Tutti**: tutti i PAI.
 - **Pubblicati**: tutti i PAI pubblicati su FSE.
-- **Arruolati senza PAI**: tutti i pazienti arruolati ma per cui il PAI non è stato pubblicato su FSE.
+- **Arruolati senza PAI**: tutti i pazienti arruolati il cui PAI non è stato ancora creato.
 - **Arruolabili**: tutti i pazienti con patologie croniche che non sono ancora stati arruolati (per cui si può fare un PAI).
 - **Da pubblicare**: tutti i PAI in bozza pronti per essere pubblicati su FSE.
 - **Da rinnovare**: tutti i PAI scaduti e che possono essere rinnovati.
@@ -126,7 +130,8 @@ In scheda paziente si può vedere la **percentuale di completamento** delle info
   className="mx-auto"
 />
 
-- Quando è al 100% verrà mostrato dal completamento della **barra di progressione verde**, quindi in questo caso è pronto per l’arruolamento e la successiva pubblicazione del PAI.
+- Quando è al 100% verrà mostrato dal completamento della **barra di progressione verde**.
+  - Non è obbligatorio raggiungere il 100% per poter arruolare un paziente: lo puoi fare a prescindere, potrai creare un PAI e inserire le informazioni mancanti in seguito.
 
 <img
   src="/images/Screenshot2026-03-17alle12.40.34.png"
@@ -144,7 +149,7 @@ All’interno di ogni **scheda paziente** c’è la **sezione “PAI”** (a des
 
 La prima parte è **“Gestione PAI”:**
 
-- Si trova la **percentuale di completamento** delle informazioni in cartella per creare un Piano di Assistenza Individuale.
+- Si trova la **percentuale di completamento** delle informazioni in cartella per creare un Piano di Assistenza Individuale (non limitano la possibilità di creare un PAI, le informazioni mancanti possono esser inserite in seguito).
 - Si trova la **percentuale di aderenza terapeutica** del PAI: è intesa come % di visite prescritte (ricette emesse).
 
 Sulla destra si trovano i tasti:
@@ -398,16 +403,14 @@ Dopo aver scaricato da FSE un PAI fatto in passato si potranno importare i dati 
 
 1. **Verifica PAI da FSE** (massivo):
    - Il pulsante: **"Verifica PAI da FSE"** fa una scansione sui pazienti e:
-     - Controlla chi ha già un PAI.
-     - Scarica **l'ultima versione disponibile.**
-     - Marca il paziente come cronico.
-     - Importa le patologie in cartella (scheda paziente).
-   - Potrebbe volerci un po' di tempo, non chiudere la pagina.
+     - Avvisa se i pazienti sono arruolati con un'altra cooperativa.
+     - Potrebbe volerci un po' di tempo, non chiudere la pagina.
 2. **Pubblica tutto** (massivo):
    - Selezioni più pazienti e cliccando **"Pubblica tutto"** potrai pubblicare i PAI.
    - La **firma sarà uno ad uno** (non può essere "un click unico" per vincoli di firma).
 3. **Rinnovo** (massivo):
-   - Non "rinnova e pubblica tutto", crea **bozze di rinnovo.**
+   - Crea **bozze di rinnovo.**
+   - Rinnova il singolo o clicca sul pulsante massivo che sta in alto a destra.
    - Apri la bozza, inserisci l’eventuale modifica, pubblichi il PAI e passi alla successiva.
 
 ### 12. Disarruolamento dei pazienti prima di fare PAI con Elty
@@ -419,7 +422,9 @@ Dopo aver scaricato da FSE un PAI fatto in passato si potranno importare i dati 
      - L’annullamento del PAI accade anche se il PAI è stato fatto il 31 dicembre e si vuole fare il disarruolamento a gennaio.
   2. Dopo il disarruolamento il medico deve aderire ad **Horus Medica.**
   3. **Horus Medica** comunica **all’ATS** che il medico farà PAI con Elty (tipicamente rapido, 1 o 2 giorni a Milano, varia in base all’ATS).
-  4. Si creano e pubblicano i nuovi PAI.
+  4. Si clicca **"Verifica stato PAI"** su Elty e si scaricano tutti i PAI fatti con noi (insieme a IML). I pazienti che avevano un PAI e ora sono stati disarruolati finiscono in **“Da arruolare”:** da lì si possono vedere quali avevano un PAI in precedenza e la data di pubblicazione del vecchio PAI.
+  5. Questi pazienti si possono riarruolare e quando si clicca **"Crea PAI"** si può decidere se prendere i dati dalla Scheda paziente e fare il PAI da zero (come nei precedenti casi) o se importare direttamente in modo strutturato i dati del vecchio PAI e **ricrearlo con un click**.
+  6. Per gli altri pazienti si creano e pubblicano i nuovi PAI.
 - **Altre cooperative**:
   1. Devono **disarruolare** i PAI dagli **altri gestionali**.
   2. Dopo il disarruolamento il medico deve aderire ad **Horus Medica.**
