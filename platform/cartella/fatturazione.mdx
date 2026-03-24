@@ -1,0 +1,145 @@
+---
+title: "Fatturazione Elettronica"
+sidebarTitle: "Fatturazione"
+description: "Gestione delle fatture elettroniche verso l'Agenzia delle Entrate"
+---
+
+<Warning>
+  Per utilizzare la fatturazione elettronica è necessario aver inserito la **Partita IVA** nel proprio profilo (nome e cognome → Profilo → Aggiorna).
+</Warning>
+
+## 1. Introduzione
+
+La sezione **Fatture** permette di creare, gestire e trasmettere fatture elettroniche all'**Agenzia delle Entrate** direttamente dalla piattaforma Elty. La funzionalità è disponibile sia per i medici sia per il personale di segreteria (con alcune differenze operative).
+
+Per accedere alla sezione, clicca su **"Fatture"** nel menu di navigazione laterale.
+
+## 2. Elenco Fatture
+
+La pagina principale mostra la lista di tutte le fatture con le seguenti informazioni:
+
+- **Paziente**: nome e cognome del paziente associato alla fattura.
+- **Data**: data di creazione e data di pagamento.
+- **Protocollo**: identificativo assegnato dall'Agenzia delle Entrate dopo la trasmissione e numero progressivo della fattura.
+- **Stato**: lo stato attuale della fattura.
+- **Imponibile (€)**: totale imponibile.
+- **Totale (€)**: totale comprensivo di IVA e imposta di bollo (se applicabile).
+- **Metodo di pagamento**: il metodo utilizzato per il pagamento.
+
+### Stati della fattura
+
+| Stato | Descrizione |
+|-------|-------------|
+| **Da validare** | Bozza non ancora trasmessa |
+| **Inviata** | Trasmessa con successo all'Agenzia delle Entrate |
+| **Errore** | Errore durante la trasmissione |
+| **Annullata** | Fattura annullata |
+| **Rettificata** | Fattura che è stata rettificata |
+
+### Filtri e ordinamento
+
+È possibile filtrare le fatture per:
+- **Paziente** (ricerca libera)
+- **Data** (intervallo di date)
+- **Protocollo** (ricerca libera)
+- **Stato** (selezione multipla)
+- **Metodo di pagamento** (selezione multipla)
+
+## 3. Creare una nuova fattura
+
+Per creare una nuova fattura clicca il pulsante **"Nuova Fattura"** in alto a destra.
+
+<Note>
+Se la Partita IVA non è stata inserita nel profilo, verrà richiesto di aggiungerla prima di poter procedere.
+</Note>
+
+Si aprirà il modulo di creazione con i seguenti campi:
+
+### Dati fattura
+
+- **Medico** (visibile solo per il personale di segreteria): seleziona il medico di riferimento.
+- **Paziente**: cerca e seleziona il paziente a cui intestare la fattura.
+- **Numero fattura**: il numero progressivo viene suggerito automaticamente in base alle fatture già presenti nell'anno corrente.
+- **Data di pagamento**: la data in cui è avvenuto il pagamento.
+- **Metodo di pagamento**: Contanti, Carta di credito, Bonifico bancario o Assegno.
+- **Opposizione**: il paziente può richiedere di non inviare il dato all'Agenzia delle Entrate ai fini della dichiarazione precompilata.
+- **Note aggiuntive**: eventuali note, con opzione per nasconderle nel PDF della fattura.
+
+### Elenco prestazioni
+
+Per ogni voce della fattura è possibile specificare:
+
+- **Descrizione**: selezionabile dalla libreria prestazioni o inseribile manualmente.
+- **Tipo di spesa**: Prestazioni sanitarie, Ticket, Farmaco, Dispositivo medico CE, e altri.
+- **Importo (€)**: l'importo della singola voce.
+- **IVA %**: l'aliquota IVA applicata.
+
+Clicca **"Aggiungi"** per aggiungere ulteriori voci alla fattura.
+
+### Riepilogo
+
+In fondo al modulo viene mostrato automaticamente:
+
+- **Totale imponibile**
+- **Totale IVA**
+- **Imposta di bollo** (applicata automaticamente quando prevista)
+- **Totale**
+
+### Azioni disponibili
+
+- **Trasmetti fattura**: invia la fattura all'Agenzia delle Entrate (richiede la connessione al sistema regionale).
+- **Salva e stampa**: salva come bozza e genera il PDF.
+- **Salva bozza**: salva la fattura senza trasmetterla.
+
+## 4. Libreria Prestazioni
+
+La **Libreria prestazioni** permette di configurare le prestazioni che verranno suggerite durante la compilazione della fattura. Per accedervi, clicca **"Libreria prestazioni"** nella pagina Fatture.
+
+All'interno della libreria è possibile:
+- Aggiungere nuove prestazioni con descrizione, tipo di spesa, importo e aliquota IVA.
+- Modificare o eliminare prestazioni esistenti.
+
+Le prestazioni configurate nella libreria verranno proposte come suggerimento nel campo "Descrizione" durante la creazione di una fattura.
+
+## 5. Azioni sulle fatture esistenti
+
+Per ogni fattura nell'elenco sono disponibili diverse azioni, in base allo stato:
+
+### Fatture in bozza o in errore
+- **Trasmetti**: invia la fattura all'Agenzia delle Entrate.
+- **Modifica**: apri e modifica la fattura.
+- **Stampa**: genera e visualizza il PDF.
+- **Duplica e modifica**: crea una nuova fattura copiando i dati di quella selezionata.
+- **Elimina**: elimina la fattura.
+
+### Fatture inviate
+- **Visualizza**: apri e visualizza il PDF della fattura.
+- **Rettifica**: crea una nota di credito per rettificare la fattura.
+- **Annulla**: annulla la fattura trasmessa.
+- **Duplica e modifica**: crea una nuova fattura copiando i dati.
+
+### Fatture annullate o rettificate
+- **Visualizza**: apri e visualizza il PDF della fattura.
+- **Duplica e modifica**: crea una nuova fattura copiando i dati.
+
+## 6. Trasmissione multipla
+
+È possibile selezionare più fatture in bozza o in errore e trasmetterle tutte insieme tramite il pulsante **"Trasmetti"** che compare nella barra di selezione. Al termine della trasmissione viene mostrato un riepilogo con l'esito di ogni fattura.
+
+## 7. Esportazione e intestazione
+
+Dal menu azioni (icona con tre puntini verticali) in alto a destra nella pagina Fatture:
+
+- **Esporta**: permette di esportare le fatture.
+- **Modifica intestazione**: permette di personalizzare l'intestazione che compare nei PDF delle fatture.
+
+## 8. Ruolo medico vs segreteria
+
+| Funzionalità | Medico | Segreteria |
+|---|---|---|
+| Creare fattura | Sì | Sì (selezionando il medico) |
+| Trasmettere fattura | Sì | No |
+| Rettificare fattura | Sì | No |
+| Annullare fattura | Sì | No |
+| Salvare bozza e stampare | Sì | Sì |
+| Gestire libreria prestazioni | Sì | No |

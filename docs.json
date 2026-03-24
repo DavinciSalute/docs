@@ -68,7 +68,8 @@
               "platform/cartella/piani-terapeutici",
               "platform/cartella/gravidanza",
               "platform/cartella/pacchetti-prestazioni",
-              "platform/cartella/pai"
+              "platform/cartella/pai",
+              "platform/cartella/fatturazione"
             ]
           },
           {

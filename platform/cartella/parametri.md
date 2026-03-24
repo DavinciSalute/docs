@@ -1,11 +1,12 @@
 ---
-title: "Parametri"
-sidebarTitle: "Parametri"
+title: "Risultati"
+sidebarTitle: "Risultati"
 ---
 
-- Per accedere ai parametri entra all’interno della scheda paziente e clicca “Parametri” a destra di “Misurazioni” e a sinistra di “Anamnesi”
-- Quando usi la funzionalità “**referti AI”** la sezione viene aggiornata automaticamente (attualmente i referti AI sono in manutenzione).
-- Per l’inserimento **manuale** clicca su **_“+ Aggiungi”_**.
+- Per accedere ai risultati entra all'interno della scheda paziente e clicca **"Risultati"** a destra di "Misurazioni" e a sinistra di "Anamnesi".
+- Quando usi la funzionalità "**referti AI**" la sezione viene aggiornata automaticamente (attualmente i referti AI sono in manutenzione).
+- Per l'inserimento **manuale** clicca su **"+ Aggiungi"**.
+- Se non trovi il parametro che cerchi, puoi cliccare su **"Segnalacelo"** per inviare una richiesta di inserimento.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.50.49.png"
@@ -26,7 +27,7 @@ sidebarTitle: "Parametri"
   - Valore minimo
   - Valore massimo
   - Unità
-- Una volta completato, clicca su **_“Conferma”_** per salvare.
+- Una volta completato, clicca su **"Conferma"** per salvare.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.51.44.png"
@@ -39,7 +40,7 @@ sidebarTitle: "Parametri"
   - Borderline
   - In norma
   - N/A
-- Per eliminarlo, clicca sull’icona del cestino.
+- Per eliminarlo, clicca sull'icona del cestino.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.52.43.png"
@@ -47,7 +48,7 @@ sidebarTitle: "Parametri"
   className="mx-auto"
 />
 
-- Sulla **sinistra** compare l’elenco dei parametri inseriti. A **destra**, visualizzi il dettaglio con **risultato e stato**.
+- Sulla **sinistra** compare l'elenco dei risultati inseriti. A **destra**, visualizzi il dettaglio con **risultato e stato**.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.52.59.png"
@@ -55,7 +56,7 @@ sidebarTitle: "Parametri"
   className="mx-auto"
 />
 
-- Cliccando sui **tre puntini** puoi aggiungere **note interne** e modificare il parametro. Cliccando il cestino puoi eliminarlo.
+- Cliccando sui **tre puntini** puoi aggiungere **note interne** e modificare il risultato. Cliccando il cestino puoi eliminarlo.
 
 <img
   src="/images/platform/Screenshot_2025-04-15_alle_10.53.09.png"

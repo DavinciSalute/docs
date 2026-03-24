@@ -34,6 +34,7 @@ sidebarTitle: "Profilo (impostazioni)"
   - ASL di appartenenza (in Lombardia è l'ATS di appartenenza)
   - Codice regionale
   - Tipo di specializzazione (se sei un medico sostituto va inserito Sostituto di medico di medicina generale)
+  - Partita IVA (necessaria per la fatturazione elettronica)
 
 <img
   src="/images/platform/profilo/Schermata_2025-12-18_alle_15.04.52.png"

@@ -95,6 +95,7 @@ Nella gestione PAI sarà possibile anche verificare:
 
 **"Crea PAI" e precompilazione**
 
+- Se non è presente un PAI attivo e il paziente ha un PAI precedente importato da referto, il sistema mostra automaticamente il PAI importabile più recente e permette di crearne uno nuovo partendo da quei dati.
 - Dopo l'arruolamento, il sistema mostra **"Crea PAI"** e un indicatore come **CREA PAI 100%**
   - La percentuale è calcolata in base a presenza in cartella di:
     - patologie croniche

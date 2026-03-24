@@ -31,7 +31,7 @@ Quando apri la **scheda paziente**, visualizzerai in alto a sinistra alcune info
 - Sotto queste informazioni vedrai le sezioni di cui è composta la “Scheda paziente” (la cartella clinica elettronica del paziente):
   - La Scheda paziente (selezionata, perché è quella in cui stai navigando)
   - Misurazioni
-  - Parametri
+  - Risultati
   - Anamnesi
   - Ricette
   - Certificati
@@ -47,7 +47,7 @@ Quando apri la **scheda paziente**, visualizzerai in alto a sinistra alcune info
 
 Il colore blu della scritta “Scheda paziente” indica che ci troviamo in quella sezione (è stata selezionata).
 
-- Cliccando sulle altre sezioni (es. Misurazioni, Parametri ecc.) diventeranno a loro volta blu per indicare il cambio di sezione
+- Cliccando sulle altre sezioni (es. Misurazioni, Risultati ecc.) diventeranno a loro volta blu per indicare il cambio di sezione
 
 <img
   src="/images/platform/Schermata_2025-12-31_alle_14.44.23_2.png"
@@ -73,6 +73,7 @@ La scheda paziente è composta da:
   - Nel caso in cui il paziente non è un tuo assistito (ad esempio è un paziente AMT) allora per scaricare le esenzioni bisognerà procedere in uno di questi due modi:
     - Se si è connessi al sistema regionale tramite firma remota allora si inseriranno nella scheda anagrafica (sotto i dati scaricati dal sistema regionale) le Ultime cinque cifre del numero di identificazione della tessera sanitaria del paziente → Clicca Scarica esenzioni da FSE
     - Se si è connessi al sistema regionale tramite smart card allora servirà un secondo lettore in cui inserire la tessera sanitaria del paziente, dopodiché bisognerà sincronizzare i dati della scheda paziente con il sistema regionale (Scheda paziente → due frecce a cerchio in alto a destra)
+  - In alcune regioni (Lombardia, Lazio, Molise, Sicilia) sono visibili anche la **Data inizio assistenza** e la **Data fine assistenza** del paziente, recuperate dal sistema regionale.
   - Nella scheda anagrafica in fondo sulla sinistra ci saranno anche i moduli per il consenso del paziente oltre al modulo di consenso vaccinale
   - Sulla destra della scheda anagrafica c’è il tasto “Esporta Patient Summary”
     - Non in tutte le regioni compare in scheda anagrafica, se non fosse presente puoi visualizzare e scaricare il Patient Summary direttamente dalla sezione “Anamnesi”
