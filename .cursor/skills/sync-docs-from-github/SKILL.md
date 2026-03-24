@@ -9,11 +9,23 @@ This skill helps synchronize the Mintlify documentation with recent code changes
 
 ## Quick Start
 
-1. Read `latest_commit.md` to get the last analyzed commit SHA (so we don’t re-analyze the same commits).
-2. Use `gh api` with `--jq` to fetch a commit list from master → keep only commits **newer** than that SHA (newest-first; stop when you reach it).
-3. **Analyze every commit** in that list — one by one, without skipping any. Update/create doc pages as needed.
-4. **Update `latest_commit.md`** with the newest commit analyzed this run. No new commits → leave unchanged.
-5. **Use the same umbrella branch** every time: checkout `docs/sync-from-davinci`, apply changes, commit, push. Open the PR (or update the existing one). One branch for all sync runs; a reviewer controls when to merge (see Step 5).
+1. **Docs repository on local `master` (mandatory first step):** Before reading files, analyzing commits, or editing anything in this repo, switch to **`master`** and pull the latest from **`origin`** so the working tree matches the current remote documentation state. Example:
+   ```bash
+   git fetch origin
+   git checkout master
+   git pull origin master
+   ```
+   Do not start a sync run from a stale branch or from `docs/sync-from-davinci` without having updated `master` first. After this step you may proceed with analysis; when you apply doc changes you still use the umbrella branch as in step 6 below.
+
+2. Read `latest_commit.md` to get the last analyzed commit SHA (so we don’t re-analyze the same commits).
+
+3. Use `gh api` with `--jq` to fetch a commit list from master → keep only commits **newer** than that SHA (newest-first; stop when you reach it).
+
+4. **Analyze every commit** in that list — one by one, without skipping any. Update/create doc pages as needed.
+
+5. **Update `latest_commit.md`** with the newest commit analyzed this run. No new commits → leave unchanged.
+
+6. **Use the same umbrella branch** every time: checkout `docs/sync-from-davinci`, apply changes, commit, push. Open the PR (or update the existing one). One branch for all sync runs; a reviewer controls when to merge (see Step 5). 
 
 ## Step 1: latest_commit.md + fetch only new commits
 
@@ -268,6 +280,7 @@ When you need to see **which files changed** and the **patch** for a single comm
 ```
 User: "Update docs from recent master changes"
 
+0. git fetch origin && git checkout master && git pull origin master (docs repo up to date)
 1. Read .cursor/skills/sync-docs-from-github/latest_commit.md → last analyzed SHA: xyz789
 2. Fetch last 20 commits from DavinciSalute/davinci master; filter to commits newer than xyz789 → 3 new commits (abc123, def456, ghi789)
 3. Analyze only those 3 for doc relevance:
