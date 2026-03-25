@@ -1,0 +1,107 @@
+---
+title: "Fatturazione Elettronica"
+sidebarTitle: "Fatturazione"
+---
+
+### 1. Introduzione
+
+La sezione **"Fatture"** permette di creare, gestire e trasmettere fatture elettroniche direttamente da Elty. Le fatture vengono inviate al **Sistema Tessera Sanitaria (STS)** dell'Agenzia delle Entrate.
+
+Per accedere alla sezione Fatture, clicca **"Fatture"** nel menu di navigazione laterale.
+
+### 2. Requisiti
+
+Prima di poter creare una fattura è necessario:
+
+- Inserire la **Partita IVA (P.IVA)** nel proprio profilo (sezione "Le tue informazioni" nel Profilo).
+- Se la P.IVA non è presente, al tentativo di creare una fattura verrà mostrato un avviso con la richiesta di inserirla.
+
+<Warning>
+  Senza Partita IVA non è possibile creare né trasmettere fatture.
+</Warning>
+
+### 3. Libreria prestazioni
+
+Prima di creare fatture è consigliato configurare la **Libreria prestazioni**, accessibile dal pulsante **"Libreria prestazioni"** nella pagina Fatture.
+
+La libreria permette di salvare le prestazioni più frequenti con i relativi dati precompilati (descrizione, tipo di spesa, importo e aliquota IVA), velocizzando la creazione delle fatture successive.
+
+### 4. Creazione di una nuova fattura
+
+Clicca **"Nuova Fattura"** per aprire il modulo di creazione. I campi da compilare sono:
+
+**Dati fattura:**
+- **Paziente**: seleziona il paziente destinatario dalla lista.
+- **Numero fattura**: viene precompilato automaticamente con il numero progressivo successivo all'ultima fattura dell'anno corrente. È modificabile.
+- **Data di pagamento**: la data in cui è avvenuto il pagamento.
+- **Metodo di pagamento**: Contanti, Carta di credito, Bonifico bancario o Assegno.
+- **Opposizione**: il paziente può richiedere di non inviare il dato all'Agenzia delle Entrate ai fini della dichiarazione precompilata.
+- **Note aggiuntive**: campo opzionale per note, con possibilità di nasconderle nella fattura stampata.
+
+**Elenco prestazioni:**
+- Ogni prestazione ha i campi: **Descrizione** (con autocompletamento dalla libreria), **Tipo** di spesa, **Importo** e **aliquota IVA**.
+- Si possono aggiungere più prestazioni cliccando **"Aggiungi"**.
+- Per rimuovere una prestazione, clicca l'icona del **cestino**.
+
+**Totali:**
+- **Totale imponibile**: somma degli importi delle prestazioni.
+- **Totale IVA**: IVA calcolata sulle prestazioni.
+- **Imposta di bollo**: applicata automaticamente quando dovuta (€ 2,00 per importi esenti IVA superiori a € 77,47).
+- **Totale**: somma di imponibile, IVA e imposta di bollo.
+
+### 5. Salvataggio e trasmissione
+
+Dalla modale di creazione/modifica sono disponibili le seguenti azioni:
+
+- **Salva bozza**: salva la fattura come bozza senza trasmetterla, con stato "Da validare".
+- **Salva e stampa**: salva come bozza e genera il PDF della fattura.
+- **Trasmetti fattura**: salva e trasmette la fattura al Sistema TS. Richiede il collegamento al sistema regionale.
+
+<Info>
+  Le fatture in stato "Da validare" o "Errore" possono essere modificate e ritrasmesse.
+</Info>
+
+### 6. Stati della fattura
+
+| Stato | Descrizione |
+|-------|-------------|
+| **Da validare** | Fattura salvata come bozza, non ancora trasmessa |
+| **Inviata** | Fattura trasmessa con successo al Sistema TS |
+| **Errore** | Si è verificato un errore durante la trasmissione (modificabile e ritrasmissibile) |
+| **Rettificata** | Fattura che è stata rettificata |
+| **Annullata** | Fattura annullata |
+
+### 7. Azioni sulle fatture
+
+Dalla lista fatture, per ogni fattura sono disponibili diverse azioni tramite il menu a tre puntini:
+
+- **Stampa**: genera e apre il PDF della fattura.
+- **Duplica e modifica**: crea una nuova fattura copiando i dati dalla fattura selezionata.
+- **Modifica**: modifica una fattura in stato "Da validare" o "Errore".
+- **Trasmetti**: trasmette una fattura in bozza al Sistema TS.
+- **Rettifica**: crea una nota di credito per una fattura già trasmessa.
+- **Annulla**: annulla una fattura trasmessa o rettificata.
+- **Elimina**: elimina una fattura in bozza.
+
+### 8. Trasmissione massiva
+
+È possibile selezionare più fatture in stato "Da validare" o "Errore" e trasmetterle tutte contemporaneamente cliccando il pulsante **"Trasmetti"** che appare nella barra di selezione.
+
+Al termine della trasmissione massiva viene mostrato un riepilogo con l'esito per ciascuna fattura.
+
+### 9. Esportazione
+
+Cliccando il menu **azioni** (tre puntini in alto a destra nella pagina) e selezionando **"Esporta"** è possibile esportare l'elenco delle fatture.
+
+### 10. Intestazione fattura
+
+Cliccando il menu **azioni** e selezionando **"Modifica intestazione"** è possibile personalizzare l'intestazione che appare nelle fatture stampate in PDF.
+
+### 11. Medicina di gruppo
+
+Per gli utenti in **medicina di gruppo**, la sezione fatture presenta alcune differenze:
+
+- È richiesta la selezione del **Medico** di riferimento prima di selezionare il paziente.
+- Il medico selezionato deve avere la **P.IVA** inserita nel proprio profilo e le **prestazioni** configurate nella libreria.
+- La **trasmissione** e la **rettifica** delle fatture sono disponibili solo per il medico titolare, non per la segreteria.
+- La segreteria può creare bozze e stamparle per conto dei medici del gruppo.
