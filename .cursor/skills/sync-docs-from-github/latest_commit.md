@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `7ef735a2503816324ec3eca1ff6eb7e614b4f2e0`
-- **Data:** 2026-03-24 10:17:58 UTC
-- **Autore:** DieBellini
-- **Messaggio:** Merge pull request #9166 from DavinciSalute/feature-sc-117150--bug-master-correggere-la-dicitura-sovrappeso
-- **URL:** https://github.com/DavinciSalute/davinci/commit/7ef735a2503816324ec3eca1ff6eb7e614b4f2e0
+- **SHA:** `922234880732484b573cbd670def9911ecf9def1`
+- **Data:** 2026-03-27 09:15:46 UTC
+- **Autore:** Dav
+- **Messaggio:** feat: inclinic
+- **URL:** https://github.com/DavinciSalute/davinci/commit/922234880732484b573cbd670def9911ecf9def1
