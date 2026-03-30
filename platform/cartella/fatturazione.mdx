@@ -1,5 +1,5 @@
 ---
-title: "Fatturazione Elettronica"
+title: "💳 Fatturazione Elettronica"
 sidebarTitle: "Fatturazione"
 ---
 
@@ -7,7 +7,14 @@ sidebarTitle: "Fatturazione"
 
 La sezione **"Fatture"** permette di creare, gestire e trasmettere fatture elettroniche direttamente da Elty. Le fatture vengono inviate al **Sistema Tessera Sanitaria (STS)** dell'Agenzia delle Entrate.
 
-Per accedere alla sezione Fatture, clicca **"Fatture"** nel menu di navigazione laterale.
+Per accedere alla sezione Fatture, clicca **"Fatture"** in alto a destra.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.15.21.png"
+  alt="Screenshot 2026 03 30 Alle 17 15 21"
+  title="Screenshot 2026 03 30 Alle 17 15 21"
+  className="mx-auto"
+/>
 
 ### 2. Requisiti
 
@@ -20,17 +27,43 @@ Prima di poter creare una fattura è necessario:
   Senza Partita IVA non è possibile creare né trasmettere fatture.
 </Warning>
 
+<img
+  src="/images/Screenshot2026-03-30alle17.16.58.png"
+  alt="Screenshot 2026 03 30 Alle 17 16 58"
+  title="Screenshot 2026 03 30 Alle 17 16 58"
+  className="mx-auto"
+/>
+
 ### 3. Libreria prestazioni
 
-Prima di creare fatture è consigliato configurare la **Libreria prestazioni**, accessibile dal pulsante **"Libreria prestazioni"** nella pagina Fatture.
+Prima di creare fatture bisogna configurare la **Libreria prestazioni**, accessibile dal pulsante **"Libreria prestazioni"** nella pagina Fatture (in alto a destra, a sinistra di "Nuova Fattura").
+
+<img
+  src="/images/Screenshot2026-03-30alle17.18.25.png"
+  alt="Screenshot 2026 03 30 Alle 17 18 25"
+  title="Screenshot 2026 03 30 Alle 17 18 25"
+  className="mx-auto"
+/>
 
 La libreria permette di salvare le prestazioni più frequenti con i relativi dati precompilati (descrizione, tipo di spesa, importo e aliquota IVA), velocizzando la creazione delle fatture successive.
+
+- Clicca **"Aggiungi"** per aggiungere una prestazione.
+- Clicca l'icona a forma di **cestino** per eliminarla.
+- Clicca "Salva" per salvare le modifiche.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.19.19.png"
+  alt="Screenshot 2026 03 30 Alle 17 19 19"
+  title="Screenshot 2026 03 30 Alle 17 19 19"
+  className="mx-auto"
+/>
 
 ### 4. Creazione di una nuova fattura
 
 Clicca **"Nuova Fattura"** per aprire il modulo di creazione. I campi da compilare sono:
 
 **Dati fattura:**
+
 - **Paziente**: seleziona il paziente destinatario dalla lista.
 - **Numero fattura**: viene precompilato automaticamente nel formato **numero/anno** (es. "1/2026"), con il numero progressivo successivo all'ultima fattura dell'anno corrente. È modificabile.
 - **Data di pagamento**: la data in cui è avvenuto il pagamento.
@@ -39,11 +72,13 @@ Clicca **"Nuova Fattura"** per aprire il modulo di creazione. I campi da compila
 - **Note aggiuntive**: campo opzionale per note, con possibilità di nasconderle nella fattura stampata.
 
 **Elenco prestazioni:**
+
 - Ogni prestazione ha i campi: **Descrizione** (con autocompletamento dalla libreria), **Tipo** di spesa, **Importo** e **aliquota IVA**.
 - Si possono aggiungere più prestazioni cliccando **"Aggiungi"**.
 - Per rimuovere una prestazione, clicca l'icona del **cestino**.
 
 **Totali:**
+
 - **Totale imponibile**: somma degli importi delle prestazioni.
 - **Totale IVA**: IVA calcolata sulle prestazioni.
 - **Imposta di bollo**: applicata automaticamente quando dovuta (€ 2,00 per importi esenti IVA superiori a € 77,47).
@@ -64,7 +99,7 @@ Dalla modale di creazione/modifica sono disponibili le seguenti azioni:
 ### 6. Stati della fattura
 
 | Stato | Descrizione |
-|-------|-------------|
+| --- | --- |
 | **Da validare** | Fattura salvata come bozza, non ancora trasmessa |
 | **Inviata** | Fattura trasmessa con successo al Sistema TS |
 | **Errore** | Si è verificato un errore durante la trasmissione (modificabile e ritrasmissibile) |
