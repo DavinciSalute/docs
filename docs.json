@@ -68,7 +68,8 @@
               "platform/cartella/pacchetti-prestazioni",
               "platform/cartella/pai",
               "platform/cartella/fatturazione",
-              "platform/cartella/freenet"
+              "platform/cartella/freenet",
+              "platform/cartella/import-dati-di-cartella"
             ]
           },
           {
