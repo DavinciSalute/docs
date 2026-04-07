@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `922234880732484b573cbd670def9911ecf9def1`
-- **Data:** 2026-03-27 09:15:46 UTC
-- **Autore:** Dav
-- **Messaggio:** feat: inclinic
-- **URL:** https://github.com/DavinciSalute/davinci/commit/922234880732484b573cbd670def9911ecf9def1
+- **SHA:** `d319dc68029ca8869dc121baad3a1c36c5ad0ea5`
+- **Data:** 2026-04-03 09:24:34 UTC
+- **Autore:** DieBellini
+- **Messaggio:** Merge pull request #9202 from DavinciSalute/feature-sc-117638--bug-master-eventi-scomparsi-dal-6-aprile
+- **URL:** https://github.com/DavinciSalute/davinci/commit/d319dc68029ca8869dc121baad3a1c36c5ad0ea5
