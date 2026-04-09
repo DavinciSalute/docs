@@ -1,49 +1,113 @@
 ---
-title: "Fatturazione Elettronica"
-sidebarTitle: "Fatturazione"
+title: "💳 Fatture"
+sidebarTitle: "Fatture"
 ---
 
 ### 1. Introduzione
 
 La sezione **"Fatture"** permette di creare, gestire e trasmettere fatture elettroniche direttamente da Elty. Le fatture vengono inviate al **Sistema Tessera Sanitaria (STS)** dell'Agenzia delle Entrate.
 
-Per accedere alla sezione Fatture, clicca **"Fatture"** nel menu di navigazione laterale.
+Per accedere alla sezione Fatture, clicca **"Fatture"** in alto a destra.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.15.21.png"
+  alt="Screenshot 2026 03 30 Alle 17 15 21"
+  title="Screenshot 2026 03 30 Alle 17 15 21"
+  className="mx-auto"
+/>
 
 ### 2. Requisiti
 
 Prima di poter creare una fattura è necessario:
 
 - Inserire la **Partita IVA (P.IVA)** nel proprio profilo (sezione "Le tue informazioni" nel Profilo).
+
+<img
+  src="/images/Screenshot2026-03-30alle17.16.58.png"
+  alt="Screenshot 2026 03 30 Alle 17 16 58"
+  title="Screenshot 2026 03 30 Alle 17 16 58"
+  className="mx-auto"
+/>
+
 - Se la P.IVA non è presente, al tentativo di creare una fattura verrà mostrato un avviso con la richiesta di inserirla.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.25.57.png"
+  alt="Screenshot 2026 03 30 Alle 17 25 57"
+  title="Screenshot 2026 03 30 Alle 17 25 57"
+  className="mx-auto"
+  style={{ width:"60%",maxWidth:"500px" }}
+/>
 
 <Warning>
   Senza Partita IVA non è possibile creare né trasmettere fatture.
 </Warning>
 
+- È fondamentale inserire le credenziali di accesso utilizzate per i servizi **dell'Agenzia Delle Entrate**.
+  - Si inseriscono cliccando il tuo nome e cognome (in alto a destra), **"Impostazioni e privacy"**, **"Sistema regionale"**: lì troverai la sezione **"Connessione con ADE"**.
+  - Inserisci **Username**, **Password** e **Pincode**.
+  - Clicca **"Connetti"**.
+
 ### 3. Libreria prestazioni
 
-Prima di creare fatture è consigliato configurare la **Libreria prestazioni**, accessibile dal pulsante **"Libreria prestazioni"** nella pagina Fatture.
+Prima di creare fatture bisogna configurare la **Libreria prestazioni**, accessibile dal pulsante **"Libreria prestazioni"** nella pagina Fatture (in alto a destra, a sinistra di "Nuova Fattura").
+
+<img
+  src="/images/Screenshot2026-03-30alle17.18.25.png"
+  alt="Screenshot 2026 03 30 Alle 17 18 25"
+  title="Screenshot 2026 03 30 Alle 17 18 25"
+  className="mx-auto"
+/>
 
 La libreria permette di salvare le prestazioni più frequenti con i relativi dati precompilati (descrizione, tipo di spesa, importo e aliquota IVA), velocizzando la creazione delle fatture successive.
 
+- Clicca **"Aggiungi"** per aggiungere una prestazione.
+- Clicca l'icona a forma di **cestino** per eliminarla.
+- Clicca **"Salva"** per salvare le modifiche.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.19.19.png"
+  alt="Screenshot 2026 03 30 Alle 17 19 19"
+  title="Screenshot 2026 03 30 Alle 17 19 19"
+  className="mx-auto"
+/>
+
 ### 4. Creazione di una nuova fattura
 
-Clicca **"Nuova Fattura"** per aprire il modulo di creazione. I campi da compilare sono:
+Clicca **"Nuova Fattura"** per aprire il modulo di creazione (è a destra di **"Libreria prestazioni"**).
 
 **Dati fattura:**
+
 - **Paziente**: seleziona il paziente destinatario dalla lista.
 - **Numero fattura**: viene precompilato automaticamente nel formato **numero/anno** (es. "1/2026"), con il numero progressivo successivo all'ultima fattura dell'anno corrente. È modificabile.
+- **Protocollo**: generato automaticamente, non si può compilare.
 - **Data di pagamento**: la data in cui è avvenuto il pagamento.
 - **Metodo di pagamento**: Contanti, Carta di credito, Bonifico bancario o Assegno.
-- **Opposizione**: il paziente può richiedere di non inviare il dato all'Agenzia delle Entrate ai fini della dichiarazione precompilata.
 - **Note aggiuntive**: campo opzionale per note, con possibilità di nasconderle nella fattura stampata.
 
+Clicca su **“Il paziente richiede di non inviare il dato all’Agenzia delle Entrate ai fini della predisposizione della dichiarazione precompilata”** se non si vuole trasmettere la fattura all’Agenzia delle Entrate.
+
+<img
+  src="/images/Screenshot2026-03-30alle17.29.50.png"
+  alt="Screenshot 2026 03 30 Alle 17 29 50"
+  className="mx-auto"
+/>
+
 **Elenco prestazioni:**
+
 - Ogni prestazione ha i campi: **Descrizione** (con autocompletamento dalla libreria), **Tipo** di spesa, **Importo** e **aliquota IVA**.
 - Si possono aggiungere più prestazioni cliccando **"Aggiungi"**.
 - Per rimuovere una prestazione, clicca l'icona del **cestino**.
 
+<img
+  src="/images/Screenshot2026-03-31alle09.55.25.png"
+  alt="Screenshot 2026 03 31 Alle 09 55 25"
+  title="Screenshot 2026 03 31 Alle 09 55 25"
+  className="mx-auto"
+/>
+
 **Totali:**
+
 - **Totale imponibile**: somma degli importi delle prestazioni.
 - **Totale IVA**: IVA calcolata sulle prestazioni.
 - **Imposta di bollo**: applicata automaticamente quando dovuta (€ 2,00 per importi esenti IVA superiori a € 77,47).
@@ -64,7 +128,7 @@ Dalla modale di creazione/modifica sono disponibili le seguenti azioni:
 ### 6. Stati della fattura
 
 | Stato | Descrizione |
-|-------|-------------|
+| --- | --- |
 | **Da validare** | Fattura salvata come bozza, non ancora trasmessa |
 | **Inviata** | Fattura trasmessa con successo al Sistema TS |
 | **Errore** | Si è verificato un errore durante la trasmissione (modificabile e ritrasmissibile) |
@@ -73,19 +137,36 @@ Dalla modale di creazione/modifica sono disponibili le seguenti azioni:
 
 ### 7. Azioni sulle fatture
 
-Dalla lista fatture, per ogni fattura sono disponibili diverse azioni tramite il menu a tre puntini:
+Dalla lista fatture, per ogni fattura sono disponibili diverse **azioni**:
+
+- **Trasmetti**: tasto blu a destra di ogni fattura, trasmette una fattura in bozza al Sistema TS.
+
+Tramite il **menu a tre puntini**:
 
 - **Stampa**: genera e apre il PDF della fattura.
 - **Duplica e modifica**: crea una nuova fattura copiando i dati dalla fattura selezionata.
 - **Modifica**: modifica una fattura in stato "Da validare" o "Errore".
-- **Trasmetti**: trasmette una fattura in bozza al Sistema TS.
 - **Rettifica**: crea una nota di credito per una fattura già trasmessa.
 - **Annulla**: annulla una fattura trasmessa o rettificata.
 - **Elimina**: elimina una fattura in bozza.
 
+<img
+  src="/images/Screenshot2026-03-31alle09.58.04.png"
+  alt="Screenshot 2026 03 31 Alle 09 58 04"
+  title="Screenshot 2026 03 31 Alle 09 58 04"
+  className="mx-auto"
+/>
+
 ### 8. Trasmissione massiva
 
 È possibile selezionare più fatture in stato "Da validare" o "Errore" e trasmetterle tutte contemporaneamente cliccando il pulsante **"Trasmetti"** che appare nella barra di selezione.
+
+<img
+  src="/images/Screenshot2026-03-31alle10.00.52.png"
+  alt="Screenshot 2026 03 31 Alle 10 00 52"
+  title="Screenshot 2026 03 31 Alle 10 00 52"
+  className="mx-auto"
+/>
 
 Al termine della trasmissione massiva viene mostrato un riepilogo con l'esito per ciascuna fattura.
 
@@ -93,9 +174,35 @@ Al termine della trasmissione massiva viene mostrato un riepilogo con l'esito pe
 
 Cliccando il menu **azioni** (tre puntini in alto a destra nella pagina) e selezionando **"Esporta"** è possibile esportare l'elenco delle fatture.
 
+<img
+  src="/images/Screenshot2026-03-31alle10.02.08.png"
+  alt="Screenshot 2026 03 31 Alle 10 02 08"
+  title="Screenshot 2026 03 31 Alle 10 02 08"
+  className="mx-auto"
+/>
+
+L'esportazione è in .CSV, ci sono due opzioni:
+
+- **Tutte** le fatture presenti.
+- Fatture in specifico **intervallo di tempo**.
+
+<img
+  src="/images/Screenshot2026-03-31alle10.02.47.png"
+  alt="Screenshot 2026 03 31 Alle 10 02 47"
+  title="Screenshot 2026 03 31 Alle 10 02 47"
+  className="mx-auto"
+/>
+
 ### 10. Intestazione fattura
 
 Cliccando il menu **azioni** e selezionando **"Modifica intestazione"** è possibile personalizzare l'intestazione che appare nelle fatture stampate in PDF.
+
+<img
+  src="/images/Screenshot2026-03-31alle10.04.43.png"
+  alt="Screenshot 2026 03 31 Alle 10 04 43"
+  title="Screenshot 2026 03 31 Alle 10 04 43"
+  className="mx-auto"
+/>
 
 ### 11. Medicina di gruppo
 
@@ -104,4 +211,11 @@ Per gli utenti in **medicina di gruppo**, la sezione fatture presenta alcune dif
 - È richiesta la selezione del **Medico** di riferimento prima di selezionare il paziente.
 - Il medico selezionato deve avere la **P.IVA** inserita nel proprio profilo e le **prestazioni** configurate nella libreria.
 - La **trasmissione** e la **rettifica** delle fatture sono disponibili solo per il medico titolare, non per la segreteria.
-- La segreteria può creare bozze e stamparle per conto dei medici del gruppo.
+- La segreteria **può creare bozze** e stamparle per conto dei medici del gruppo.
+
+<img
+  src="/images/Screenshot2026-03-31alle10.22.16.png"
+  alt="Screenshot 2026 03 31 Alle 10 22 16"
+  title="Screenshot 2026 03 31 Alle 10 22 16"
+  className="mx-auto"
+/>
