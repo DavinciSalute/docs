@@ -70,6 +70,7 @@ La scheda paziente è composta da:
 - Se clicchi di nuovo sul nome e cognome del paziente potrai visualizzare la Scheda anagrafica
   - Sulla sinistra troverai tutti i dati del paziente scaricati dal sistema regionale
   - In alcune regioni è possibile selezionare il riquadro “Non usare questo numero” e “Non usare questa email” per poter evitare di usare quel dato in caso di avvisi, certificati ecc.
+  - È possibile modificare il **regime** del paziente (SSN, SSN Temporaneo, UE, Straniero Temporaneamente Presente, Navigante SASN, ecc.) direttamente dalla scheda anagrafica.
   - Nel caso in cui il paziente non è un tuo assistito (ad esempio è un paziente AMT) allora per scaricare le esenzioni bisognerà procedere in uno di questi due modi:
     - Se si è connessi al sistema regionale tramite firma remota allora si inseriranno nella scheda anagrafica (sotto i dati scaricati dal sistema regionale) le Ultime cinque cifre del numero di identificazione della tessera sanitaria del paziente → Clicca Scarica esenzioni da FSE
     - Se si è connessi al sistema regionale tramite smart card allora servirà un secondo lettore in cui inserire la tessera sanitaria del paziente, dopodiché bisognerà sincronizzare i dati della scheda paziente con il sistema regionale (Scheda paziente → due frecce a cerchio in alto a destra)
@@ -336,3 +337,9 @@ Per modificare lo stile di vita clicca la matita all’angolo destro del box, pu
   alt="Screenshot 2025-04-12 alle 01.11.29.png"
   className="mx-auto"
 />
+
+### 14. Pazienti con regimi particolari (STP, UE, Naviganti SASN)
+
+- Per i pazienti con regime particolare (**STP** – Straniero Temporaneamente Presente, **UE**, **Naviganti SASN**) la gestione delle prescrizioni tiene conto delle specificità anagrafiche e amministrative.
+- In fase di prescrizione per questi pazienti, i campi **ASL** e **Distretto** vengono gestiti automaticamente dal sistema per evitare errori di invio al sistema regionale.
+- Per i **pazienti naviganti (SASN)** è possibile inserire i dati specifici come il **numero tessera SASN** e la **società di navigazione** nella scheda anagrafica, nella sezione dedicata alle opzioni per stranieri e naviganti.
