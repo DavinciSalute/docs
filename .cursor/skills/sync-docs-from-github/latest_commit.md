@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `922234880732484b573cbd670def9911ecf9def1`
-- **Data:** 2026-03-27 09:15:46 UTC
-- **Autore:** Dav
-- **Messaggio:** feat: inclinic
-- **URL:** https://github.com/DavinciSalute/davinci/commit/922234880732484b573cbd670def9911ecf9def1
+- **SHA:** `bc1f67e0a030bc684180d6ecbfe73d3b354bd094`
+- **Data:** 2026-04-08 09:08:26 UTC
+- **Autore:** Christian
+- **Messaggio:** Merge pull request #9170 from DavinciSalute/feature-sc-117247-migliorie-autocomplete-fatturazione
+- **URL:** https://github.com/DavinciSalute/davinci/commit/bc1f67e0a030bc684180d6ecbfe73d3b354bd094
