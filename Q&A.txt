@@ -52,6 +52,7 @@ Buongiorno! La schermata che richiede numero di telefono ed email serve per racc
 
 Ecco come comportarsi:
 
+# CONTRADDIZIONE: qui si dice che email e telefono sono "campi richiesti", ma alla riga ~695 si dice che si può salvare con il solo cellulare e l'email è facoltativa. Verificare quale sia il comportamento corretto.
 1. Quando inserisci un nuovo paziente, compila i campi richiesti (numero di telefono ed email). Queste informazioni sono utili per tutte le comunicazioni future.
 2. Per i pazienti già inseriti, se i dati sono già presenti, il sistema ti porterà direttamente alla pagina delle prenotazioni senza richiedere ulteriori azioni.
 3. Se per qualche paziente mancano i dati di contatto, ti verrà richiesto di inserirli quando necessario. Se non hai subito queste informazioni, puoi comunque proseguire e aggiornarle in un secondo momento.
@@ -92,6 +93,7 @@ Buongiorno! Certo, è possibile scaricare i file che i pazienti inviano tramite 
 3. Individua il messaggio con l'allegato (ad esempio, un documento o un'immagine).
 4. Clicca sull'allegato: si aprirà la schermata per scaricare il file
 5. Il file verrà salvato sul tuo computer o dispositivo.
+# CONTRADDIZIONE: qui si dice tasto destro → "Salva immagine con nome" per le immagini, ma alla riga ~1979 si dice "clicca sull'allegato e seleziona Salva con nome" per i file dalla chat. Verificare la procedura corretta per ogni tipo di allegato.
 Se invece è un immagine bisogna cliccare con il tasto destro e selezionare "Salva immagine con nome"
 Se hai bisogno di ulteriori dettagli o incontri difficoltà in uno di questi passaggi, fammi sapere e sarò felice di aiutarti! Buona giornata! 😊
 
@@ -692,6 +694,7 @@ Risposta:
 Buongiorno! Grazie mille per il feedback, lo riporto agli sviluppatori così che possano valutarlo.
 
 Se vuoi continuare a lavorare senza inserire le email:
+# CONTRADDIZIONE: qui si dice che l'email è facoltativa, ma alla riga ~55 si dice che telefono ed email sono "campi richiesti". Verificare quale sia il comportamento corretto.
 - Puoi salvare i pazienti con il solo numero di cellulare.
 - Le comunicazioni arriveranno via SMS oppure in app (se il paziente la usa).
 - L'email rimane facoltativa: serve solo per ampliare la reperibilità delle comunicazioni e ridurre i mancati recapiti, ma non è obbligatoria per proseguire.
@@ -992,6 +995,7 @@ Buongiorno, se per un farmaco non è più previsto un Piano Terapeutico ma il pa
 - Verifica se compare un PTE attivo relativo al farmaco.
 
 2) Se esiste un PTE attivo
+# CONTRADDIZIONE: questa procedura (prima senza PT, poi PTE solo se richiesto) contrasta con la riga ~8873 dove si dice direttamente "seleziona il PTE". Verificare quale sia la procedura corretta.
 - Ricrea la ricetta da zero senza selezionare alcun PT. Se Elty propone automaticamente un PT, svuota il campo PT prima dell'invio.
 - Se compare un errore e all'invio viene richiesto il PT, indica il PTE attivo (solo se effettivamente riferito al farmaco che stai prescrivendo).
 
@@ -1021,6 +1025,7 @@ Trulicity non necessita di un vero e proprio piano terapeutico vincolante per la
 Risposta:
 Buongiorno! Grazie mille per il feedback.
 
+# CONTRADDIZIONE: questa procedura (senza nota + Bianca→Rossa, poi senza PT) contrasta con la riga ~8873 dove si dice direttamente "seleziona il PTE". Verificare quale sia la procedura corretta.
 Per prescrivere questi farmaci senza Piano Terapeutico ti consiglio di prescriverli senza nota e poi cambiare la ricetta da Bianca dem a Rossa dem.
 
 Se non funzionasse ti consiglio questi passaggi:
@@ -1372,6 +1377,7 @@ Nel frattempo segui questi passaggi in ordine:
 - Assicurati che lettore e tessera siano inseriti e il Connector aperto.
 - Chiudi e riapri il browser, poi prova di nuovo l'accesso SISS.
 
+# CONTRADDIZIONE: qui si dice solo "Login Cloud Regionale" (senza fare prima logout), ma alla riga ~4427 si dice "Logout Cloud Regionale" e poi "Login Cloud Regionale". Verificare se il logout preventivo è necessario.
 4) Se usi firma remota (SISS Cloud)
 - Esci e rientra: clicca sul tuo nome in alto a destra -> "Login Cloud Regionale".
 - Dopo il login, riprova a validare.
@@ -2356,7 +2362,8 @@ Una volta che mi fornirai questi dati, creeremo il profilo.
 2.  Se il profilo infermieristico esiste già:
 Assicurati che siano stati eseguiti questi passaggi:
 -   Dal tuo profilo medico: Vai su Gestione Servizi (cliccando il tuo nome in alto a destra) e assicurati che l'interruttore accanto a Prestazioni infermieristiche sia attivo. Questo permette ai tuoi pazienti di vedere l'agenda dell'infermiera.
--   Dal profilo dell'infermiera/e: L'infermiera/e deve accedere al suo profilo e seguire gli stessi passaggi descritti nel "Caso 1" per creare la prestazione vaccinale e impostare le disponibilità visibili ai pazienti nella sua agenda. L'unica differenza è che gli orari devono essere "Visibile ai pazienti della medicina di gruppo"
+-   Dal profilo dell'infermiera/e: L'infermiera/e deve accedere al suo profilo e seguire gli stessi passaggi descritti nel "Caso 1" per creare la prestazione vaccinale e impostare le disponibilità visibili ai pazienti nella sua agenda. # CONTRADDIZIONE: qui si dice "Visibile ai pazienti della medicina di gruppo" ma alle righe ~1319 e ~1898 si dice solo "Visibile ai pazienti". Verificare il nome esatto dell'opzione nell'UI.
+L'unica differenza è che gli orari devono essere "Visibile ai pazienti della medicina di gruppo"
 
 Spero che queste indicazioni siano chiare 😊
 
@@ -2458,6 +2465,7 @@ Ecco come accedere da iPad:
 
 Se hai bisogno di utilizzare il Davinci Connector per funzioni specifiche (come la stampa di ricette), dovrai farlo da un computer Windows o Mac.
 
+# CONTRADDIZIONE: qui la sezione si chiama "Elabora più tardi", ma alla riga ~8222 si chiama "Da elaborare". Verificare il nome corretto nell'UI.
 Volendo, le ricette cartacee possono essere spostate in "Elabora più tardi" e poi stampate massivamente appena si ha accesso al PC.
 
 Da mobile in ogni caso potrai elaborare le ricette dematerializzate (previo collegamento al sistema regionale con firma remota).
@@ -2529,6 +2537,7 @@ Buongiorno, segnalo che non si riesce a prescrivere nulla.
 Aprendo la cartella del paziente esce la scritta "qualcosa è andato storto" e non è possibile visualizzare nè i farmaci in terapia nè cercare farmaci da inserite. Grazie per l'attenzione
 
 Risposta:
+# CONTRADDIZIONE: qui la causa è attribuita al "sistema regionale" con sequenza Profilo/regione → cache → portale regionale. Alla riga ~4724 si dice "potrebbero esserci varie motivazioni" con sequenza cache → URL → screenshot. Alla riga ~7361 si attribuisce ancora al sistema regionale ma si nota che funzionando in incognito il problema potrebbe essere locale (cache/cookie). Le tre diagnosi e sequenze di triage non sono allineate. Verificare e unificare.
 Buongiorno! Quando compare il messaggio "qualcosa è andato storto", di solito si tratta di una temporanea difficoltà di comunicazione con il sistema regionale.
 
 Ti suggerisco di seguire questi passaggi:
@@ -3474,6 +3483,7 @@ Appena mi darai le informazioni richieste potremo approfondire la questione 😊
 ---
 
 Domanda:
+# CONTRADDIZIONE: qui si tratta Elty come "app per i medici" senza correggere, ma alle righe ~3454 e ~9127 si chiarisce che Elty per i medici è una webapp da browser (davinci.elty.it), non un'app da scaricare. Verificare e allineare.
 Non riesco a usare l'app per i medici da mobile inoltre da ieri non riesco a scaricare alcuni referti
 
 Risposta:
@@ -3507,6 +3517,7 @@ Buongiorno!
 
 Per bloccare l'agenda nei giorni prefestivi, puoi creare un evento seguendo questi passaggi:
 
+# CONTRADDIZIONE: qui si dice Agenda → Pianifica → "Nuovo evento", ma alla riga ~3801 si dice di cliccare sul giorno → "Crea evento". Verificare se sono due percorsi equivalenti o se uno è obsoleto.
 1. Vai in "Agenda".
 2. Clicca su "Pianifica" che trovi sulla sinistra.
 3. Seleziona "Nuovo evento".
@@ -3793,6 +3804,7 @@ Per gestire le chiusure future, puoi:
 - Inserire di nuovo le disponibilità cliccando "Non mostrare disponibilità nei festivi"
 
 Altrimenti puoi creare un evento per bloccare l'intera giornata. Ecco come fare:
+# CONTRADDIZIONE: qui si dice di cliccare sul giorno → "Crea evento", ma alla riga ~3515 si dice Agenda → Pianifica → "Nuovo evento". Verificare se sono due percorsi equivalenti o se uno è obsoleto.
 1. Vai su Agenda e clicca sul giorno che vuoi rendere non disponibile.
 2. Seleziona "Crea evento".
 3. Inserisci un titolo, ad esempio "Chiusura festività".
@@ -4414,6 +4426,7 @@ Nel frattempo, ti chiedo di seguire questi passaggi in ordine:
 
 3) Se usi Smart Card
 - Assicurati che lettore e tessera siano inseriti e il Davinci Connector aperto.
+# CONTRADDIZIONE: qui si dice di fare Logout e poi Login Cloud Regionale, ma alla riga ~1382 si dice solo "Login Cloud Regionale" senza il logout. Verificare se il logout preventivo è necessario.
 - Chiudi e riapri il browser, poi prova di nuovo l'accesso SISS (cliccando il tuo nome e cognome in alto a destra → Logout Cloud Regionale e poi Login Cloud Regionale).
 
 4) Se usi firma remota (SISS Cloud)
@@ -4712,6 +4725,7 @@ Potete aiutarci?
 Risposta:
 Buongiorno,
 
+# CONTRADDIZIONE: qui si dice "varie motivazioni" con sequenza cache → URL → screenshot, ma alla riga ~2538 si attribuisce al "sistema regionale" con sequenza Profilo/regione → cache → portale regionale. Le sequenze di triage non sono allineate. Verificare e unificare.
 quando compare il messaggio "qualcosa è andato storto", potrebbero esserci varie motivazioni, in quale momento o dopo quale azione compare questo avviso?
 
 Ecco alcuni passaggi che l'infermiera può seguire per risolvere la questione:
@@ -5061,7 +5075,8 @@ Buongiorno,
 
 la procedura che hai seguito è quella corretta. L'inserimento manuale dei parametri è possibile per qualsiasi tipo di referto che carichi, incluse le immagini.
 
-La funzionalità di trascrizione automatica tramite intelligenza artificiale, a cui probabilmente ti riferisci, è al momento sospesa per manutenzione e migliorie. Per il momento possibile la trascrizione automatica dei parametri sui referti in formato CDA2 in Lombardia e in Toscana ma non nelle altre regioni.
+La funzionalità di trascrizione automatica tramite intelligenza artificiale, a cui probabilmente ti riferisci, è al momento sospesa per manutenzione e migliorie. # CONTRADDIZIONE: qui si aggiunge un vincolo regionale (Lombardia e Toscana), ma alla riga ~5858 si dice solo "funziona con CDA2" senza specificare regioni. Verificare e allineare.
+Per il momento possibile la trascrizione automatica dei parametri sui referti in formato CDA2 in Lombardia e in Toscana ma non nelle altre regioni.
 
 Quindi al momento è normale procedere con l'inserimento manuale dei valori dalla sezione Parametri 😊
 
@@ -5847,6 +5862,7 @@ Buongiorno non riesco a convertire  gli esami ematici con AI poiché mi dice NON
 Risposta:
 Buongiorno!
 
+# CONTRADDIZIONE: qui si dice che la trascrizione funziona "solo con CDA2" senza vincoli regionali, ma alla riga ~5072 si dice che funziona "in Lombardia e in Toscana ma non nelle altre regioni". Inoltre alla riga ~6205 si spiega che anche con CDA2 può comparire "Trascrizione non riuscita" se manca la transcodifica. Verificare e allineare.
 Il messaggio che vedi si riferisce al formato CDA2, che è un tipo specifico di referto digitale strutturato. La trascrizione automatica attualmente funziona solo con i referti in questo formato.
 
 Al momento il servizio di trascrizione automatica con l'intelligenza artificiale è stato temporaneamente sospeso per manutenzione e per implementare alcune migliorie, quindi è normale che tu non riesca a usarlo.
@@ -8209,6 +8225,7 @@ Buongiorno!
 
 Grazie mille per il feedback, lo riporto agli sviluppatori così che possano valutare l'implementazione di una funzione per stampare massivamente le ricette selezionate dall'archivio.
 
+# CONTRADDIZIONE: qui la sezione si chiama "Da elaborare", ma alla riga ~2472 si chiama "Elabora più tardi". Verificare il nome corretto nell'UI.
 Per il momento posso consigliare di mettere le cartacee in "Da elaborare" (così da stamparle massivamente in un unico momento) e per le dematerializzate procedere tramite l'archivio, cliccando i tre puntini verticali "Azioni", "Stampa di nuovo".
 Aggiungo che si possono stampare le dematerializzate massivamente subito dopo la loro elaborazione direttamente dal modale di riepilogo 😊
 
@@ -8588,6 +8605,7 @@ Risposta:
 Buongiorno,
 
 questo errore si verifica perché i campi "Residenza" e "Domicilio" si aggiornano in automatico con i dati del sistema regionale.
+# CONTRADDIZIONE: qui si suggerisce di risolvere l'errore indirizzo con la sincronizzazione, ma alle righe ~959 e ~1105 si dice che la soluzione stabile è usare "indirizzo alternativo" con "Utilizza indirizzo alternativo come predefinito" perché la sincronizzazione riporta i dati regionali. Verificare quale sia la procedura corretta.
 Se questo non dovesse accadere le consiglio di utilizzare l'icona della sincronizzazione presente in scheda paziente per forzare questo aggiornamento.
 
 In questo modo, per le prossime prescrizioni non ci saranno errori. Fammi sapere se riesci a risolvere 😊
@@ -8870,6 +8888,7 @@ Per risolvere, ti consiglio di seguire questi passaggi:
 
 1. Sincronizza i Piani Terapeutici del paziente. Vai nella sua scheda, sezione Piani Terapeutici, e clicca su “Scarica Elenco Piani Terapeutici”.
 2. Verifica se compare un PTE attivo. Se è presente, il sistema darà priorità a quello, ignorando il tuo PT cartaceo.
+# CONTRADDIZIONE: qui si dice di selezionare direttamente il PTE, ma nelle righe ~995 e ~1024 si dice prima di provare senza PT e usare il PTE solo se richiesto. Verificare quale sia la procedura corretta.
 3. Ricrea la ricetta da zero. Vai in Ricette e crea una nuova prescrizione e seleziona il PTE.
 
 Fammi sapere se risolvi 😊
