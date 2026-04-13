@@ -38,9 +38,8 @@ Buongiorno! Procedo io con le modifiche. Per completezza mi confermi questi punt
 - Cognome: Fichera
 - Rimozione della dicitura "D'arme" dal nome
 
-Appena mi confermi, applico subito le variazioni. Se vuoi posso renderti coordinatrice del tuo gruppo di lavoro, così che la prossima potrai eliminare un membro dal gruppo in autonomia:
-
-Andando su gestione servizi troverai un cestino accanto ad ogni nome che ti consentirà di farlo 😊
+# MODIFICATO: la rimozione membri dal gruppo di lavoro va fatta tramite il supporto (Contattaci), non c'è un cestino in Gestione Servizi
+Appena mi confermi, applico subito le variazioni. Per future modifiche al gruppo di lavoro (aggiunta o rimozione di membri), puoi contattarci tramite il pulsante "Contattaci" in Gestione Servizi e provvederemo noi 😊
 
 ---
 
@@ -483,7 +482,8 @@ Domanda:
 suggerimento per il prossimo "major update": possibilitià di avere il comando "continua" per riprendere i dati di un certificato di inizio malattia e non doverlo riscrivere da capo in caso di continuazione di malattia.
 
 Risposta:
-Buongiorno! Grazie mille per il suggerimento, lo riporto agli sviluppatori così che possano valutare l'implementazione del comando "continua" per riprendere i dati del certificato iniziale senza doverlo riscrivere da zero 😊
+# MODIFICATO: la funzionalità "Duplica e modifica" è già disponibile per i certificati
+Buongiorno! Questa funzionalità è già disponibile: puoi usare l'opzione "Duplica e modifica" dal menu a tre puntini sul certificato precedente. In questo modo verrà creata una nuova bozza con i dati precompilati (inclusa la reperibilità) che potrai modificare e ritrasmettere senza riscrivere tutto da zero 😊
 
 ---
 
@@ -1410,7 +1410,8 @@ Domanda:
 ciao se possibile vorrei eliminare sto referto che ho allegato per errore, anche se nn l'ho approvato e archiviato, compare cmq nella sezione diario. si può rimuovere per fav? grazie
 
 Risposta:
-Buongiorno! Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE, condivido il feedback con gli sviluppatori così che possano valutare questa miglioria 😊
+# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
+Buongiorno! I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire. Per questo motivo, in molti casi conviene tenerli in cartella. Se vuoi comunque procedere con l'eliminazione, comunicaci nome, cognome e CF del paziente e il referto da rimuovere 😊
 
 ---
 
@@ -1419,7 +1420,8 @@ non ho allegato screenshot con i referti (divebtati due nel frattempo) che avrei
 grazie
 
 Risposta:
-Buongiorno! Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE, condivido il feedback con gli sviluppatori così che possano valutare questa miglioria 😊
+# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
+Buongiorno! I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire, quindi in molti casi conviene tenerli in cartella. Se vuoi comunque procedere, comunicaci il CF della paziente Scialabba Marianna e i referti da rimuovere 😊
 
 ---
 
@@ -1790,9 +1792,10 @@ Buongiorno, quando la stampa dà errore significa che non si è cliccato "Consen
 
 Alla comparsa del popup va necessariamente cliccato "Consenti".
 
-Se è stato negato il consenso si può rimediare cliccando il tasto a sinistra dell'indirizzo "davinci.elty.it" (ha l'icona formata da due piccole righe orizzontali che hanno alle loro estremità dei piccoli cerchi). Si possono vedere tutte queste informazioni all'interno della guida consultabile sul nostro portale (sezione "Ho un "Errore nella stampa"):
+Se è stato negato il consenso si può rimediare cliccando il tasto a sinistra dell'indirizzo "davinci.elty.it" (ha l'icona formata da due piccole righe orizzontali che hanno alle loro estremità dei piccoli cerchi). # MODIFICATO: link aggiornato alla documentazione ufficiale al posto del vecchio link Notion
+Si possono vedere tutte queste informazioni all'interno della guida ufficiale sulla documentazione Elty (sezione "Davinci Connector e stampa"):
 
-https://davincisalute.notion.site/Configurazione-stampante-3cd492c2e8464a5697fe962cafa5651d
+https://docs.elty.it/platform/altro/davinci-connector-stampa
 
 Se con questo passaggio non si è risolto allora si può procedere a una verifica del Connector:
 
@@ -3597,7 +3600,8 @@ buongiorno,come devo fare per trovare un pz con il CF?
 Risposta:
 Buongiorno!
 
-Attualmente non è integrata la ricerca per Codice Fiscale, riporto la miglioria agli sviluppatori, se ci dici il CF possiamo recuperarti noi il nominativo del paziente 😊
+# MODIFICATO: la ricerca per Codice Fiscale è ora disponibile
+Puoi cercare un paziente tramite Codice Fiscale usando la barra di ricerca nella sezione "Pazienti" oppure la lente di ricerca in alto a destra. Basta inserire il CF e il sistema troverà il paziente corrispondente 😊
 
 ---
 
@@ -4035,9 +4039,10 @@ ciao ho bisogno di eliminare questo referto in mirra antonella essendo di un alt
 Risposta:
 Buongiorno!
 
-Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE. Condivido il feedback con gli sviluppatori così che possano valutare questa miglioria.
+# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
+I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire, quindi in molti casi conviene tenerli in cartella.
 
-Se il referto invece è stato caricato manualmente o inviato tramite app si potrà eliminare cliccando i tre puntini verticali (tasto azione) e selezionando “Elimina” (sia dalla sezione “Referti” generica che dalla sezione “Referti” della scheda paziente). 😊
+Se il referto invece è stato caricato manualmente o inviato tramite app si potrà eliminare cliccando i tre puntini verticali (tasto azione) e selezionando "Elimina" (sia dalla sezione "Referti" generica che dalla sezione "Referti" della scheda paziente). 😊
 
 ---
 
@@ -4075,11 +4080,10 @@ grazie mille
 Risposta:
 Buongiorno!
 
-Attualmente la ricerca è tramite Nome o Cognome, la ricerca tramite Codice fiscale, email e numero di telefono non è stata ancora integrata. 
+# MODIFICATO: la ricerca per Codice Fiscale è ora disponibile (email e telefono non ancora integrati)
+Puoi cercare un paziente tramite Nome, Cognome o Codice Fiscale usando la barra di ricerca nella sezione "Pazienti" o la lente di ricerca in alto a destra.
 
-In questi casi ci puoi fornire il numero di telefono del paziente (o email o CF) e noi potremo dirti il nome e cognome. 
-
-Riporto la miglioria agli sviluppatori, appena mi invierai il numero di telefono potrò dirti chi è il paziente 😊
+La ricerca tramite email e numero di telefono non è ancora disponibile. In questi casi ci puoi fornire il numero di telefono o l'email del paziente e noi potremo dirti il nome e cognome 😊
 
 ---
 
@@ -4103,7 +4107,15 @@ Buongiorno, volevo sapere se con questo gestionale è possibile l'emissione di f
 Risposta:
 Buongiorno! 
 
-Attualmente non abbiamo ancora integrato un sistema di fatturazione, posso però anticiparti che i nostri sviluppatori ci stanno lavorando e sarà una miglioria che verrà introdotta in Elty in futuro 😊
+# MODIFICATO: la fatturazione è ora integrata in Elty (vedi documentazione "Fatture")
+Sì, è possibile emettere fatture direttamente da Elty! La sezione "Fatture" permette di creare, gestire e trasmettere fatture elettroniche verso il Sistema Tessera Sanitaria (STS) dell'Agenzia delle Entrate.
+
+Per accedere, clicca "Fatture" in alto a destra. Prima di creare una fattura è necessario inserire la Partita IVA nel proprio profilo (sezione "Le tue informazioni").
+
+Per la trasmissione:
+- Clicca "Trasmetti fattura" per inviarla al Sistema TS
+- Per la connessione con l'Agenzia delle Entrate, configura Username, Password e Pincode nelle impostazioni
+- È disponibile anche la trasmissione massiva per inviare più fatture contemporaneamente 😊
 
 ---
 
@@ -4259,7 +4271,15 @@ ciao, sarà implementata la possibilità di redigere una fattura ad un paziente 
 Risposta:
 Buongiorno!
 
-Attualmente non abbiamo ancora integrato un sistema di fatturazione, posso però anticiparti che i nostri sviluppatori ci stanno lavorando e sarà una miglioria che verrà introdotta in Elty in futuro 😊
+# MODIFICATO: la fatturazione è ora integrata in Elty (vedi documentazione "Fatture")
+Sì, è possibile redigere fatture e inviarle al MEF direttamente da Elty! La sezione "Fatture" permette di creare, gestire e trasmettere fatture elettroniche verso il Sistema Tessera Sanitaria (STS) dell'Agenzia delle Entrate.
+
+Per accedere, clicca "Fatture" in alto a destra. Prima di creare una fattura è necessario inserire la Partita IVA nel proprio profilo.
+
+Per la trasmissione al Sistema TS e ADE:
+- Configura le credenziali ADE in Impostazioni (Username, Password e Pincode)
+- Clicca "Trasmetti fattura" per inviarla
+- È possibile scegliere se inviare o meno il dato ai fini della dichiarazione precompilata 😊
 
 ---
 
@@ -4507,7 +4527,8 @@ La funzione di ristampa è disponibile nell'Archivio delle ricette. Per stampare
 - Clicca sui tre puntini verticali che trovi sulla destra della riga della ricetta.
 - Seleziona l'opzione "Stampa di nuovo".
 
-Verifica che il SISS Connector sia aperto sul tuo computer e configurato correttamente con la stampante che vuoi usare.
+# MODIFICATO: il nome ufficiale è "Davinci Connector" (in alcuni casi chiamato SISS Connector)
+Verifica che il Davinci Connector sia aperto sul tuo computer e configurato correttamente con la stampante che vuoi usare.
 Ricordo di controllare le impostazioni del browser:
 - Clicca sull'icona a sinistra dell'indirizzo [davinci.elty.it](http://davinci.elty.it/).
 - Assicurati che l'opzione "Accesso ai dispositivi della rete locale" sia impostata su "Consenti".
@@ -7293,7 +7314,8 @@ buongiorno,suggerisco la possibilità di mandare via email il certificato di mal
 Risposta:
 Buon pomeriggio!
 
-Grazie mille per il feedback, lo riporto agli sviluppatori così che possano valutare l'implementazione di questa miglioria 😊
+# MODIFICATO: l'invio dei certificati via email è ora sempre abilitato (vedi Gestione Servizi § 7b)
+L'invio dei certificati in formato PDF tramite e-mail è già disponibile ed è sempre abilitato per tutti i piani. Quando viene creato un certificato, il PDF viene automaticamente inviato al paziente via e-mail secondo le impostazioni di modalità di invio configurate (invio in chiaro o invio protetto) 😊
 
 ---
 
@@ -8150,7 +8172,8 @@ grazie per le segnalazioni, le analizziamo punto per punto.
 
 Per il paziente che non visualizza la notifica del certificato, è probabile che non abbia le notifiche push attivate sull'applicazione Elty. Potresti suggerirgli di controllare le impostazioni del suo telefono e dell'app. Il certificato dovrebbe comunque essere visibile per lui all'interno della sezione dedicata.
 
-Riguardo la possibilità di inviare i certificati via email l'abbiamo rilasciata da poco e provvediamo subito ad attivartela.
+# MODIFICATO: l'invio certificati via email è sempre abilitato, non richiede attivazione manuale
+Riguardo la possibilità di inviare i certificati via email: questa funzionalità è sempre abilitata per tutti i piani. Quando viene creato un certificato, il PDF viene automaticamente inviato al paziente via e-mail. Non è necessaria alcuna attivazione da parte nostra.
 
 Per l'errore che riscontri con il pulsante "prolunga", per poterti aiutare avrei bisogno di sapere il nome e cognome del paziente con cui si verifica e, se possibile, il messaggio di errore esatto che compare.
 
@@ -8413,7 +8436,8 @@ Salve, desidero sapere se, con la nuova funzionalità “fattura”, queste verr
 Risposta:
 Buongiorno,
 
-sì, le fatture verranno trasmesse automaticamente al sistema TS e all'Agenzia Delle Entrate 😊
+# MODIFICATO: la trasmissione non è "automatica", richiede azione manuale e configurazione ADE
+sì, le fatture vengono trasmesse al Sistema TS e all'Agenzia delle Entrate direttamente da Elty. La trasmissione avviene cliccando "Trasmetti fattura" (o tramite trasmissione massiva). Prima è necessario configurare le credenziali ADE nelle impostazioni (Username, Password e Pincode). È inoltre possibile scegliere se inviare o meno il dato ai fini della dichiarazione precompilata 😊
 
 ---
 
@@ -9104,8 +9128,9 @@ Buongiorno!
 Elty è una webapp, per usarla all'interno di un altro dispositivo i passaggi sono questi:
 - Apri un browser dall'altra postazione (es. Google Chrome, Safari, Edge ecc.)
 - Accedi a https://davinci.elty.it/ inserendo la tua email e password (se la non la ricordi puoi cliccare "Password dimenticata"
+# MODIFICATO: link aggiornato alla documentazione ufficiale al posto del vecchio link Notion
 - Se devi stampare ricette bisogna scaricare il Davinci Connector, tutte le informazioni le trovi qui:
-https://davincisalute.notion.site/Configurazione-stampante-3cd492c2e8464a5697fe962cafa5651d
+https://docs.elty.it/platform/altro/davinci-connector-stampa
 
 In ogni caso per Windows il link è:
 https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link
