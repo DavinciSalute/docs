@@ -52,7 +52,6 @@ Buongiorno! La schermata che richiede numero di telefono ed email serve per racc
 
 Ecco come comportarsi:
 
-# CONTRADDIZIONE: qui si dice che email e telefono sono "campi richiesti", ma alla riga ~695 si dice che si può salvare con il solo cellulare e l'email è facoltativa. Verificare quale sia il comportamento corretto.
 1. Quando inserisci un nuovo paziente, compila i campi richiesti (numero di telefono ed email). Queste informazioni sono utili per tutte le comunicazioni future.
 2. Per i pazienti già inseriti, se i dati sono già presenti, il sistema ti porterà direttamente alla pagina delle prenotazioni senza richiedere ulteriori azioni.
 3. Se per qualche paziente mancano i dati di contatto, ti verrà richiesto di inserirli quando necessario. Se non hai subito queste informazioni, puoi comunque proseguire e aggiornarle in un secondo momento.
@@ -93,7 +92,6 @@ Buongiorno! Certo, è possibile scaricare i file che i pazienti inviano tramite 
 3. Individua il messaggio con l'allegato (ad esempio, un documento o un'immagine).
 4. Clicca sull'allegato: si aprirà la schermata per scaricare il file
 5. Il file verrà salvato sul tuo computer o dispositivo.
-# CONTRADDIZIONE: qui si dice tasto destro → "Salva immagine con nome" per le immagini, ma alla riga ~1979 si dice "clicca sull'allegato e seleziona Salva con nome" per i file dalla chat. Verificare la procedura corretta per ogni tipo di allegato.
 Se invece è un immagine bisogna cliccare con il tasto destro e selezionare "Salva immagine con nome"
 Se hai bisogno di ulteriori dettagli o incontri difficoltà in uno di questi passaggi, fammi sapere e sarò felice di aiutarti! Buona giornata! 😊
 
@@ -694,7 +692,6 @@ Risposta:
 Buongiorno! Grazie mille per il feedback, lo riporto agli sviluppatori così che possano valutarlo.
 
 Se vuoi continuare a lavorare senza inserire le email:
-# CONTRADDIZIONE: qui si dice che l'email è facoltativa, ma alla riga ~55 si dice che telefono ed email sono "campi richiesti". Verificare quale sia il comportamento corretto.
 - Puoi salvare i pazienti con il solo numero di cellulare.
 - Le comunicazioni arriveranno via SMS oppure in app (se il paziente la usa).
 - L'email rimane facoltativa: serve solo per ampliare la reperibilità delle comunicazioni e ridurre i mancati recapiti, ma non è obbligatoria per proseguire.
@@ -995,7 +992,6 @@ Buongiorno, se per un farmaco non è più previsto un Piano Terapeutico ma il pa
 - Verifica se compare un PTE attivo relativo al farmaco.
 
 2) Se esiste un PTE attivo
-# CONTRADDIZIONE: questa procedura (prima senza PT, poi PTE solo se richiesto) contrasta con la riga ~8873 dove si dice direttamente "seleziona il PTE". Verificare quale sia la procedura corretta.
 - Ricrea la ricetta da zero senza selezionare alcun PT. Se Elty propone automaticamente un PT, svuota il campo PT prima dell'invio.
 - Se compare un errore e all'invio viene richiesto il PT, indica il PTE attivo (solo se effettivamente riferito al farmaco che stai prescrivendo).
 
@@ -1025,7 +1021,6 @@ Trulicity non necessita di un vero e proprio piano terapeutico vincolante per la
 Risposta:
 Buongiorno! Grazie mille per il feedback.
 
-# CONTRADDIZIONE: questa procedura (senza nota + Bianca→Rossa, poi senza PT) contrasta con la riga ~8873 dove si dice direttamente "seleziona il PTE". Verificare quale sia la procedura corretta.
 Per prescrivere questi farmaci senza Piano Terapeutico ti consiglio di prescriverli senza nota e poi cambiare la ricetta da Bianca dem a Rossa dem.
 
 Se non funzionasse ti consiglio questi passaggi:
@@ -1377,7 +1372,6 @@ Nel frattempo segui questi passaggi in ordine:
 - Assicurati che lettore e tessera siano inseriti e il Connector aperto.
 - Chiudi e riapri il browser, poi prova di nuovo l'accesso SISS.
 
-# CONTRADDIZIONE: qui si dice solo "Login Cloud Regionale" (senza fare prima logout), ma alla riga ~4427 si dice "Logout Cloud Regionale" e poi "Login Cloud Regionale". Verificare se il logout preventivo è necessario.
 4) Se usi firma remota (SISS Cloud)
 - Esci e rientra: clicca sul tuo nome in alto a destra -> "Login Cloud Regionale".
 - Dopo il login, riprova a validare.
@@ -1416,8 +1410,7 @@ Domanda:
 ciao se possibile vorrei eliminare sto referto che ho allegato per errore, anche se nn l'ho approvato e archiviato, compare cmq nella sezione diario. si può rimuovere per fav? grazie
 
 Risposta:
-# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
-Buongiorno! I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire. Per questo motivo, in molti casi conviene tenerli in cartella. Se vuoi comunque procedere con l'eliminazione, comunicaci nome, cognome e CF del paziente e il referto da rimuovere 😊
+Buongiorno! Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE, condivido il feedback con gli sviluppatori così che possano valutare questa miglioria 😊
 
 ---
 
@@ -1426,8 +1419,7 @@ non ho allegato screenshot con i referti (divebtati due nel frattempo) che avrei
 grazie
 
 Risposta:
-# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
-Buongiorno! I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire, quindi in molti casi conviene tenerli in cartella. Se vuoi comunque procedere, comunicaci il CF della paziente Scialabba Marianna e i referti da rimuovere 😊
+Buongiorno! Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE, condivido il feedback con gli sviluppatori così che possano valutare questa miglioria 😊
 
 ---
 
@@ -1798,10 +1790,9 @@ Buongiorno, quando la stampa dà errore significa che non si è cliccato "Consen
 
 Alla comparsa del popup va necessariamente cliccato "Consenti".
 
-Se è stato negato il consenso si può rimediare cliccando il tasto a sinistra dell'indirizzo "davinci.elty.it" (ha l'icona formata da due piccole righe orizzontali che hanno alle loro estremità dei piccoli cerchi). # MODIFICATO: link aggiornato alla documentazione ufficiale al posto del vecchio link Notion
-Si possono vedere tutte queste informazioni all'interno della guida ufficiale sulla documentazione Elty (sezione "Davinci Connector e stampa"):
+Se è stato negato il consenso si può rimediare cliccando il tasto a sinistra dell'indirizzo "davinci.elty.it" (ha l'icona formata da due piccole righe orizzontali che hanno alle loro estremità dei piccoli cerchi). Si possono vedere tutte queste informazioni all'interno della guida consultabile sul nostro portale (sezione "Ho un "Errore nella stampa"):
 
-https://docs.elty.it/platform/altro/davinci-connector-stampa
+https://davincisalute.notion.site/Configurazione-stampante-3cd492c2e8464a5697fe962cafa5651d
 
 Se con questo passaggio non si è risolto allora si può procedere a una verifica del Connector:
 
@@ -2362,7 +2353,7 @@ Una volta che mi fornirai questi dati, creeremo il profilo.
 2.  Se il profilo infermieristico esiste già:
 Assicurati che siano stati eseguiti questi passaggi:
 -   Dal tuo profilo medico: Vai su Gestione Servizi (cliccando il tuo nome in alto a destra) e assicurati che l'interruttore accanto a Prestazioni infermieristiche sia attivo. Questo permette ai tuoi pazienti di vedere l'agenda dell'infermiera.
--   Dal profilo dell'infermiera/e: L'infermiera/e deve accedere al suo profilo e seguire gli stessi passaggi descritti nel "Caso 1" per creare la prestazione vaccinale e impostare le disponibilità visibili ai pazienti nella sua agenda. # CONTRADDIZIONE: qui si dice "Visibile ai pazienti della medicina di gruppo" ma alle righe ~1319 e ~1898 si dice solo "Visibile ai pazienti". Verificare il nome esatto dell'opzione nell'UI.
+-   Dal profilo dell'infermiera/e: L'infermiera/e deve accedere al suo profilo e seguire gli stessi passaggi descritti nel "Caso 1" per creare la prestazione vaccinale e impostare le disponibilità visibili ai pazienti nella sua agenda.
 L'unica differenza è che gli orari devono essere "Visibile ai pazienti della medicina di gruppo"
 
 Spero che queste indicazioni siano chiare 😊
@@ -2465,7 +2456,6 @@ Ecco come accedere da iPad:
 
 Se hai bisogno di utilizzare il Davinci Connector per funzioni specifiche (come la stampa di ricette), dovrai farlo da un computer Windows o Mac.
 
-# CONTRADDIZIONE: qui la sezione si chiama "Elabora più tardi", ma alla riga ~8222 si chiama "Da elaborare". Verificare il nome corretto nell'UI.
 Volendo, le ricette cartacee possono essere spostate in "Elabora più tardi" e poi stampate massivamente appena si ha accesso al PC.
 
 Da mobile in ogni caso potrai elaborare le ricette dematerializzate (previo collegamento al sistema regionale con firma remota).
@@ -2537,7 +2527,6 @@ Buongiorno, segnalo che non si riesce a prescrivere nulla.
 Aprendo la cartella del paziente esce la scritta "qualcosa è andato storto" e non è possibile visualizzare nè i farmaci in terapia nè cercare farmaci da inserite. Grazie per l'attenzione
 
 Risposta:
-# CONTRADDIZIONE: qui la causa è attribuita al "sistema regionale" con sequenza Profilo/regione → cache → portale regionale. Alla riga ~4724 si dice "potrebbero esserci varie motivazioni" con sequenza cache → URL → screenshot. Alla riga ~7361 si attribuisce ancora al sistema regionale ma si nota che funzionando in incognito il problema potrebbe essere locale (cache/cookie). Le tre diagnosi e sequenze di triage non sono allineate. Verificare e unificare.
 Buongiorno! Quando compare il messaggio "qualcosa è andato storto", di solito si tratta di una temporanea difficoltà di comunicazione con il sistema regionale.
 
 Ti suggerisco di seguire questi passaggi:
@@ -3483,7 +3472,6 @@ Appena mi darai le informazioni richieste potremo approfondire la questione 😊
 ---
 
 Domanda:
-# CONTRADDIZIONE: qui si tratta Elty come "app per i medici" senza correggere, ma alle righe ~3454 e ~9127 si chiarisce che Elty per i medici è una webapp da browser (davinci.elty.it), non un'app da scaricare. Verificare e allineare.
 Non riesco a usare l'app per i medici da mobile inoltre da ieri non riesco a scaricare alcuni referti
 
 Risposta:
@@ -3517,10 +3505,9 @@ Buongiorno!
 
 Per bloccare l'agenda nei giorni prefestivi, puoi creare un evento seguendo questi passaggi:
 
-# CONTRADDIZIONE: qui si dice Agenda → Pianifica → "Nuovo evento", ma alla riga ~3801 si dice di cliccare sul giorno → "Crea evento". Verificare se sono due percorsi equivalenti o se uno è obsoleto.
 1. Vai in "Agenda".
 2. Clicca su "Pianifica" che trovi sulla sinistra.
-3. Seleziona "Nuovo evento".
+3. Seleziona "Evento".
 4. Inserisci un titolo (ad esempio "Chiusura prefestiva"), inserisci l'orario di inizio e di fine dell'evento mettendo la categoria "Ferie" (oppure la durata in minuti nella selezione di default) e assicurati che nel campo "Struttura" sia selezionato "Tutte".
 5. Clicca su "Salva".
 
@@ -3672,7 +3659,8 @@ Buongiorno!
 
 Per quanto riguarda i disservizi, potresti darmi qualche dettaglio in più? Ad esempio, riscontri lentezza, vedi messaggi di errore o hai difficoltà con operazioni specifiche (prescrizioni, agenda, ecc.)?
 
-Per la questione del CF: attualmente non è integrata la ricerca per Codice Fiscale, riporto la miglioria agli sviluppatori, se ci dici il CF possiamo recuperarti noi il nominativo del paziente.
+# MODIFICATO: la ricerca per Codice Fiscale è ora disponibile
+Per la questione del CF: puoi cercare un paziente tramite Codice Fiscale usando la barra di ricerca nella sezione "Pazienti" oppure la lente di ricerca in alto a destra. Basta inserire il CF e il sistema troverà il paziente corrispondente 😊
 
 Appena mi darai maggiori dettagli sui disservizi potrò darti indicazioni più precise 😊
 
@@ -3804,9 +3792,8 @@ Per gestire le chiusure future, puoi:
 - Inserire di nuovo le disponibilità cliccando "Non mostrare disponibilità nei festivi"
 
 Altrimenti puoi creare un evento per bloccare l'intera giornata. Ecco come fare:
-# CONTRADDIZIONE: qui si dice di cliccare sul giorno → "Crea evento", ma alla riga ~3515 si dice Agenda → Pianifica → "Nuovo evento". Verificare se sono due percorsi equivalenti o se uno è obsoleto.
-1. Vai su Agenda e clicca sul giorno che vuoi rendere non disponibile.
-2. Seleziona "Crea evento".
+1. Vai su Agenda e clicca su "Pianifica" sulla sinistra.
+2. Seleziona "Evento".
 3. Inserisci un titolo, ad esempio "Chiusura festività".
 4. Assicurati che copra l'intero orario lavorativo.
 5. Se hai più ambulatori, nel campo "Struttura" seleziona "Tutte".
@@ -4051,8 +4038,7 @@ ciao ho bisogno di eliminare questo referto in mirra antonella essendo di un alt
 Risposta:
 Buongiorno!
 
-# MODIFICATO: i referti FSE si possono eliminare su richiesta (possono ricomparire allo scarico massivo successivo)
-I referti scaricati dal FSE possono essere eliminati su nostra richiesta. Tieni presente però che a ogni nuovo scarico massivo dal FSE potrebbero ricomparire, quindi in molti casi conviene tenerli in cartella.
+Sfortunatamente, attualmente non è possibile cancellare i referti che sono stati scaricati dal FSE. Condivido il feedback con gli sviluppatori così che possano valutare questa miglioria.
 
 Se il referto invece è stato caricato manualmente o inviato tramite app si potrà eliminare cliccando i tre puntini verticali (tasto azione) e selezionando "Elimina" (sia dalla sezione "Referti" generica che dalla sezione "Referti" della scheda paziente). 😊
 
@@ -4426,7 +4412,6 @@ Nel frattempo, ti chiedo di seguire questi passaggi in ordine:
 
 3) Se usi Smart Card
 - Assicurati che lettore e tessera siano inseriti e il Davinci Connector aperto.
-# CONTRADDIZIONE: qui si dice di fare Logout e poi Login Cloud Regionale, ma alla riga ~1382 si dice solo "Login Cloud Regionale" senza il logout. Verificare se il logout preventivo è necessario.
 - Chiudi e riapri il browser, poi prova di nuovo l'accesso SISS (cliccando il tuo nome e cognome in alto a destra → Logout Cloud Regionale e poi Login Cloud Regionale).
 
 4) Se usi firma remota (SISS Cloud)
@@ -4725,7 +4710,6 @@ Potete aiutarci?
 Risposta:
 Buongiorno,
 
-# CONTRADDIZIONE: qui si dice "varie motivazioni" con sequenza cache → URL → screenshot, ma alla riga ~2538 si attribuisce al "sistema regionale" con sequenza Profilo/regione → cache → portale regionale. Le sequenze di triage non sono allineate. Verificare e unificare.
 quando compare il messaggio "qualcosa è andato storto", potrebbero esserci varie motivazioni, in quale momento o dopo quale azione compare questo avviso?
 
 Ecco alcuni passaggi che l'infermiera può seguire per risolvere la questione:
@@ -8225,7 +8209,6 @@ Buongiorno!
 
 Grazie mille per il feedback, lo riporto agli sviluppatori così che possano valutare l'implementazione di una funzione per stampare massivamente le ricette selezionate dall'archivio.
 
-# CONTRADDIZIONE: qui la sezione si chiama "Da elaborare", ma alla riga ~2472 si chiama "Elabora più tardi". Verificare il nome corretto nell'UI.
 Per il momento posso consigliare di mettere le cartacee in "Da elaborare" (così da stamparle massivamente in un unico momento) e per le dematerializzate procedere tramite l'archivio, cliccando i tre puntini verticali "Azioni", "Stampa di nuovo".
 Aggiungo che si possono stampare le dematerializzate massivamente subito dopo la loro elaborazione direttamente dal modale di riepilogo 😊
 
@@ -8888,7 +8871,6 @@ Per risolvere, ti consiglio di seguire questi passaggi:
 
 1. Sincronizza i Piani Terapeutici del paziente. Vai nella sua scheda, sezione Piani Terapeutici, e clicca su “Scarica Elenco Piani Terapeutici”.
 2. Verifica se compare un PTE attivo. Se è presente, il sistema darà priorità a quello, ignorando il tuo PT cartaceo.
-# CONTRADDIZIONE: qui si dice di selezionare direttamente il PTE, ma nelle righe ~995 e ~1024 si dice prima di provare senza PT e usare il PTE solo se richiesto. Verificare quale sia la procedura corretta.
 3. Ricrea la ricetta da zero. Vai in Ricette e crea una nuova prescrizione e seleziona il PTE.
 
 Fammi sapere se risolvi 😊
@@ -9147,9 +9129,8 @@ Buongiorno!
 Elty è una webapp, per usarla all'interno di un altro dispositivo i passaggi sono questi:
 - Apri un browser dall'altra postazione (es. Google Chrome, Safari, Edge ecc.)
 - Accedi a https://davinci.elty.it/ inserendo la tua email e password (se la non la ricordi puoi cliccare "Password dimenticata"
-# MODIFICATO: link aggiornato alla documentazione ufficiale al posto del vecchio link Notion
 - Se devi stampare ricette bisogna scaricare il Davinci Connector, tutte le informazioni le trovi qui:
-https://docs.elty.it/platform/altro/davinci-connector-stampa
+https://davincisalute.notion.site/Configurazione-stampante-3cd492c2e8464a5697fe962cafa5651d
 
 In ogni caso per Windows il link è:
 https://drive.google.com/file/d/1TWLGRZq6db3zRF3Jg2SmeET8rrtf9so-/view?usp=drive_link
