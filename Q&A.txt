@@ -3792,8 +3792,8 @@ Per gestire le chiusure future, puoi:
 - Inserire di nuovo le disponibilità cliccando "Non mostrare disponibilità nei festivi"
 
 Altrimenti puoi creare un evento per bloccare l'intera giornata. Ecco come fare:
-1. Vai su Agenda e clicca su "Pianifica" sulla sinistra.
-2. Seleziona "Evento".
+1. Vai su Agenda e clicca sul giorno che vuoi rendere non disponibile.
+2. Seleziona "Crea evento".
 3. Inserisci un titolo, ad esempio "Chiusura festività".
 4. Assicurati che copra l'intero orario lavorativo.
 5. Se hai più ambulatori, nel campo "Struttura" seleziona "Tutte".
@@ -4078,10 +4078,8 @@ grazie mille
 Risposta:
 Buongiorno!
 
-# MODIFICATO: la ricerca per Codice Fiscale è ora disponibile (email e telefono non ancora integrati)
-Puoi cercare un paziente tramite Nome, Cognome o Codice Fiscale usando la barra di ricerca nella sezione "Pazienti" o la lente di ricerca in alto a destra.
-
-La ricerca tramite email e numero di telefono non è ancora disponibile. In questi casi ci puoi fornire il numero di telefono o l'email del paziente e noi potremo dirti il nome e cognome 😊
+# MODIFICATO: la ricerca per Codice Fiscale, email e numero di telefono è ora disponibile
+Puoi cercare un paziente tramite Nome, Cognome, Codice Fiscale, email o numero di telefono usando la barra di ricerca nella sezione "Pazienti" o la lente di ricerca in alto a destra 😊
 
 ---
 
@@ -4525,8 +4523,7 @@ La funzione di ristampa è disponibile nell'Archivio delle ricette. Per stampare
 - Clicca sui tre puntini verticali che trovi sulla destra della riga della ricetta.
 - Seleziona l'opzione "Stampa di nuovo".
 
-# MODIFICATO: il nome ufficiale è "Davinci Connector" (in alcuni casi chiamato SISS Connector)
-Verifica che il Davinci Connector sia aperto sul tuo computer e configurato correttamente con la stampante che vuoi usare.
+Verifica che il SISS Connector sia aperto sul tuo computer e configurato correttamente con la stampante che vuoi usare.
 Ricordo di controllare le impostazioni del browser:
 - Clicca sull'icona a sinistra dell'indirizzo [davinci.elty.it](http://davinci.elty.it/).
 - Assicurati che l'opzione "Accesso ai dispositivi della rete locale" sia impostata su "Consenti".
@@ -5059,8 +5056,8 @@ Buongiorno,
 
 la procedura che hai seguito è quella corretta. L'inserimento manuale dei parametri è possibile per qualsiasi tipo di referto che carichi, incluse le immagini.
 
-La funzionalità di trascrizione automatica tramite intelligenza artificiale, a cui probabilmente ti riferisci, è al momento sospesa per manutenzione e migliorie. # CONTRADDIZIONE: qui si aggiunge un vincolo regionale (Lombardia e Toscana), ma alla riga ~5858 si dice solo "funziona con CDA2" senza specificare regioni. Verificare e allineare.
-Per il momento possibile la trascrizione automatica dei parametri sui referti in formato CDA2 in Lombardia e in Toscana ma non nelle altre regioni.
+La funzionalità di trascrizione automatica tramite intelligenza artificiale, a cui probabilmente ti riferisci, è al momento sospesa per manutenzione e migliorie.
+Per il momento è possibile la trascrizione automatica dei parametri sui referti in formato CDA2 in Lombardia e in Toscana ma non nelle altre regioni.
 
 Quindi al momento è normale procedere con l'inserimento manuale dei valori dalla sezione Parametri 😊
 
@@ -5846,8 +5843,7 @@ Buongiorno non riesco a convertire  gli esami ematici con AI poiché mi dice NON
 Risposta:
 Buongiorno!
 
-# CONTRADDIZIONE: qui si dice che la trascrizione funziona "solo con CDA2" senza vincoli regionali, ma alla riga ~5072 si dice che funziona "in Lombardia e in Toscana ma non nelle altre regioni". Inoltre alla riga ~6205 si spiega che anche con CDA2 può comparire "Trascrizione non riuscita" se manca la transcodifica. Verificare e allineare.
-Il messaggio che vedi si riferisce al formato CDA2, che è un tipo specifico di referto digitale strutturato. La trascrizione automatica attualmente funziona solo con i referti in questo formato.
+Il messaggio che vedi si riferisce al formato CDA2, che è un tipo specifico di referto digitale strutturato. La trascrizione automatica attualmente funziona solo con i referti in questo formato, in Lombardia e in Toscana.
 
 Al momento il servizio di trascrizione automatica con l'intelligenza artificiale è stato temporaneamente sospeso per manutenzione e per implementare alcune migliorie, quindi è normale che tu non riesca a usarlo.
 
@@ -7314,8 +7310,8 @@ buongiorno,suggerisco la possibilità di mandare via email il certificato di mal
 Risposta:
 Buon pomeriggio!
 
-# MODIFICATO: l'invio dei certificati via email è ora sempre abilitato (vedi Gestione Servizi § 7b)
-L'invio dei certificati in formato PDF tramite e-mail è già disponibile ed è sempre abilitato per tutti i piani. Quando viene creato un certificato, il PDF viene automaticamente inviato al paziente via e-mail secondo le impostazioni di modalità di invio configurate (invio in chiaro o invio protetto) 😊
+# MODIFICATO: l'invio dei certificati via email è ora disponibile
+L'invio dei certificati in formato PDF tramite e-mail è disponibile per i piani Premium e Smart. Per attivarlo, vai in Gestione Servizi e abilita la relativa checkbox. Una volta attivata, quando viene creato un certificato il PDF viene automaticamente inviato al paziente via e-mail 😊
 
 ---
 
@@ -8172,8 +8168,8 @@ grazie per le segnalazioni, le analizziamo punto per punto.
 
 Per il paziente che non visualizza la notifica del certificato, è probabile che non abbia le notifiche push attivate sull'applicazione Elty. Potresti suggerirgli di controllare le impostazioni del suo telefono e dell'app. Il certificato dovrebbe comunque essere visibile per lui all'interno della sezione dedicata.
 
-# MODIFICATO: l'invio certificati via email è sempre abilitato, non richiede attivazione manuale
-Riguardo la possibilità di inviare i certificati via email: questa funzionalità è sempre abilitata per tutti i piani. Quando viene creato un certificato, il PDF viene automaticamente inviato al paziente via e-mail. Non è necessaria alcuna attivazione da parte nostra.
+# MODIFICATO: l'invio certificati via email è ora disponibile per i piani Premium e Smart
+Riguardo la possibilità di inviare i certificati via email: questa funzionalità è disponibile per i piani Premium e Smart. Va attivata da Gestione Servizi abilitando la relativa checkbox. Una volta attivata, quando viene creato un certificato il PDF viene automaticamente inviato al paziente via e-mail.
 
 Per l'errore che riscontri con il pulsante "prolunga", per poterti aiutare avrei bisogno di sapere il nome e cognome del paziente con cui si verifica e, se possibile, il messaggio di errore esatto che compare.
 
@@ -8588,8 +8584,7 @@ Risposta:
 Buongiorno,
 
 questo errore si verifica perché i campi "Residenza" e "Domicilio" si aggiornano in automatico con i dati del sistema regionale.
-# CONTRADDIZIONE: qui si suggerisce di risolvere l'errore indirizzo con la sincronizzazione, ma alle righe ~959 e ~1105 si dice che la soluzione stabile è usare "indirizzo alternativo" con "Utilizza indirizzo alternativo come predefinito" perché la sincronizzazione riporta i dati regionali. Verificare quale sia la procedura corretta.
-Se questo non dovesse accadere le consiglio di utilizzare l'icona della sincronizzazione presente in scheda paziente per forzare questo aggiornamento.
+Se questo non dovesse accadere le consiglio di utilizzare l'icona della sincronizzazione presente in scheda paziente per forzare questo aggiornamento. In alternativa, la soluzione stabile è usare l'"indirizzo alternativo" con l'opzione "Utilizza indirizzo alternativo come predefinito" (la soluzione più adatta dipende dalla regione e dal caso specifico).
 
 In questo modo, per le prossime prescrizioni non ci saranno errori. Fammi sapere se riesci a risolvere 😊
 
