@@ -18,6 +18,7 @@ Quando apri la **scheda paziente**, visualizzerai in alto a sinistra alcune info
 - Codice fiscale del paziente, sesso ed età
 - Telefono principale
 - Nascondi scheda (per non permettere ai medici della medicina di gruppo di visualizzare i dati inseriti nella cartella clinica del paziente, questo vale anche per le AFT)
+- **Tag Caregiver**: se il paziente ha uno o più caregiver verificati, comparirà un’etichetta viola "Caregiver" accanto al nome, con un tooltip "Assistito da {nome caregiver}". Il tag è visibile anche nella ricerca pazienti e nella lista messaggi.
 - Esenzioni (scaricate dal sistema regionale e inserite manualmente, cliccando su “Esenzioni” si possono inserire; si possono inserire anche da “Informazioni generali” sul fondo della scheda paziente)
 - Allergie (cliccando si possono inserire; si possono inserire anche da “Informazioni generali” sul fondo della scheda paziente)
 - Intolleranze (cliccando si possono inserire; si possono inserire anche da “Informazioni generali” sul fondo della scheda paziente)
@@ -194,6 +195,7 @@ La scheda paziente è composta da:
 - Cerca il nome della prestazione singola per inserirla
 - Clicca “Aggiungi pacchetto prestazioni” per poter inserire un pacchetto con all’interno più prestazioni; clicca “Personalizza pacchetti” per poter entrare nella pagina in cui inserire nuovi pacchetti personalizzati di prestazioni o modificare quelli precedentemente creati
 - Dopodiché clicca Salva e prescrivi per avere la bozza di ricetta da elaborare o conferma per aggiungere la prestazione all’interno del box Prestazioni
+- Nella colonna **Misurazione** della tabella Prestazioni è possibile inserire risultati/parametri: per le prestazioni non di laboratorio comparirà il link "**+ Aggiungi**" (in blu) per aprire il pannello di inserimento valori. Per le prestazioni di laboratorio senza codice LOINC ricercabile il link è disabilitato e mostra "Non disponibile"
 
 <Warning>
   Quando viene fatta un'importazione da un'altra cartella clinica si tengono in considerazione (per i box in scheda paziente) i farmaci e le prestazioni prescritti negli ultimi 5 anni.
