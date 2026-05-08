@@ -69,7 +69,8 @@
               "platform/cartella/pai",
               "platform/cartella/fatturazione",
               "platform/cartella/freenet",
-              "platform/cartella/import-dati-di-cartella"
+              "platform/cartella/import-dati-di-cartella",
+              "platform/cartella/profilo-sanitario-sintetico"
             ]
           },
           {
