@@ -1,7 +1,7 @@
 # Ultimo commit analizzato (DavinciSalute/davinci, master)
 
-- **SHA:** `465782431be226f04a4d915efd2c81b5a88daf7e`
-- **Data:** 2026-05-07 14:23:26 UTC
-- **Autore:** pacedavinci
-- **Messaggio:** Merge pull request #9302 from DavinciSalute/feature-sc-119840-comando-aggiornamento-cataloghi
-- **URL:** https://github.com/DavinciSalute/davinci/commit/465782431be226f04a4d915efd2c81b5a88daf7e
+- **SHA:** `60c1498b3eb8866e09c0078bcdb6d053fa08a87c`
+- **Data:** 2026-05-15 09:50:49 UTC
+- **Autore:** danilosammarcodavinci
+- **Messaggio:** Merge pull request #9351 from DavinciSalute/feature-sc-120712--bug-master-on-adminuserupdate
+- **URL:** https://github.com/DavinciSalute/davinci/commit/60c1498b3eb8866e09c0078bcdb6d053fa08a87c
